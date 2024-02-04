@@ -1,39 +1,70 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//pretalx//schedule.fursquared.com//f2-2024//TYGFYV
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pretalx-f2-2024-118@schedule.fursquared.com
-DTSTART:20240223T210000Z
-DTEND:20240223T220000Z
+DTSTART;TZID=CST:20240223T150000
+DTEND;TZID=CST:20240223T160000
 DESCRIPTION:My classic game of secret words and puzzles!  Using only one wo
  rd clues\, try and get your teammate to guess the secret word.  Each round
   has five passwords.  All five passwords together are clues to a riddle/pu
  zzle.  Solving the puzzle wins the round!
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Walker
 SUMMARY:Super Password Plus - Iggy
 URL:https://schedule.fursquared.com/f2-2024/talk/118/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-74@schedule.fursquared.com
-DTSTART:20240223T223000Z
-DTEND:20240223T233000Z
+DTSTART;TZID=CST:20240223T163000
+DTEND;TZID=CST:20240223T173000
 DESCRIPTION:This is a panel to practice and have fun with improv. It's a le
  ss stressful environment than on Whose Lion. We will go over some basics. 
   The focus is on playing some games around working on your craft.
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Walker
 SUMMARY:Improv Workshop - Iggy
 URL:https://schedule.fursquared.com/f2-2024/talk/74/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-69@schedule.fursquared.com
-DTSTART:20240224T160000Z
-DTEND:20240224T170000Z
+DTSTART;TZID=CST:20240224T100000
+DTEND;TZID=CST:20240224T110000
 DESCRIPTION:An interactive thinking game for an audience to play through.  
  A globe and time trotting expedition involving clues and puzzles.  Can the
   group recover the McGuffin before the no-goodnik gets away?
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Walker
 SUMMARY:Iggy and Steele's Globetrotting Challenge - Steele The Warrior\, Ig
  gy
@@ -41,26 +72,26 @@ URL:https://schedule.fursquared.com/f2-2024/talk/69/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-72@schedule.fursquared.com
-DTSTART:20240224T233000Z
-DTEND:20240225T003000Z
+DTSTART;TZID=CST:20240224T173000
+DTEND;TZID=CST:20240224T183000
 DESCRIPTION:A game show where you and a celebrity guest compete to conquer 
  the Pyramid! The game consists of listing things loudly until your teammat
  e says the thing you're describing. There's seven items on the list per ro
  und and they are all of a similar category. Unlike Super Password Plus\, y
  ou can give a definition\, act out the word\, anything you think that'll m
  ake your teammate say the word(s) on the card.
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Pabst
 SUMMARY:Iggy's Pyramid - Iggy
 URL:https://schedule.fursquared.com/f2-2024/talk/72/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-68@schedule.fursquared.com
-DTSTART:20240225T020000Z
-DTEND:20240225T030000Z
+DTSTART;TZID=CST:20240224T200000
+DTEND;TZID=CST:20240224T210000
 DESCRIPTION:A musical variety show featuring a musicians performing a varie
  ty of music together you do not normally see them do.
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Wright
 SUMMARY:Iggy and Friend's Musical Menagerie Matinee - Dittman Rat\, Iggy\, 
  keyotter\, Rhubarb the Nidorino\, Gale Tazzin
@@ -68,11 +99,11 @@ URL:https://schedule.fursquared.com/f2-2024/talk/68/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-73@schedule.fursquared.com
-DTSTART:20240225T060000Z
-DTEND:20240225T070000Z
+DTSTART;TZID=CST:20240225T000000
+DTEND;TZID=CST:20240225T010000
 DESCRIPTION:A completely self-indulgent panel.  You did read the title righ
  t?
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Mitchell
 SUMMARY:Iggy's Self-Indulgent Parlour Games Panel For A Midnight Crowd - Ig
  gy
@@ -80,50 +111,50 @@ URL:https://schedule.fursquared.com/f2-2024/talk/73/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-100@schedule.fursquared.com
-DTSTART:20240225T160000Z
-DTEND:20240225T170000Z
+DTSTART;TZID=CST:20240225T100000
+DTEND;TZID=CST:20240225T110000
 DESCRIPTION:"It was a dark and stormy night\," except then it wasn't. Come 
  join the game where you compose the next line of the story\, and we all vo
  te which line we like the best. That becomes the next line in the story an
  d we repeat this process until we create a masterpiece!
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Pabst
 SUMMARY:Scribbles N Bits - Iggy
 URL:https://schedule.fursquared.com/f2-2024/talk/100/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-117@schedule.fursquared.com
-DTSTART:20240225T190000Z
-DTEND:20240225T200000Z
+DTSTART;TZID=CST:20240225T130000
+DTEND;TZID=CST:20240225T140000
 DESCRIPTION:There aren't enough panels for writers and furs who enjoy writt
  en works. This panel seeks to celebrate written works within the fandom an
  d beyond through oral presentation.
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Mitchell
 SUMMARY:Storytellers - Iggy
 URL:https://schedule.fursquared.com/f2-2024/talk/117/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-71@schedule.fursquared.com
-DTSTART:20240225T200000Z
-DTEND:20240225T210000Z
+DTSTART;TZID=CST:20240225T140000
+DTEND;TZID=CST:20240225T150000
 DESCRIPTION:Iggy's improv show\, featuring a variety of friends who are mos
  tly on the panel to be tortured by Iggy.  The show will feature lesser pla
  yed short-form games (similar to those on Whose Lion) and long form improv
   (stuff you've probably never seen unless you've been to this panel).  
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Wright
 SUMMARY:Iggy's Improv Expo - Iggy
 URL:https://schedule.fursquared.com/f2-2024/talk/71/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-70@schedule.fursquared.com
-DTSTART:20240225T213000Z
-DTEND:20240225T223000Z
+DTSTART;TZID=CST:20240225T153000
+DTEND;TZID=CST:20240225T163000
 DESCRIPTION:Iggy has a bunch of games to play in a game show format.  The m
  ain object is to solve Rebus puzzles by uncovering pieces of it as we play
   games.  
-DTSTAMP:20240204T190844Z
+DTSTAMP:20240204T203403Z
 LOCATION:Wright
 SUMMARY:Iggy's Games for Guinea Pigs - Iggy
 URL:https://schedule.fursquared.com/f2-2024/talk/70/

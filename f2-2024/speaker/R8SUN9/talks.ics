@@ -1,54 +1,85 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//pretalx//schedule.fursquared.com//f2-2024//R8SUN9
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pretalx-f2-2024-15@schedule.fursquared.com
-DTSTART:20240223T183000Z
-DTEND:20240223T193000Z
+DTSTART;TZID=CST:20240223T123000
+DTEND;TZID=CST:20240223T133000
 DESCRIPTION:Are you getting law advice from Reddit? Do you believe you don
  ’t need a lawyer because “you’ve seen enough Law and Order”? Boozy
   tells you why you’re wrong\, and explains common misconceptions about t
  he legal system.
-DTSTAMP:20240204T190847Z
+DTSTAMP:20240204T203406Z
 LOCATION:Mitchell
 SUMMARY:Boozy’s Basic Law - Boozy Badger
 URL:https://schedule.fursquared.com/f2-2024/talk/15/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-16@schedule.fursquared.com
-DTSTART:20240224T210000Z
-DTEND:20240224T220000Z
+DTSTART;TZID=CST:20240224T150000
+DTEND;TZID=CST:20240224T160000
 DESCRIPTION:Boozy and his legal layman\, Alkali Bismuth\, discuss legal new
  s\, with an explanation of how the legal principles are truly messed up. T
  he pair look at an actual legal case\, current or historical\, in a lighth
  earted and profane manner as Boozy tries to get Alkali to understand the l
  aw really can be made up as one goes along. 
-DTSTAMP:20240204T190847Z
+DTSTAMP:20240204T203406Z
 LOCATION:Wright
 SUMMARY:Boozy’s Legal Funhouse  - Alkali Bismuth\, Boozy Badger
 URL:https://schedule.fursquared.com/f2-2024/talk/16/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-86@schedule.fursquared.com
-DTSTART:20240225T033000Z
-DTEND:20240225T043000Z
+DTSTART;TZID=CST:20240224T213000
+DTEND;TZID=CST:20240224T223000
 DESCRIPTION:A charity debate panel where you vote with your dollars. Three 
  debates on irrelevant topics picked from the audience\, argued irreverentl
  y by the panelists\, with the audience picking the winner 
-DTSTAMP:20240204T190847Z
+DTSTAMP:20240204T203406Z
 LOCATION:Wright
 SUMMARY:Mass-Debation (18+) - Boozy Badger
 URL:https://schedule.fursquared.com/f2-2024/talk/86/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-80@schedule.fursquared.com
-DTSTART:20240225T220000Z
-DTEND:20240225T230000Z
+DTSTART;TZID=CST:20240225T160000
+DTEND;TZID=CST:20240225T170000
 DESCRIPTION:Come out and see what happens behind the closed doors of conven
  tions. Sit back and listen to the stories that you were never meant to fin
  d out about\, from our panel of convention staff and board members. Enjoy 
  the stories and find out why that cop was shaking his head while laughing.
-DTSTAMP:20240204T190847Z
+DTSTAMP:20240204T203406Z
 LOCATION:Mitchell
 SUMMARY:Lawyer Horror Stories  - Boozy Badger
 URL:https://schedule.fursquared.com/f2-2024/talk/80/

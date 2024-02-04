@@ -1,10 +1,41 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//pretalx//schedule.fursquared.com//103
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pretalx-f2-2024-103@schedule.fursquared.com
-DTSTART:20240224T230000Z
-DTEND:20240225T000000Z
+DTSTART;TZID=CST:20240224T170000
+DTEND;TZID=CST:20240224T180000
 DESCRIPTION:A look at the history and evolution of animal transformation in
   fiction\, from early mythology to folklore and fables\, from werewolves i
  n cinema to modern day furry comics\, transformation have played a role in
@@ -13,7 +44,7 @@ DESCRIPTION:A look at the history and evolution of animal transformation in
  \, tropes\, visual representations\, and plots common with these works and
   ways they can be expended. This panel summarizes this long history and an
  alyzes themes from these types of stories. 
-DTSTAMP:20240204T190834Z
+DTSTAMP:20240204T203357Z
 LOCATION:Mitchell
 SUMMARY:Shapeshifters & Transformation in Fiction - From Fables to Furry Cu
  lture  - Bash the Piñata

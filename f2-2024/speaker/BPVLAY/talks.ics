@@ -1,14 +1,45 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//pretalx//schedule.fursquared.com//f2-2024//BPVLAY
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pretalx-f2-2024-4@schedule.fursquared.com
-DTSTART:20240224T013000Z
-DTEND:20240224T043000Z
+DTSTART;TZID=CST:20240223T193000
+DTEND;TZID=CST:20240223T223000
 DESCRIPTION:\nTGIF! (Thank God It's Filthy!) (18+)\n\nFeaturing:\nCitrine H
  usky\nA Fox Named Coyote\nPepper Coyote Swearing\nCosmik and Rhubarb\n    
      
-DTSTAMP:20240204T190845Z
+DTSTAMP:20240204T203404Z
 LOCATION:Crystal
 SUMMARY:TGIF! (Thank God It's Filthy!) (18+) - Rhubarb the Bear\, Cosmik\, 
  Citrine Husky\, a fox named coyote\, Pepper Coyote
@@ -16,12 +47,12 @@ URL:https://schedule.fursquared.com/f2-2024/talk/4/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-6@schedule.fursquared.com
-DTSTART:20240225T183000Z
-DTEND:20240225T223000Z
+DTSTART;TZID=CST:20240225T123000
+DTEND;TZID=CST:20240225T163000
 DESCRIPTION:\nMusical Furpile: The Sequel\n\nFeaturing:\nOtter Chaos\nA Fox
   Named Coyote\nShallie Dragon\nJayLaFlame and $udo Normi\nRatmos (Dittman 
  Rat)\nCosmik and Rhubarb and Everyone Else\n        
-DTSTAMP:20240204T190845Z
+DTSTAMP:20240204T203404Z
 LOCATION:Crystal
 SUMMARY:Musical Furpile: The Sequel - Rhubarb the Bear\, Cosmik\, Dittman R
  at\, a fox named coyote\, Shallie Dragon\, keyotter\, Rhubarb the Nidorino
@@ -30,13 +61,13 @@ URL:https://schedule.fursquared.com/f2-2024/talk/6/
 END:VEVENT
 BEGIN:VEVENT
 UID:pretalx-f2-2024-52@schedule.fursquared.com
-DTSTART:20240225T183000Z
-DTEND:20240225T193000Z
+DTSTART;TZID=CST:20240225T123000
+DTEND;TZID=CST:20240225T133000
 DESCRIPTION:Have you been designated your group's forever GM? Or maybe you 
  like worldbuilding or storytelling and want to run a D&D or Pathfinder gam
  e? In this panel\, we'll run through the basics of GMing a game\, ways to 
  streamline your game\, and some common pitfalls to avoid!
-DTSTAMP:20240204T190845Z
+DTSTAMP:20240204T203404Z
 LOCATION:Pabst
 SUMMARY:Get Started GMing! - a fox named coyote\, Ulric Stiltwolf
 URL:https://schedule.fursquared.com/f2-2024/talk/52/

@@ -15,8 +15,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T003000</dtstart>
-            <dtend>20240223T013000</dtend>
+            <dtstart>20240222T183000</dtstart>
+            <dtend>20240222T193000</dtend>
             <duration>1.00000</duration>
             <summary>Songwriting Workshop</summary>
             <description></description>
@@ -41,8 +41,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T020000</dtstart>
-            <dtend>20240223T030000</dtend>
+            <dtstart>20240222T200000</dtstart>
+            <dtend>20240222T210000</dtend>
             <duration>1.00000</duration>
             <summary>Wugs, Kikis, Blorbos, and Scrimblo-Bimblos</summary>
             <description></description>
@@ -65,8 +65,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T010000</dtstart>
-            <dtend>20240223T023000</dtend>
+            <dtstart>20240222T190000</dtstart>
+            <dtend>20240222T203000</dtend>
             <duration>1.03000</duration>
             <summary>Open Mic &amp; Comedy Basics</summary>
             <description></description>
@@ -82,6 +82,30 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>87@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-87</pentabarf:event-slug>
+            <pentabarf:title>MST3K (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T210000</dtstart>
+            <dtend>20240222T230000</dtend>
+            <duration>2.00000</duration>
+            <summary>MST3K (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/87/</url>
+            <location>Crystal</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>64@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-64</pentabarf:event-slug>
@@ -89,8 +113,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T000000</dtstart>
-            <dtend>20240223T010000</dtend>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240222T190000</dtend>
             <duration>1.00000</duration>
             <summary>Hip Hop Dance Meet (18+)</summary>
             <description></description>
@@ -113,8 +137,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T013000</dtstart>
-            <dtend>20240223T023000</dtend>
+            <dtstart>20240222T193000</dtstart>
+            <dtend>20240222T203000</dtend>
             <duration>1.00000</duration>
             <summary>Lern Stuf with Dittman</summary>
             <description></description>
@@ -137,8 +161,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T220000</dtstart>
-            <dtend>20240223T010000</dtend>
+            <dtstart>20240222T160000</dtstart>
+            <dtend>20240222T190000</dtend>
             <duration>3.00000</duration>
             <summary>Sponsor&#x27;s Lounge</summary>
             <description></description>
@@ -163,8 +187,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T150000</dtstart>
-            <dtend>20240223T060000</dtend>
+            <dtstart>20240222T090000</dtstart>
+            <dtend>20240223T000000</dtend>
             <duration>15.00000</duration>
             <summary>Headless Lounge (Founders)</summary>
             <description></description>
@@ -187,8 +211,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T000000</dtstart>
-            <dtend>20240223T020000</dtend>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240222T200000</dtend>
             <duration>2.00000</duration>
             <summary>Your Imagined Furry Fantasy (18+)</summary>
             <description></description>
@@ -211,8 +235,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T000000</dtstart>
-            <dtend>20240223T080000</dtend>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240223T020000</dtend>
             <duration>8.00000</duration>
             <summary>Tabletop Gaming</summary>
             <description></description>
@@ -228,6 +252,30 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>110@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-110</pentabarf:event-slug>
+            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T220000</dtstart>
+            <dtend>20240223T010000</dtend>
+            <duration>3.00000</duration>
+            <summary>Soverign Eclipse</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/110/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>135@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-135</pentabarf:event-slug>
@@ -235,8 +283,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T150000</dtstart>
-            <dtend>20240223T030000</dtend>
+            <dtstart>20240222T090000</dtstart>
+            <dtend>20240222T210000</dtend>
             <duration>12.00000</duration>
             <summary>Registration</summary>
             <description></description>
@@ -259,8 +307,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T110000</dtstart>
-            <dtend>20240222T120000</dtend>
+            <dtstart>20240222T050000</dtstart>
+            <dtend>20240222T060000</dtend>
             <duration>1.00000</duration>
             <summary>Security</summary>
             <description></description>
@@ -283,8 +331,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T180000</dtstart>
-            <dtend>20240223T190000</dtend>
+            <dtstart>20240223T120000</dtstart>
+            <dtend>20240223T130000</dtend>
             <duration>1.00000</duration>
             <summary>ZOIDS! an introduction to Robots and Gunpla</summary>
             <description></description>
@@ -307,8 +355,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T193000</dtstart>
-            <dtend>20240223T210000</dtend>
+            <dtstart>20240223T133000</dtstart>
+            <dtend>20240223T150000</dtend>
             <duration>1.03000</duration>
             <summary>Iron Artist Challenge: Emoji Characters</summary>
             <description></description>
@@ -333,8 +381,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T210000</dtstart>
-            <dtend>20240223T220000</dtend>
+            <dtstart>20240223T150000</dtstart>
+            <dtend>20240223T160000</dtend>
             <duration>1.00000</duration>
             <summary>Super Password Plus</summary>
             <description></description>
@@ -357,8 +405,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T223000</dtstart>
-            <dtend>20240223T233000</dtend>
+            <dtstart>20240223T163000</dtstart>
+            <dtend>20240223T173000</dtend>
             <duration>1.00000</duration>
             <summary>Improv Workshop</summary>
             <description></description>
@@ -381,8 +429,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T000000</dtstart>
-            <dtend>20240224T010000</dtend>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T190000</dtend>
             <duration>1.00000</duration>
             <summary>ISPEAK About Disability </summary>
             <description></description>
@@ -405,8 +453,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T013000</dtstart>
-            <dtend>20240224T033000</dtend>
+            <dtstart>20240223T193000</dtstart>
+            <dtend>20240223T213000</dtend>
             <duration>2.00000</duration>
             <summary>A Complete History of Furry Fandom (18+)</summary>
             <description></description>
@@ -422,6 +470,54 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>24@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-24</pentabarf:event-slug>
+            <pentabarf:title>Church of Garf (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T220000</dtstart>
+            <dtend>20240223T230000</dtend>
+            <duration>1.00000</duration>
+            <summary>Church of Garf (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/24/</url>
+            <location>Walker</location>
+            
+            <attendee>Tapioca</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>104@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-104</pentabarf:event-slug>
+            <pentabarf:title>Sketchbook Swap (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T230000</dtstart>
+            <dtend>20240224T003000</dtend>
+            <duration>1.03000</duration>
+            <summary>Sketchbook Swap (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/104/</url>
+            <location>Walker</location>
+            
+            <attendee>Rouge</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>40@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-40</pentabarf:event-slug>
@@ -429,8 +525,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T183000</dtstart>
-            <dtend>20240223T200000</dtend>
+            <dtstart>20240223T123000</dtstart>
+            <dtend>20240223T140000</dtend>
             <duration>1.03000</duration>
             <summary>Furry Language: The Game Show!</summary>
             <description></description>
@@ -453,8 +549,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T220000</dtstart>
-            <dtend>20240223T230000</dtend>
+            <dtstart>20240223T160000</dtstart>
+            <dtend>20240223T170000</dtend>
             <duration>1.00000</duration>
             <summary>Convention Horror Stories</summary>
             <description></description>
@@ -477,8 +573,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T000000</dtstart>
-            <dtend>20240224T013000</dtend>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T193000</dtend>
             <duration>1.03000</duration>
             <summary>The Original Whose Lion is it Anyway? (18+)</summary>
             <description></description>
@@ -501,8 +597,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T020000</dtstart>
-            <dtend>20240224T033000</dtend>
+            <dtstart>20240223T200000</dtstart>
+            <dtend>20240223T213000</dtend>
             <duration>1.03000</duration>
             <summary>Adults Only Karaoke (18+)</summary>
             <description></description>
@@ -518,25 +614,25 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>87@@schedule.fursquared.com</uid>
+            <uid>19@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-87</pentabarf:event-slug>
-            <pentabarf:title>MST3K (18+)</pentabarf:title>
+            <pentabarf:event-slug>-19</pentabarf:event-slug>
+            <pentabarf:title>CHAIRity AD&amp;D (21+)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T030000</dtstart>
-            <dtend>20240223T050000</dtend>
+            <dtstart>20240223T220000</dtstart>
+            <dtend>20240224T000000</dtend>
             <duration>2.00000</duration>
-            <summary>MST3K (18+)</summary>
+            <summary>CHAIRity AD&amp;D (21+)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Performance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/87/</url>
-            <location>Crystal</location>
+            <url>https://schedule.fursquared.com/f2-2024/talk/19/</url>
+            <location>Wright</location>
             
-            <attendee>Alkali Bismuth</attendee>
+            <attendee>Faelan</attendee>
             
         </vevent>
         
@@ -549,8 +645,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T150000</dtstart>
-            <dtend>20240223T170000</dtend>
+            <dtstart>20240223T090000</dtstart>
+            <dtend>20240223T110000</dtend>
             <duration>2.00000</duration>
             <summary>Concert Block Sound Check</summary>
             <description></description>
@@ -573,8 +669,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T170000</dtstart>
-            <dtend>20240223T180000</dtend>
+            <dtstart>20240223T110000</dtstart>
+            <dtend>20240223T120000</dtend>
             <duration>1.00000</duration>
             <summary>Opening Ceremonies</summary>
             <description></description>
@@ -597,8 +693,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T180000</dtstart>
-            <dtend>20240223T190000</dtend>
+            <dtstart>20240223T120000</dtstart>
+            <dtend>20240223T130000</dtend>
             <duration>1.00000</duration>
             <summary>So This is Your First Fur Con</summary>
             <description></description>
@@ -621,8 +717,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T193000</dtstart>
-            <dtend>20240223T203000</dtend>
+            <dtstart>20240223T133000</dtstart>
+            <dtend>20240223T143000</dtend>
             <duration>1.00000</duration>
             <summary>Fursuit Dance Comp Prelims</summary>
             <description></description>
@@ -645,8 +741,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T203000</dtstart>
-            <dtend>20240223T223000</dtend>
+            <dtstart>20240223T143000</dtstart>
+            <dtend>20240223T163000</dtend>
             <duration>2.00000</duration>
             <summary>DBF Dress Rehearsal (18+)</summary>
             <description></description>
@@ -669,8 +765,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T230000</dtstart>
-            <dtend>20240224T010000</dtend>
+            <dtstart>20240223T170000</dtstart>
+            <dtend>20240223T190000</dtend>
             <duration>2.00000</duration>
             <summary>Charity Dance Off</summary>
             <description></description>
@@ -693,8 +789,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T013000</dtstart>
-            <dtend>20240224T043000</dtend>
+            <dtstart>20240223T193000</dtstart>
+            <dtend>20240223T223000</dtend>
             <duration>3.00000</duration>
             <summary>TGIF! (Thank God It&#x27;s Filthy!) (18+)</summary>
             <description></description>
@@ -718,6 +814,34 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>37@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-37</pentabarf:event-slug>
+            <pentabarf:title>Friday Night Dances</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T230000</dtstart>
+            <dtend>20240224T020000</dtend>
+            <duration>3.00000</duration>
+            <summary>Friday Night Dances</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/37/</url>
+            <location>Crystal</location>
+            
+            <attendee>DodiePOP</attendee>
+            
+            <attendee>DJ Dragon M A A W</attendee>
+            
+            <attendee>Aves</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>130@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-130</pentabarf:event-slug>
@@ -725,8 +849,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T180000</dtstart>
-            <dtend>20240223T190000</dtend>
+            <dtstart>20240223T120000</dtstart>
+            <dtend>20240223T130000</dtend>
             <duration>1.00000</duration>
             <summary>WrestleFur Meetup</summary>
             <description></description>
@@ -749,8 +873,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T193000</dtstart>
-            <dtend>20240223T203000</dtend>
+            <dtstart>20240223T133000</dtstart>
+            <dtend>20240223T143000</dtend>
             <duration>1.00000</duration>
             <summary>Scales &amp; Slime Meetup</summary>
             <description></description>
@@ -773,8 +897,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T203000</dtstart>
-            <dtend>20240223T213000</dtend>
+            <dtstart>20240223T143000</dtstart>
+            <dtend>20240223T153000</dtend>
             <duration>1.00000</duration>
             <summary>Aquatic Meet-Up</summary>
             <description></description>
@@ -797,8 +921,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T220000</dtstart>
-            <dtend>20240223T230000</dtend>
+            <dtstart>20240223T160000</dtstart>
+            <dtend>20240223T170000</dtend>
             <duration>1.00000</duration>
             <summary>Sober/Teetotal Furs Meetup</summary>
             <description></description>
@@ -821,8 +945,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T230000</dtstart>
-            <dtend>20240224T000000</dtend>
+            <dtstart>20240223T170000</dtstart>
+            <dtend>20240223T180000</dtend>
             <duration>1.00000</duration>
             <summary>Warrior Cats Fan Meet Up</summary>
             <description></description>
@@ -845,8 +969,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T003000</dtstart>
-            <dtend>20240224T013000</dtend>
+            <dtstart>20240223T183000</dtstart>
+            <dtend>20240223T193000</dtend>
             <duration>1.00000</duration>
             <summary>Hoosk Meet and Greet! </summary>
             <description></description>
@@ -869,8 +993,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T020000</dtstart>
-            <dtend>20240224T030000</dtend>
+            <dtstart>20240223T200000</dtstart>
+            <dtend>20240223T210000</dtend>
             <duration>1.00000</duration>
             <summary>Therian and Otherkin Meet-up</summary>
             <description></description>
@@ -886,6 +1010,30 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>88@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-88</pentabarf:event-slug>
+            <pentabarf:title>Murrsuit Meetup (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T213000</dtstart>
+            <dtend>20240223T223000</dtend>
+            <duration>1.00000</duration>
+            <summary>Murrsuit Meetup (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/88/</url>
+            <location>Pabst</location>
+            
+            <attendee>Fenlan</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>15@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-15</pentabarf:event-slug>
@@ -893,8 +1041,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T183000</dtstart>
-            <dtend>20240223T193000</dtend>
+            <dtstart>20240223T123000</dtstart>
+            <dtend>20240223T133000</dtend>
             <duration>1.00000</duration>
             <summary>Boozy’s Basic Law</summary>
             <description></description>
@@ -917,8 +1065,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T200000</dtstart>
-            <dtend>20240223T220000</dtend>
+            <dtstart>20240223T140000</dtstart>
+            <dtend>20240223T160000</dtend>
             <duration>2.00000</duration>
             <summary>Furry Choir Open Rehearsal</summary>
             <description></description>
@@ -943,8 +1091,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T223000</dtstart>
-            <dtend>20240223T233000</dtend>
+            <dtstart>20240223T163000</dtstart>
+            <dtend>20240223T173000</dtend>
             <duration>1.00000</duration>
             <summary>Let&#x27;s Record a Song in an Hour!</summary>
             <description></description>
@@ -967,8 +1115,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T000000</dtstart>
-            <dtend>20240224T010000</dtend>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T190000</dtend>
             <duration>1.00000</duration>
             <summary>Let&#x27;s have Shreks</summary>
             <description></description>
@@ -993,8 +1141,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T010000</dtstart>
-            <dtend>20240224T020000</dtend>
+            <dtstart>20240223T190000</dtstart>
+            <dtend>20240223T200000</dtend>
             <duration>1.00000</duration>
             <summary>Furry Writing 101</summary>
             <description></description>
@@ -1017,8 +1165,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T020000</dtstart>
-            <dtend>20240224T033000</dtend>
+            <dtstart>20240223T200000</dtstart>
+            <dtend>20240223T213000</dtend>
             <duration>1.03000</duration>
             <summary>The Devil&#x27;s Advocate - Discussions and Debates (18+)</summary>
             <description></description>
@@ -1034,6 +1182,60 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>44@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-44</pentabarf:event-slug>
+            <pentabarf:title>Furs in Leather Meet (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T220000</dtstart>
+            <dtend>20240223T233000</dtend>
+            <duration>1.03000</duration>
+            <summary>Furs in Leather Meet (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/44/</url>
+            <location>Mitchell</location>
+            
+            <attendee>AnubianArmani (Sir K-Nyne)</attendee>
+            
+            <attendee>NaughtyAnubis</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>95@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-95</pentabarf:event-slug>
+            <pentabarf:title>Pet Play 101 (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T233000</dtstart>
+            <dtend>20240224T003000</dtend>
+            <duration>1.00000</duration>
+            <summary>Pet Play 101 (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/95/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Pup Delta</attendee>
+            
+            <attendee>Pup Griso</attendee>
+            
+            <attendee>Pup Roofus</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>36@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-36</pentabarf:event-slug>
@@ -1041,8 +1243,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T183000</dtstart>
-            <dtend>20240223T193000</dtend>
+            <dtstart>20240223T123000</dtstart>
+            <dtend>20240223T133000</dtend>
             <duration>1.00000</duration>
             <summary>Film Furtography</summary>
             <description></description>
@@ -1065,8 +1267,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T200000</dtstart>
-            <dtend>20240223T210000</dtend>
+            <dtstart>20240223T140000</dtstart>
+            <dtend>20240223T150000</dtend>
             <duration>1.00000</duration>
             <summary>Basics to Running Furmeets </summary>
             <description></description>
@@ -1089,8 +1291,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T213000</dtstart>
-            <dtend>20240223T223000</dtend>
+            <dtstart>20240223T153000</dtstart>
+            <dtend>20240223T163000</dtend>
             <duration>1.00000</duration>
             <summary>Basics to Mix Tapes</summary>
             <description></description>
@@ -1113,8 +1315,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T223000</dtstart>
-            <dtend>20240223T233000</dtend>
+            <dtstart>20240223T163000</dtstart>
+            <dtend>20240223T173000</dtend>
             <duration>1.00000</duration>
             <summary>SEWI Furs Bonfire Meet </summary>
             <description></description>
@@ -1137,8 +1339,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T000000</dtstart>
-            <dtend>20240224T010000</dtend>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T190000</dtend>
             <duration>1.00000</duration>
             <summary>Kaiju And the Furry Fandom</summary>
             <description></description>
@@ -1163,8 +1365,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T013000</dtstart>
-            <dtend>20240224T023000</dtend>
+            <dtstart>20240223T193000</dtstart>
+            <dtend>20240223T203000</dtend>
             <duration>1.00000</duration>
             <summary>Reenacting and Airsofting</summary>
             <description></description>
@@ -1187,8 +1389,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T160000</dtstart>
-            <dtend>20240224T000000</dtend>
+            <dtstart>20240223T100000</dtstart>
+            <dtend>20240223T180000</dtend>
             <duration>8.00000</duration>
             <summary>Dealer&#x27;s Den</summary>
             <description></description>
@@ -1211,8 +1413,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T163000</dtstart>
-            <dtend>20240224T020000</dtend>
+            <dtstart>20240223T103000</dtstart>
+            <dtend>20240223T200000</dtend>
             <duration>9.03000</duration>
             <summary>Sponsor&#x27;s Lounge</summary>
             <description></description>
@@ -1237,8 +1439,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T213000</dtstart>
-            <dtend>20240223T223000</dtend>
+            <dtstart>20240223T153000</dtstart>
+            <dtend>20240223T163000</dtend>
             <duration>1.00000</duration>
             <summary>Furry Merch Swap Meet</summary>
             <description></description>
@@ -1261,8 +1463,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T020000</dtstart>
-            <dtend>20240224T030000</dtend>
+            <dtstart>20240223T200000</dtstart>
+            <dtend>20240223T210000</dtend>
             <duration>1.00000</duration>
             <summary>Gazzy’s Goblet Gauntlet (for Charity!) (21+)</summary>
             <description></description>
@@ -1285,8 +1487,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T190000</dtstart>
-            <dtend>20240224T010000</dtend>
+            <dtstart>20240223T130000</dtstart>
+            <dtend>20240223T190000</dtend>
             <duration>6.00000</duration>
             <summary>Fursuit Photos</summary>
             <description></description>
@@ -1309,8 +1511,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T150000</dtstart>
-            <dtend>20240224T060000</dtend>
+            <dtstart>20240223T090000</dtstart>
+            <dtend>20240224T000000</dtend>
             <duration>15.00000</duration>
             <summary>Headless Lounge (Miller)</summary>
             <description></description>
@@ -1333,8 +1535,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T150000</dtstart>
-            <dtend>20240224T060000</dtend>
+            <dtstart>20240223T090000</dtstart>
+            <dtend>20240224T000000</dtend>
             <duration>15.00000</duration>
             <summary>Headless Lounge (Founders)</summary>
             <description></description>
@@ -1350,25 +1552,25 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>110@@schedule.fursquared.com</uid>
+            <uid>90@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-110</pentabarf:event-slug>
-            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:event-slug>-90</pentabarf:event-slug>
+            <pentabarf:title>Night Market</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T040000</dtstart>
-            <dtend>20240223T070000</dtend>
-            <duration>3.00000</duration>
-            <summary>Soverign Eclipse</summary>
+            <dtstart>20240223T210000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>4.00000</duration>
+            <summary>Night Market</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/110/</url>
-            <location>MacArthur</location>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/90/</url>
+            <location>Juneau</location>
             
-            <attendee>Steele The Warrior</attendee>
+            <attendee>FurSquared Staff</attendee>
             
         </vevent>
         
@@ -1381,8 +1583,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T140000</dtstart>
-            <dtend>20240224T080000</dtend>
+            <dtstart>20240223T080000</dtstart>
+            <dtend>20240224T020000</dtend>
             <duration>18.00000</duration>
             <summary>Tabletop Gaming</summary>
             <description></description>
@@ -1405,8 +1607,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T150000</dtstart>
-            <dtend>20240224T030000</dtend>
+            <dtstart>20240223T090000</dtstart>
+            <dtend>20240223T210000</dtend>
             <duration>12.00000</duration>
             <summary>Registration</summary>
             <description></description>
@@ -1429,8 +1631,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T150000</dtstart>
-            <dtend>20240224T030000</dtend>
+            <dtstart>20240223T090000</dtstart>
+            <dtend>20240223T210000</dtend>
             <duration>12.00000</duration>
             <summary>Operations</summary>
             <description></description>
@@ -1453,8 +1655,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T110000</dtstart>
-            <dtend>20240223T120000</dtend>
+            <dtstart>20240223T050000</dtstart>
+            <dtend>20240223T060000</dtend>
             <duration>1.00000</duration>
             <summary>Security</summary>
             <description></description>
@@ -1477,8 +1679,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T160000</dtstart>
-            <dtend>20240224T060000</dtend>
+            <dtstart>20240223T100000</dtstart>
+            <dtend>20240224T000000</dtend>
             <duration>14.00000</duration>
             <summary>Video Games</summary>
             <description></description>
@@ -1501,8 +1703,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T223000</dtstart>
-            <dtend>20240224T000000</dtend>
+            <dtstart>20240223T163000</dtstart>
+            <dtend>20240223T180000</dtend>
             <duration>1.03000</duration>
             <summary>Mario Kart Tournament</summary>
             <description></description>
@@ -1525,8 +1727,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T190000</dtstart>
-            <dtend>20240223T230000</dtend>
+            <dtstart>20240223T130000</dtstart>
+            <dtend>20240223T170000</dtend>
             <duration>4.00000</duration>
             <summary>Artist&#x27;s Alley</summary>
             <description></description>
@@ -1542,54 +1744,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>24@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-24</pentabarf:event-slug>
-            <pentabarf:title>Church of Garf (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T040000</dtstart>
-            <dtend>20240224T050000</dtend>
-            <duration>1.00000</duration>
-            <summary>Church of Garf (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Art</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/24/</url>
-            <location>Walker</location>
-            
-            <attendee>Tapioca</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>104@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-104</pentabarf:event-slug>
-            <pentabarf:title>Sketchbook Swap (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T050000</dtstart>
-            <dtend>20240224T063000</dtend>
-            <duration>1.03000</duration>
-            <summary>Sketchbook Swap (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Art</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/104/</url>
-            <location>Walker</location>
-            
-            <attendee>Rouge</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>54@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-54</pentabarf:event-slug>
@@ -1597,8 +1751,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T150000</dtstart>
-            <dtend>20240224T170000</dtend>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240224T110000</dtend>
             <duration>2.00000</duration>
             <summary>GrindCove: The Movie Premiere </summary>
             <description></description>
@@ -1621,8 +1775,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T160000</dtstart>
-            <dtend>20240224T170000</dtend>
+            <dtstart>20240224T100000</dtstart>
+            <dtend>20240224T110000</dtend>
             <duration>1.00000</duration>
             <summary>Iggy and Steele&#x27;s Globetrotting Challenge</summary>
             <description></description>
@@ -1647,8 +1801,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T173000</dtstart>
-            <dtend>20240224T203000</dtend>
+            <dtstart>20240224T113000</dtstart>
+            <dtend>20240224T143000</dtend>
             <duration>3.00000</duration>
             <summary>Fursquared 2024 Charity Poker Tournament </summary>
             <description></description>
@@ -1671,8 +1825,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T213000</dtstart>
-            <dtend>20240224T223000</dtend>
+            <dtstart>20240224T153000</dtstart>
+            <dtend>20240224T163000</dtend>
             <duration>1.00000</duration>
             <summary>Aryu&#x27;s Origami How-To</summary>
             <description></description>
@@ -1695,8 +1849,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T230000</dtstart>
-            <dtend>20240225T000000</dtend>
+            <dtstart>20240224T170000</dtstart>
+            <dtend>20240224T180000</dtend>
             <duration>1.00000</duration>
             <summary>Chill Beats Art Cafe</summary>
             <description></description>
@@ -1721,8 +1875,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T000000</dtstart>
-            <dtend>20240225T010000</dtend>
+            <dtstart>20240224T180000</dtstart>
+            <dtend>20240224T190000</dtend>
             <duration>1.00000</duration>
             <summary>85 Years of Fan Convention History </summary>
             <description></description>
@@ -1738,25 +1892,73 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>19@@schedule.fursquared.com</uid>
+            <uid>12@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-19</pentabarf:event-slug>
-            <pentabarf:title>CHAIRity AD&amp;D (21+)</pentabarf:title>
+            <pentabarf:event-slug>-12</pentabarf:event-slug>
+            <pentabarf:title>Babyfur Meet and Greet and Discussion (18+)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T040000</dtstart>
-            <dtend>20240224T060000</dtend>
-            <duration>2.00000</duration>
-            <summary>CHAIRity AD&amp;D (21+)</summary>
+            <dtstart>20240224T210000</dtstart>
+            <dtend>20240224T220000</dtend>
+            <duration>1.00000</duration>
+            <summary>Babyfur Meet and Greet and Discussion (18+)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Performance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/19/</url>
-            <location>Wright</location>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/12/</url>
+            <location>Walker</location>
             
-            <attendee>Faelan</attendee>
+            <attendee>Citrine Husky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>97@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-97</pentabarf:event-slug>
+            <pentabarf:title>Rubberfurs: Meet and Greet! (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T220000</dtstart>
+            <dtend>20240224T230000</dtend>
+            <duration>1.00000</duration>
+            <summary>Rubberfurs: Meet and Greet! (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/97/</url>
+            <location>Walker</location>
+            
+            <attendee>Kizu Watage</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>53@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-53</pentabarf:event-slug>
+            <pentabarf:title>Getting Started With Latex Crafting (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T230000</dtstart>
+            <dtend>20240225T000000</dtend>
+            <duration>1.00000</duration>
+            <summary>Getting Started With Latex Crafting (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/53/</url>
+            <location>Walker</location>
+            
+            <attendee>Purple DragonMage</attendee>
             
         </vevent>
         
@@ -1769,8 +1971,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T173000</dtstart>
-            <dtend>20240224T190000</dtend>
+            <dtstart>20240224T113000</dtstart>
+            <dtend>20240224T130000</dtend>
             <duration>1.03000</duration>
             <summary>Furry Card Sharks</summary>
             <description></description>
@@ -1793,8 +1995,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T193000</dtstart>
-            <dtend>20240224T203000</dtend>
+            <dtstart>20240224T133000</dtstart>
+            <dtend>20240224T143000</dtend>
             <duration>1.00000</duration>
             <summary>Charity Whose Lion is it Anyway?</summary>
             <description></description>
@@ -1817,8 +2019,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T210000</dtstart>
-            <dtend>20240224T220000</dtend>
+            <dtstart>20240224T150000</dtstart>
+            <dtend>20240224T160000</dtend>
             <duration>1.00000</duration>
             <summary>Boozy’s Legal Funhouse </summary>
             <description></description>
@@ -1843,8 +2045,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T223000</dtstart>
-            <dtend>20240224T233000</dtend>
+            <dtstart>20240224T163000</dtstart>
+            <dtend>20240224T173000</dtend>
             <duration>1.00000</duration>
             <summary>I Comedy Better When I&#x27;ve had a Few (18+)</summary>
             <description></description>
@@ -1867,8 +2069,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T020000</dtstart>
-            <dtend>20240225T030000</dtend>
+            <dtstart>20240224T200000</dtstart>
+            <dtend>20240224T210000</dtend>
             <duration>1.00000</duration>
             <summary>Iggy and Friend&#x27;s Musical Menagerie Matinee</summary>
             <description></description>
@@ -1892,29 +2094,49 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>37@@schedule.fursquared.com</uid>
+            <uid>86@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-37</pentabarf:event-slug>
-            <pentabarf:title>Friday Night Dances</pentabarf:title>
+            <pentabarf:event-slug>-86</pentabarf:event-slug>
+            <pentabarf:title>Mass-Debation (18+)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T050000</dtstart>
-            <dtend>20240224T080000</dtend>
-            <duration>3.00000</duration>
-            <summary>Friday Night Dances</summary>
+            <dtstart>20240224T213000</dtstart>
+            <dtend>20240224T223000</dtend>
+            <duration>1.00000</duration>
+            <summary>Mass-Debation (18+)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Dance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/37/</url>
-            <location>Crystal</location>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/86/</url>
+            <location>Wright</location>
             
-            <attendee>DodiePOP</attendee>
+            <attendee>Boozy Badger</attendee>
             
-            <attendee>DJ Dragon M A A W</attendee>
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>129@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-129</pentabarf:event-slug>
+            <pentabarf:title>Who Gave Chewy a Mic! (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T230000</dtstart>
+            <dtend>20240225T000000</dtend>
+            <duration>1.00000</duration>
+            <summary>Who Gave Chewy a Mic! (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/129/</url>
+            <location>Wright</location>
             
-            <attendee>Aves</attendee>
+            <attendee>ChewiesCuz</attendee>
             
         </vevent>
         
@@ -1927,8 +2149,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T173000</dtstart>
-            <dtend>20240224T193000</dtend>
+            <dtstart>20240224T113000</dtstart>
+            <dtend>20240224T133000</dtend>
             <duration>2.00000</duration>
             <summary>Fursuit Dance Competition</summary>
             <description></description>
@@ -1951,8 +2173,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T200000</dtstart>
-            <dtend>20240225T010000</dtend>
+            <dtstart>20240224T140000</dtstart>
+            <dtend>20240224T190000</dtend>
             <duration>5.00000</duration>
             <summary>Musical Furpile and Rock Opera</summary>
             <description></description>
@@ -1989,8 +2211,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T023000</dtstart>
-            <dtend>20240225T043000</dtend>
+            <dtstart>20240224T203000</dtstart>
+            <dtend>20240224T223000</dtend>
             <duration>2.00000</duration>
             <summary>Down Bad Furlesque</summary>
             <description></description>
@@ -2006,25 +2228,51 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>88@@schedule.fursquared.com</uid>
+            <uid>101@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-88</pentabarf:event-slug>
-            <pentabarf:title>Murrsuit Meetup (18+)</pentabarf:title>
+            <pentabarf:event-slug>-101</pentabarf:event-slug>
+            <pentabarf:title>Sensory Friendly Dance</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T033000</dtstart>
-            <dtend>20240224T043000</dtend>
+            <dtstart>20240224T230000</dtstart>
+            <dtend>20240225T000000</dtend>
             <duration>1.00000</duration>
-            <summary>Murrsuit Meetup (18+)</summary>
+            <summary>Sensory Friendly Dance</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/88/</url>
-            <location>Pabst</location>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/101/</url>
+            <location>Crystal</location>
             
-            <attendee>Fenlan</attendee>
+            <attendee>Cosmik</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>98@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-98</pentabarf:event-slug>
+            <pentabarf:title>Saturday Night Dances</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T000000</dtstart>
+            <dtend>20240225T020000</dtend>
+            <duration>2.00000</duration>
+            <summary>Saturday Night Dances</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/98/</url>
+            <location>Crystal</location>
+            
+            <attendee>BlazinFloof</attendee>
+            
+            <attendee>ItsBoomer!?</attendee>
             
         </vevent>
         
@@ -2037,8 +2285,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T163000</dtstart>
-            <dtend>20240224T173000</dtend>
+            <dtstart>20240224T103000</dtstart>
+            <dtend>20240224T113000</dtend>
             <duration>1.00000</duration>
             <summary>So, Your Parents Found Out…</summary>
             <description></description>
@@ -2061,8 +2309,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T180000</dtstart>
-            <dtend>20240224T190000</dtend>
+            <dtstart>20240224T120000</dtstart>
+            <dtend>20240224T130000</dtend>
             <duration>1.00000</duration>
             <summary>Ham Radio 101</summary>
             <description></description>
@@ -2091,8 +2339,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T190000</dtstart>
-            <dtend>20240224T200000</dtend>
+            <dtstart>20240224T130000</dtstart>
+            <dtend>20240224T140000</dtend>
             <duration>1.00000</duration>
             <summary>Field Telephones</summary>
             <description></description>
@@ -2115,8 +2363,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T203000</dtstart>
-            <dtend>20240224T213000</dtend>
+            <dtstart>20240224T143000</dtstart>
+            <dtend>20240224T153000</dtend>
             <duration>1.00000</duration>
             <summary>So You Want to be a Con Artist </summary>
             <description></description>
@@ -2139,8 +2387,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T220000</dtstart>
-            <dtend>20240224T230000</dtend>
+            <dtstart>20240224T160000</dtstart>
+            <dtend>20240224T170000</dtend>
             <duration>1.00000</duration>
             <summary>Home Vocal Recording on a Budget</summary>
             <description></description>
@@ -2163,8 +2411,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T233000</dtstart>
-            <dtend>20240225T003000</dtend>
+            <dtstart>20240224T173000</dtstart>
+            <dtend>20240224T183000</dtend>
             <duration>1.00000</duration>
             <summary>Iggy&#x27;s Pyramid</summary>
             <description></description>
@@ -2180,60 +2428,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>44@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-44</pentabarf:event-slug>
-            <pentabarf:title>Furs in Leather Meet (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T040000</dtstart>
-            <dtend>20240224T053000</dtend>
-            <duration>1.03000</duration>
-            <summary>Furs in Leather Meet (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/44/</url>
-            <location>Mitchell</location>
-            
-            <attendee>AnubianArmani (Sir K-Nyne)</attendee>
-            
-            <attendee>NaughtyAnubis</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>95@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-95</pentabarf:event-slug>
-            <pentabarf:title>Pet Play 101 (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T053000</dtstart>
-            <dtend>20240224T063000</dtend>
-            <duration>1.00000</duration>
-            <summary>Pet Play 101 (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/95/</url>
-            <location>Mitchell</location>
-            
-            <attendee>Pup Delta</attendee>
-            
-            <attendee>Pup Griso</attendee>
-            
-            <attendee>Pup Roofus</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>75@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-75</pentabarf:event-slug>
@@ -2241,8 +2435,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T160000</dtstart>
-            <dtend>20240224T170000</dtend>
+            <dtstart>20240224T100000</dtstart>
+            <dtend>20240224T110000</dtend>
             <duration>1.00000</duration>
             <summary>Intro to Traditional Irish Music</summary>
             <description></description>
@@ -2265,8 +2459,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T170000</dtstart>
-            <dtend>20240224T180000</dtend>
+            <dtstart>20240224T110000</dtstart>
+            <dtend>20240224T120000</dtend>
             <duration>1.00000</duration>
             <summary>Furry/Musician - a Roundtable</summary>
             <description></description>
@@ -2291,8 +2485,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T183000</dtstart>
-            <dtend>20240224T203000</dtend>
+            <dtstart>20240224T123000</dtstart>
+            <dtend>20240224T143000</dtend>
             <duration>2.00000</duration>
             <summary>Live Demo - Painting a Fursona</summary>
             <description></description>
@@ -2315,8 +2509,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T220000</dtstart>
-            <dtend>20240224T230000</dtend>
+            <dtstart>20240224T160000</dtstart>
+            <dtend>20240224T170000</dtend>
             <duration>1.00000</duration>
             <summary>Time to Talk Transformation</summary>
             <description></description>
@@ -2339,8 +2533,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T230000</dtstart>
-            <dtend>20240225T000000</dtend>
+            <dtstart>20240224T170000</dtstart>
+            <dtend>20240224T180000</dtend>
             <duration>1.00000</duration>
             <summary>Shapeshifters &amp; Transformation in Fiction - From Fables to Furry Culture </summary>
             <description></description>
@@ -2356,6 +2550,78 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>127@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-127</pentabarf:event-slug>
+            <pentabarf:title>Vore Furs Meet and Eat (Greet) (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T210000</dtstart>
+            <dtend>20240224T220000</dtend>
+            <duration>1.00000</duration>
+            <summary>Vore Furs Meet and Eat (Greet) (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/127/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Amicus Verum</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>131@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-131</pentabarf:event-slug>
+            <pentabarf:title>Writing Furry Erotica (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T223000</dtstart>
+            <dtend>20240224T233000</dtend>
+            <duration>1.00000</duration>
+            <summary>Writing Furry Erotica (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/131/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>73@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-73</pentabarf:event-slug>
+            <pentabarf:title>Iggy&#x27;s Self-Indulgent Parlour Games Panel For A Midnight Crowd</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T000000</dtstart>
+            <dtend>20240225T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>Iggy&#x27;s Self-Indulgent Parlour Games Panel For A Midnight Crowd</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/73/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>32@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-32</pentabarf:event-slug>
@@ -2363,8 +2629,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T160000</dtstart>
-            <dtend>20240225T000000</dtend>
+            <dtstart>20240224T100000</dtstart>
+            <dtend>20240224T180000</dtend>
             <duration>8.00000</duration>
             <summary>Dealer&#x27;s Den</summary>
             <description></description>
@@ -2387,8 +2653,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T140000</dtstart>
-            <dtend>20240225T080000</dtend>
+            <dtstart>20240224T080000</dtstart>
+            <dtend>20240225T020000</dtend>
             <duration>18.00000</duration>
             <summary>Sponsor&#x27;s Lounge</summary>
             <description></description>
@@ -2413,8 +2679,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T010000</dtstart>
-            <dtend>20240225T023000</dtend>
+            <dtstart>20240224T190000</dtstart>
+            <dtend>20240224T203000</dtend>
             <duration>1.03000</duration>
             <summary>Super Sponsor Dinner</summary>
             <description></description>
@@ -2437,8 +2703,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T180000</dtstart>
-            <dtend>20240225T010000</dtend>
+            <dtstart>20240224T120000</dtstart>
+            <dtend>20240224T190000</dtend>
             <duration>7.00000</duration>
             <summary>Fursuit Photos</summary>
             <description></description>
@@ -2454,30 +2720,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>58@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-58</pentabarf:event-slug>
-            <pentabarf:title>Headless Lounge (Miller)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T150000</dtstart>
-            <dtend>20240225T060000</dtend>
-            <duration>15.00000</duration>
-            <summary>Headless Lounge (Miller)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Convention Event</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/58/</url>
-            <location>Miller</location>
-            
-            <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>56@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-56</pentabarf:event-slug>
@@ -2485,8 +2727,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T150000</dtstart>
-            <dtend>20240225T060000</dtend>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240225T000000</dtend>
             <duration>15.00000</duration>
             <summary>Headless Lounge (Miller)</summary>
             <description></description>
@@ -2502,6 +2744,30 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>58@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-58</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Miller)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240225T000000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Miller)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/58/</url>
+            <location>Miller</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>62@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-62</pentabarf:event-slug>
@@ -2509,8 +2775,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T150000</dtstart>
-            <dtend>20240225T060000</dtend>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240225T000000</dtend>
             <duration>15.00000</duration>
             <summary>Headless Lounge (Founders)</summary>
             <description></description>
@@ -2526,22 +2792,22 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>90@@schedule.fursquared.com</uid>
+            <uid>91@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-90</pentabarf:event-slug>
+            <pentabarf:event-slug>-91</pentabarf:event-slug>
             <pentabarf:title>Night Market</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T030000</dtstart>
-            <dtend>20240224T070000</dtend>
+            <dtstart>20240224T210000</dtstart>
+            <dtend>20240225T010000</dtend>
             <duration>4.00000</duration>
             <summary>Night Market</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Convention Event</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/90/</url>
+            <url>https://schedule.fursquared.com/f2-2024/talk/91/</url>
             <location>Juneau</location>
             
             <attendee>FurSquared Staff</attendee>
@@ -2557,8 +2823,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T140000</dtstart>
-            <dtend>20240225T080000</dtend>
+            <dtstart>20240224T080000</dtstart>
+            <dtend>20240225T020000</dtend>
             <duration>18.00000</duration>
             <summary>Tabletop Gaming</summary>
             <description></description>
@@ -2581,8 +2847,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T180000</dtstart>
-            <dtend>20240224T193000</dtend>
+            <dtstart>20240224T120000</dtstart>
+            <dtend>20240224T133000</dtend>
             <duration>1.03000</duration>
             <summary>Spirit-Animal Guided Meditation</summary>
             <description></description>
@@ -2605,8 +2871,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T203000</dtstart>
-            <dtend>20240224T213000</dtend>
+            <dtstart>20240224T143000</dtstart>
+            <dtend>20240224T153000</dtend>
             <duration>1.00000</duration>
             <summary>The Sensory Hour</summary>
             <description></description>
@@ -2631,8 +2897,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T150000</dtstart>
-            <dtend>20240225T030000</dtend>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240224T210000</dtend>
             <duration>12.00000</duration>
             <summary>Registration</summary>
             <description></description>
@@ -2655,8 +2921,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T150000</dtstart>
-            <dtend>20240225T030000</dtend>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240224T210000</dtend>
             <duration>12.00000</duration>
             <summary>Operations</summary>
             <description></description>
@@ -2679,8 +2945,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T110000</dtstart>
-            <dtend>20240224T120000</dtend>
+            <dtstart>20240224T050000</dtstart>
+            <dtend>20240224T060000</dtend>
             <duration>1.00000</duration>
             <summary>Security</summary>
             <description></description>
@@ -2703,8 +2969,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T160000</dtstart>
-            <dtend>20240225T060000</dtend>
+            <dtstart>20240224T100000</dtstart>
+            <dtend>20240225T000000</dtend>
             <duration>14.00000</duration>
             <summary>Video Games</summary>
             <description></description>
@@ -2727,8 +2993,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T200000</dtstart>
-            <dtend>20240224T230000</dtend>
+            <dtstart>20240224T140000</dtstart>
+            <dtend>20240224T170000</dtend>
             <duration>3.00000</duration>
             <summary>Smash Tournament</summary>
             <description></description>
@@ -2751,8 +3017,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T170000</dtstart>
-            <dtend>20240224T230000</dtend>
+            <dtstart>20240224T110000</dtstart>
+            <dtend>20240224T170000</dtend>
             <duration>6.00000</duration>
             <summary>Artist&#x27;s Alley</summary>
             <description></description>
@@ -2768,78 +3034,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>12@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-12</pentabarf:event-slug>
-            <pentabarf:title>Babyfur Meet and Greet and Discussion (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T030000</dtstart>
-            <dtend>20240225T040000</dtend>
-            <duration>1.00000</duration>
-            <summary>Babyfur Meet and Greet and Discussion (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/12/</url>
-            <location>Walker</location>
-            
-            <attendee>Citrine Husky</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>97@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-97</pentabarf:event-slug>
-            <pentabarf:title>Rubberfurs: Meet and Greet! (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T040000</dtstart>
-            <dtend>20240225T050000</dtend>
-            <duration>1.00000</duration>
-            <summary>Rubberfurs: Meet and Greet! (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/97/</url>
-            <location>Walker</location>
-            
-            <attendee>Kizu Watage</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>53@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-53</pentabarf:event-slug>
-            <pentabarf:title>Getting Started With Latex Crafting (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T050000</dtstart>
-            <dtend>20240225T060000</dtend>
-            <duration>1.00000</duration>
-            <summary>Getting Started With Latex Crafting (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/53/</url>
-            <location>Walker</location>
-            
-            <attendee>Purple DragonMage</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>7@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-7</pentabarf:event-slug>
@@ -2847,8 +3041,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T160000</dtstart>
-            <dtend>20240225T173000</dtend>
+            <dtstart>20240225T100000</dtstart>
+            <dtend>20240225T113000</dtend>
             <duration>1.03000</duration>
             <summary>All Ages Sketchbook Swap</summary>
             <description></description>
@@ -2871,8 +3065,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T180000</dtstart>
-            <dtend>20240225T193000</dtend>
+            <dtstart>20240225T120000</dtstart>
+            <dtend>20240225T133000</dtend>
             <duration>1.03000</duration>
             <summary>Let&#x27;s Make Kandi!</summary>
             <description></description>
@@ -2895,8 +3089,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T200000</dtstart>
-            <dtend>20240225T210000</dtend>
+            <dtstart>20240225T140000</dtstart>
+            <dtend>20240225T150000</dtend>
             <duration>1.00000</duration>
             <summary>Twitch: Reach Affiliate &amp; Grow</summary>
             <description></description>
@@ -2919,8 +3113,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T213000</dtstart>
-            <dtend>20240225T223000</dtend>
+            <dtstart>20240225T153000</dtstart>
+            <dtend>20240225T163000</dtend>
             <duration>1.00000</duration>
             <summary>Career Growth for Furries</summary>
             <description></description>
@@ -2936,54 +3130,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>86@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-86</pentabarf:event-slug>
-            <pentabarf:title>Mass-Debation (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T033000</dtstart>
-            <dtend>20240225T043000</dtend>
-            <duration>1.00000</duration>
-            <summary>Mass-Debation (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Performance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/86/</url>
-            <location>Wright</location>
-            
-            <attendee>Boozy Badger</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>129@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-129</pentabarf:event-slug>
-            <pentabarf:title>Who Gave Chewy a Mic! (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T050000</dtstart>
-            <dtend>20240225T060000</dtend>
-            <duration>1.00000</duration>
-            <summary>Who Gave Chewy a Mic! (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Performance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/129/</url>
-            <location>Wright</location>
-            
-            <attendee>ChewiesCuz</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>28@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-28</pentabarf:event-slug>
@@ -2991,8 +3137,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T150000</dtstart>
-            <dtend>20240225T160000</dtend>
+            <dtstart>20240225T090000</dtstart>
+            <dtend>20240225T100000</dtend>
             <duration>1.00000</duration>
             <summary>Darkglow Fitness!</summary>
             <description></description>
@@ -3017,8 +3163,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T173000</dtstart>
-            <dtend>20240225T193000</dtend>
+            <dtstart>20240225T113000</dtstart>
+            <dtend>20240225T133000</dtend>
             <duration>2.00000</duration>
             <summary>Charity Auction</summary>
             <description></description>
@@ -3041,8 +3187,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T200000</dtstart>
-            <dtend>20240225T210000</dtend>
+            <dtstart>20240225T140000</dtstart>
+            <dtend>20240225T150000</dtend>
             <duration>1.00000</duration>
             <summary>Iggy&#x27;s Improv Expo</summary>
             <description></description>
@@ -3065,8 +3211,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T213000</dtstart>
-            <dtend>20240225T223000</dtend>
+            <dtstart>20240225T153000</dtstart>
+            <dtend>20240225T163000</dtend>
             <duration>1.00000</duration>
             <summary>Iggy&#x27;s Games for Guinea Pigs</summary>
             <description></description>
@@ -3089,8 +3235,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240226T020000</dtstart>
-            <dtend>20240226T040000</dtend>
+            <dtstart>20240225T200000</dtstart>
+            <dtend>20240225T220000</dtend>
             <duration>2.00000</duration>
             <summary>Dead Dog Karaoke</summary>
             <description></description>
@@ -3106,56 +3252,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>101@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-101</pentabarf:event-slug>
-            <pentabarf:title>Sensory Friendly Dance</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T050000</dtstart>
-            <dtend>20240225T060000</dtend>
-            <duration>1.00000</duration>
-            <summary>Sensory Friendly Dance</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Dance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/101/</url>
-            <location>Crystal</location>
-            
-            <attendee>Cosmik</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>98@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-98</pentabarf:event-slug>
-            <pentabarf:title>Saturday Night Dances</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T060000</dtstart>
-            <dtend>20240225T080000</dtend>
-            <duration>2.00000</duration>
-            <summary>Saturday Night Dances</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Dance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/98/</url>
-            <location>Crystal</location>
-            
-            <attendee>BlazinFloof</attendee>
-            
-            <attendee>ItsBoomer!?</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>94@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-94</pentabarf:event-slug>
@@ -3163,8 +3259,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T150000</dtstart>
-            <dtend>20240225T170000</dtend>
+            <dtstart>20240225T090000</dtstart>
+            <dtend>20240225T110000</dtend>
             <duration>2.00000</duration>
             <summary>Otter Chaos! Rehearsal</summary>
             <description></description>
@@ -3189,8 +3285,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T183000</dtstart>
-            <dtend>20240225T223000</dtend>
+            <dtstart>20240225T123000</dtstart>
+            <dtend>20240225T163000</dtend>
             <duration>4.00000</duration>
             <summary>Musical Furpile: The Sequel</summary>
             <description></description>
@@ -3231,8 +3327,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240226T000000</dtstart>
-            <dtend>20240226T010000</dtend>
+            <dtstart>20240225T180000</dtstart>
+            <dtend>20240225T190000</dtend>
             <duration>1.00000</duration>
             <summary>Closing Ceremonies</summary>
             <description></description>
@@ -3255,8 +3351,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T160000</dtstart>
-            <dtend>20240225T170000</dtend>
+            <dtstart>20240225T100000</dtstart>
+            <dtend>20240225T110000</dtend>
             <duration>1.00000</duration>
             <summary>Scribbles N Bits</summary>
             <description></description>
@@ -3279,8 +3375,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T173000</dtstart>
-            <dtend>20240225T183000</dtend>
+            <dtstart>20240225T113000</dtstart>
+            <dtend>20240225T123000</dtend>
             <duration>1.00000</duration>
             <summary>Alternatives to Dungeons &amp; Dragons</summary>
             <description></description>
@@ -3303,8 +3399,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T183000</dtstart>
-            <dtend>20240225T193000</dtend>
+            <dtstart>20240225T123000</dtstart>
+            <dtend>20240225T133000</dtend>
             <duration>1.00000</duration>
             <summary>Get Started GMing!</summary>
             <description></description>
@@ -3329,8 +3425,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T200000</dtstart>
-            <dtend>20240225T210000</dtend>
+            <dtstart>20240225T140000</dtstart>
+            <dtend>20240225T150000</dtend>
             <duration>1.00000</duration>
             <summary>Casting Resin Dice 101</summary>
             <description></description>
@@ -3346,78 +3442,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>127@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-127</pentabarf:event-slug>
-            <pentabarf:title>Vore Furs Meet and Eat (Greet) (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T030000</dtstart>
-            <dtend>20240225T040000</dtend>
-            <duration>1.00000</duration>
-            <summary>Vore Furs Meet and Eat (Greet) (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/127/</url>
-            <location>Mitchell</location>
-            
-            <attendee>Amicus Verum</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>131@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-131</pentabarf:event-slug>
-            <pentabarf:title>Writing Furry Erotica (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T043000</dtstart>
-            <dtend>20240225T053000</dtend>
-            <duration>1.00000</duration>
-            <summary>Writing Furry Erotica (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/131/</url>
-            <location>Mitchell</location>
-            
-            <attendee>Serathin Sabertooth</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>73@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-73</pentabarf:event-slug>
-            <pentabarf:title>Iggy&#x27;s Self-Indulgent Parlour Games Panel For A Midnight Crowd</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T060000</dtstart>
-            <dtend>20240225T070000</dtend>
-            <duration>1.00000</duration>
-            <summary>Iggy&#x27;s Self-Indulgent Parlour Games Panel For A Midnight Crowd</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Performance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/73/</url>
-            <location>Mitchell</location>
-            
-            <attendee>Iggy</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>121@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-121</pentabarf:event-slug>
@@ -3425,8 +3449,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T163000</dtstart>
-            <dtend>20240225T173000</dtend>
+            <dtstart>20240225T103000</dtstart>
+            <dtend>20240225T113000</dtend>
             <duration>1.00000</duration>
             <summary>The Fourth Annual FurSquared Spelling Bee</summary>
             <description></description>
@@ -3449,8 +3473,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T180000</dtstart>
-            <dtend>20240225T190000</dtend>
+            <dtstart>20240225T120000</dtstart>
+            <dtend>20240225T130000</dtend>
             <duration>1.00000</duration>
             <summary>Aquascaping 101</summary>
             <description></description>
@@ -3473,8 +3497,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T190000</dtstart>
-            <dtend>20240225T200000</dtend>
+            <dtstart>20240225T130000</dtstart>
+            <dtend>20240225T140000</dtend>
             <duration>1.00000</duration>
             <summary>Storytellers</summary>
             <description></description>
@@ -3497,8 +3521,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T203000</dtstart>
-            <dtend>20240225T213000</dtend>
+            <dtstart>20240225T143000</dtstart>
+            <dtend>20240225T153000</dtend>
             <duration>1.00000</duration>
             <summary>Name that Tune: Gaming Edition</summary>
             <description></description>
@@ -3521,8 +3545,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T210000</dtstart>
-            <dtend>20240225T220000</dtend>
+            <dtstart>20240225T150000</dtstart>
+            <dtend>20240225T160000</dtend>
             <duration>1.00000</duration>
             <summary>Jackbox Party Time!</summary>
             <description></description>
@@ -3545,8 +3569,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T220000</dtstart>
-            <dtend>20240225T230000</dtend>
+            <dtstart>20240225T160000</dtstart>
+            <dtend>20240225T170000</dtend>
             <duration>1.00000</duration>
             <summary>Lawyer Horror Stories </summary>
             <description></description>
@@ -3569,8 +3593,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T160000</dtstart>
-            <dtend>20240225T220000</dtend>
+            <dtstart>20240225T100000</dtstart>
+            <dtend>20240225T160000</dtend>
             <duration>6.00000</duration>
             <summary>Dealer&#x27;s Den</summary>
             <description></description>
@@ -3593,8 +3617,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T140000</dtstart>
-            <dtend>20240226T000000</dtend>
+            <dtstart>20240225T080000</dtstart>
+            <dtend>20240225T180000</dtend>
             <duration>10.00000</duration>
             <summary>Sponsor&#x27;s Lounge</summary>
             <description></description>
@@ -3619,8 +3643,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T163000</dtstart>
-            <dtend>20240225T220000</dtend>
+            <dtstart>20240225T103000</dtstart>
+            <dtend>20240225T160000</dtend>
             <duration>5.03000</duration>
             <summary>Fursuit Photos</summary>
             <description></description>
@@ -3643,8 +3667,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T150000</dtstart>
-            <dtend>20240226T060000</dtend>
+            <dtstart>20240225T090000</dtstart>
+            <dtend>20240226T000000</dtend>
             <duration>15.00000</duration>
             <summary>Headless Lounge (Miller)</summary>
             <description></description>
@@ -3667,8 +3691,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T150000</dtstart>
-            <dtend>20240226T060000</dtend>
+            <dtstart>20240225T090000</dtstart>
+            <dtend>20240226T000000</dtend>
             <duration>15.00000</duration>
             <summary>Headless Lounge (Founders)</summary>
             <description></description>
@@ -3684,30 +3708,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>91@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-91</pentabarf:event-slug>
-            <pentabarf:title>Night Market</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T030000</dtstart>
-            <dtend>20240225T070000</dtend>
-            <duration>4.00000</duration>
-            <summary>Night Market</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Convention Event</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/91/</url>
-            <location>Juneau</location>
-            
-            <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>157@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-157</pentabarf:event-slug>
@@ -3715,8 +3715,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T140000</dtstart>
-            <dtend>20240226T000000</dtend>
+            <dtstart>20240225T080000</dtstart>
+            <dtend>20240225T180000</dtend>
             <duration>10.00000</duration>
             <summary>Tabletop Gaming</summary>
             <description></description>
@@ -3739,8 +3739,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T160000</dtstart>
-            <dtend>20240225T170000</dtend>
+            <dtstart>20240225T100000</dtstart>
+            <dtend>20240225T110000</dtend>
             <duration>1.00000</duration>
             <summary>Squishy Cuddly Plushie Appreciation</summary>
             <description></description>
@@ -3765,8 +3765,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T150000</dtstart>
-            <dtend>20240225T210000</dtend>
+            <dtstart>20240225T090000</dtstart>
+            <dtend>20240225T150000</dtend>
             <duration>6.00000</duration>
             <summary>Registration</summary>
             <description></description>
@@ -3789,8 +3789,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T150000</dtstart>
-            <dtend>20240225T210000</dtend>
+            <dtstart>20240225T090000</dtstart>
+            <dtend>20240225T150000</dtend>
             <duration>6.00000</duration>
             <summary>Operations</summary>
             <description></description>
@@ -3813,8 +3813,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T110000</dtstart>
-            <dtend>20240225T120000</dtend>
+            <dtstart>20240225T050000</dtstart>
+            <dtend>20240225T060000</dtend>
             <duration>1.00000</duration>
             <summary>Security</summary>
             <description></description>
@@ -3837,8 +3837,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T160000</dtstart>
-            <dtend>20240225T230000</dtend>
+            <dtstart>20240225T100000</dtstart>
+            <dtend>20240225T170000</dtend>
             <duration>7.00000</duration>
             <summary>Video Games</summary>
             <description></description>
@@ -3861,8 +3861,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T170000</dtstart>
-            <dtend>20240225T220000</dtend>
+            <dtstart>20240225T110000</dtstart>
+            <dtend>20240225T160000</dtend>
             <duration>5.00000</duration>
             <summary>Artist&#x27;s Alley</summary>
             <description></description>
