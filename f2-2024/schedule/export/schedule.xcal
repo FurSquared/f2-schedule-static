@@ -22,7 +22,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Talk</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/109/</url>
             <location>Walker</location>
             
@@ -96,7 +96,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Performance</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/87/</url>
             <location>Crystal</location>
             
@@ -204,30 +204,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>133@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-133</pentabarf:event-slug>
-            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240222T200000</dtend>
-            <duration>2.00000</duration>
-            <summary>Your Imagined Furry Fantasy (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/133/</url>
-            <location>MacArthur</location>
-            
-            <attendee>Steele The Warrior</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>154@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-154</pentabarf:event-slug>
@@ -247,6 +223,30 @@
             <location>MacArthur</location>
             
             <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>133@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-133</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240222T200000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/133/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
             
         </vevent>
         
@@ -388,7 +388,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Interactive</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/118/</url>
             <location>Walker</location>
             
@@ -436,7 +436,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Talk</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/77/</url>
             <location>Walker</location>
             
@@ -501,8 +501,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T230000</dtstart>
-            <dtend>20240224T003000</dtend>
+            <dtstart>20240223T233000</dtstart>
+            <dtend>20240224T010000</dtend>
             <duration>1.03000</duration>
             <summary>Sketchbook Swap (18+)</summary>
             <description></description>
@@ -532,7 +532,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Interactive</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/40/</url>
             <location>Wright</location>
             
@@ -556,7 +556,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Talk</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/27/</url>
             <location>Wright</location>
             
@@ -580,7 +580,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Interactive</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/122/</url>
             <location>Wright</location>
             
@@ -628,7 +628,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Performance</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/19/</url>
             <location>Wright</location>
             
@@ -1600,6 +1600,102 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>165@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-165</pentabarf:event-slug>
+            <pentabarf:title>First Big Expedition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T140000</dtstart>
+            <dtend>20240223T150000</dtend>
+            <duration>1.00000</duration>
+            <summary>First Big Expedition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/165/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>166@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-166</pentabarf:event-slug>
+            <pentabarf:title>Second Big Expedition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T190000</dtend>
+            <duration>1.00000</duration>
+            <summary>Second Big Expedition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/166/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>162@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-162</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T200000</dtstart>
+            <dtend>20240223T220000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/162/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>159@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-159</pentabarf:event-slug>
+            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T220000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>3.00000</duration>
+            <summary>Soverign Eclipse</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/159/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>136@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-136</pentabarf:event-slug>
@@ -1744,30 +1840,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>54@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-54</pentabarf:event-slug>
-            <pentabarf:title>GrindCove: The Movie Premiere </pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T090000</dtstart>
-            <dtend>20240224T110000</dtend>
-            <duration>2.00000</duration>
-            <summary>GrindCove: The Movie Premiere </summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Performance</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/54/</url>
-            <location>Walker</location>
-            
-            <attendee>Christine Comedian Buninson</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>69@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-69</pentabarf:event-slug>
@@ -1808,7 +1880,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Interactive</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/45/</url>
             <location>Walker</location>
             
@@ -1964,6 +2036,30 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>54@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-54</pentabarf:event-slug>
+            <pentabarf:title>GrindCove: The Movie Premiere </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240224T110000</dtend>
+            <duration>2.00000</duration>
+            <summary>GrindCove: The Movie Premiere </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/54/</url>
+            <location>Wright</location>
+            
+            <attendee>Christine Comedian Buninson</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>38@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-38</pentabarf:event-slug>
@@ -1978,7 +2074,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Interactive</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/38/</url>
             <location>Wright</location>
             
@@ -2002,7 +2098,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Performance</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/22/</url>
             <location>Wright</location>
             
@@ -2052,7 +2148,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Performance</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/67/</url>
             <location>Wright</location>
             
@@ -2218,7 +2314,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Performance</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/34/</url>
             <location>Crystal</location>
             
@@ -2292,7 +2388,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Talk</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/107/</url>
             <location>Pabst</location>
             
@@ -2356,30 +2452,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>106@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-106</pentabarf:event-slug>
-            <pentabarf:title>So You Want to be a Con Artist </pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T143000</dtstart>
-            <dtend>20240224T153000</dtend>
-            <duration>1.00000</duration>
-            <summary>So You Want to be a Con Artist </summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/106/</url>
-            <location>Pabst</location>
-            
-            <attendee>Bash the Piñata</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>65@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-65</pentabarf:event-slug>
@@ -2411,8 +2483,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T173000</dtstart>
-            <dtend>20240224T183000</dtend>
+            <dtstart>20240224T180000</dtstart>
+            <dtend>20240224T190000</dtend>
             <duration>1.00000</duration>
             <summary>Iggy&#x27;s Pyramid</summary>
             <description></description>
@@ -2435,8 +2507,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T100000</dtstart>
-            <dtend>20240224T110000</dtend>
+            <dtstart>20240224T093000</dtstart>
+            <dtend>20240224T103000</dtend>
             <duration>1.00000</duration>
             <summary>Intro to Traditional Irish Music</summary>
             <description></description>
@@ -2466,7 +2538,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Talk</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/43/</url>
             <location>Mitchell</location>
             
@@ -2542,6 +2614,30 @@
             <status>CONFIRMED</status>
             <category>Talk</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/103/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Bash the Piñata</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>106@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-106</pentabarf:event-slug>
+            <pentabarf:title>So You Want to be a Con Artist </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T183000</dtstart>
+            <dtend>20240224T193000</dtend>
+            <duration>1.00000</duration>
+            <summary>So You Want to be a Con Artist </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/106/</url>
             <location>Mitchell</location>
             
             <attendee>Bash the Piñata</attendee>
@@ -2835,6 +2931,126 @@
             <location>MacArthur</location>
             
             <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>163@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-163</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T140000</dtstart>
+            <dtend>20240224T160000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/163/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>167@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-167</pentabarf:event-slug>
+            <pentabarf:title>Third Big Expedition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T170000</dtstart>
+            <dtend>20240224T180000</dtend>
+            <duration>1.00000</duration>
+            <summary>Third Big Expedition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/167/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>171@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-171</pentabarf:event-slug>
+            <pentabarf:title>Steel&#x27;s Improvised 2-Hour RPG</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T180000</dtstart>
+            <dtend>20240224T200000</dtend>
+            <duration>2.00000</duration>
+            <summary>Steel&#x27;s Improvised 2-Hour RPG</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/171/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>168@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-168</pentabarf:event-slug>
+            <pentabarf:title>Fourth Big Expedition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T200000</dtstart>
+            <dtend>20240224T210000</dtend>
+            <duration>1.00000</duration>
+            <summary>Fourth Big Expedition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/168/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>160@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-160</pentabarf:event-slug>
+            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T220000</dtstart>
+            <dtend>20240225T010000</dtend>
+            <duration>3.00000</duration>
+            <summary>Soverign Eclipse</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/160/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
             
         </vevent>
         
@@ -3194,7 +3410,7 @@
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Performance</category>
+            <category>Main Event</category>
             <url>https://schedule.fursquared.com/f2-2024/talk/71/</url>
             <location>Wright</location>
             
@@ -3285,8 +3501,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T123000</dtstart>
-            <dtend>20240225T163000</dtend>
+            <dtstart>20240225T140000</dtstart>
+            <dtend>20240225T180000</dtend>
             <duration>4.00000</duration>
             <summary>Musical Furpile: The Sequel</summary>
             <description></description>
@@ -3315,6 +3531,30 @@
             <attendee>Cosmik</attendee>
             
             <attendee>Rhubarb the Bear</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>158@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-158</pentabarf:event-slug>
+            <pentabarf:title>Now This is How You Kill the Con</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T170000</dtstart>
+            <dtend>20240225T180000</dtend>
+            <duration>1.00000</duration>
+            <summary>Now This is How You Kill the Con</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Main Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/158/</url>
+            <location>Crystal</location>
+            
+            <attendee>FurSquared Staff</attendee>
             
         </vevent>
         
@@ -3727,6 +3967,102 @@
             <location>MacArthur</location>
             
             <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>169@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-169</pentabarf:event-slug>
+            <pentabarf:title>Fifth Big Expedition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T120000</dtstart>
+            <dtend>20240225T130000</dtend>
+            <duration>1.00000</duration>
+            <summary>Fifth Big Expedition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/169/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>164@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-164</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T140000</dtstart>
+            <dtend>20240225T160000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/164/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>170@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-170</pentabarf:event-slug>
+            <pentabarf:title>Final Big Expedition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T160000</dtstart>
+            <dtend>20240225T173000</dtend>
+            <duration>1.03000</duration>
+            <summary>Final Big Expedition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/170/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>161@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-161</pentabarf:event-slug>
+            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T210000</dtstart>
+            <dtend>20240226T000000</dtend>
+            <duration>3.00000</duration>
+            <summary>Soverign Eclipse</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/161/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
             
         </vevent>
         

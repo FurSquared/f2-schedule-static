@@ -102,7 +102,7 @@
     </div>
     <div class="header-right">
         
-            <span>Version <a href="/f2-2024/schedule/changelog/">1.2</a></span>
+            <span>Version <a href="/f2-2024/schedule/changelog/">1.4</a></span>
             <details class="dropdown">
                 <summary class="btn btn-sm btn-outline-info">
                     <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
@@ -541,7 +541,7 @@
 
 <div class="pretalx-session"
      id="109"
-     style="--track-color:#957A52"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -570,7 +570,7 @@
             </div>
         
         <div class="bottom-info">
-            <div class="track">Talk</div>
+            <div class="track">Main Event</div>
             <div class="room">Walker</div>
         </div>
     </div>
@@ -729,7 +729,7 @@
 
 <div class="pretalx-session"
      id="87"
-     style="--track-color:#D5724A"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -758,7 +758,7 @@
             </div>
         
         <div class="bottom-info">
-            <div class="track">Performance</div>
+            <div class="track">Main Event</div>
             <div class="room">Crystal</div>
         </div>
     </div>
@@ -1584,7 +1584,7 @@
 
 <div class="pretalx-session"
      id="40"
-     style="--track-color:#AA744F"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -1613,7 +1613,7 @@
             </div>
         
         <div class="bottom-info">
-            <div class="track">Interactive</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
         </div>
     </div>
@@ -1908,6 +1908,53 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
                         
                             <div class="bucket-time"></div>
                             
+                                <a href="/f2-2024/talk/165/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="165"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                First Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
                                 <a href="/f2-2024/talk/39/">
                             
                             
@@ -2055,7 +2102,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 
 <div class="pretalx-session"
      id="118"
-     style="--track-color:#AA744F"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -2084,7 +2131,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
             </div>
         
         <div class="bottom-info">
-            <div class="track">Interactive</div>
+            <div class="track">Main Event</div>
             <div class="room">Walker</div>
         </div>
     </div>
@@ -2196,7 +2243,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 
 <div class="pretalx-session"
      id="27"
-     style="--track-color:#957A52"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -2225,7 +2272,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
             </div>
         
         <div class="bottom-info">
-            <div class="track">Talk</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
         </div>
     </div>
@@ -2572,7 +2619,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 
 <div class="pretalx-session"
      id="77"
-     style="--track-color:#957A52"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -2601,7 +2648,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
             </div>
         
         <div class="bottom-info">
-            <div class="track">Talk</div>
+            <div class="track">Main Event</div>
             <div class="room">Walker</div>
         </div>
     </div>
@@ -2707,13 +2754,60 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
                         
                             <div class="bucket-time"></div>
                             
+                                <a href="/f2-2024/talk/166/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="166"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Second Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
                                 <a href="/f2-2024/talk/122/">
                             
                             
 
 <div class="pretalx-session"
      id="122"
-     style="--track-color:#AA744F"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -2742,7 +2836,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
             </div>
         
         <div class="bottom-info">
-            <div class="track">Interactive</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
         </div>
     </div>
@@ -3180,6 +3274,53 @@ Cosmik and Rhubarb</p>
                                 </a>
                             
                         
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/162/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="162"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            20:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Your Imagined Furry Fantasy (18+)
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This light-hearted RPG-esque system was borne of frisky fantasy, silly stories of over-the-top shenanigans.  Gameplay gives players a different perspective on the psychology behind modern-day sexuality in a silly-fun and sex-positive way!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
                             <div class="bucket-time">21:00</div>
                             
                                 <a href="/f2-2024/talk/90/">
@@ -3287,7 +3428,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 
 <div class="pretalx-session"
      id="19"
-     style="--track-color:#D5724A"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -3316,7 +3457,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Performance</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
         </div>
     </div>
@@ -3422,6 +3563,53 @@ Join Armani (Midsouth Kink and leather Sir 2024) and NaughtyAnubis in<br>
                                 </a>
                             
                         
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/159/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="159"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            22:00
+        </div>
+        <div class="duration">
+            180min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Soverign Eclipse
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come test out a new Furry sci-fi game being written by SteelTheWarrior. Choose from a massive assortment of Species and Scion combinations, and explore an immensely dynamic and complex new universe full of mystery, intrigue and betrayal!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
                             <div class="bucket-time">23:00</div>
                             
                                 <a href="/f2-2024/talk/37/">
@@ -3471,53 +3659,6 @@ Aves 1am (Hard Dance)</p>
                                 </a>
                             
                         
-                            <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/104/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="104"
-     style="--track-color:#F2C86E"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            23:00
-        </div>
-        <div class="duration">
-            90min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Sketchbook Swap (18+)
-            
-        </div>
-        
-            <div class="speakers">
-                Rouge
-            </div>
-        
-        
-            <div class="abstract">
-                <p>Put your sketchbook in the pile, pick up another one, and draw something you think they would like! Bringing character references is encouraged. Sketchbook owners may indicate whether or not they would like to receive NSFW artwork with provided bookmarks.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Art</div>
-            <div class="room">Walker</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
                             <div class="bucket-time">23:30</div>
                             
                                 <a href="/f2-2024/talk/95/">
@@ -3557,6 +3698,53 @@ Aves 1am (Hard Dance)</p>
         <div class="bottom-info">
             <div class="track">Meetup</div>
             <div class="room">Mitchell</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/104/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="104"
+     style="--track-color:#F2C86E"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            23:30
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Sketchbook Swap (18+)
+            
+        </div>
+        
+            <div class="speakers">
+                Rouge
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Put your sketchbook in the pile, pick up another one, and draw something you think they would like! Bringing character references is encouraged. Sketchbook owners may indicate whether or not they would like to receive NSFW artwork with provided bookmarks.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Art</div>
+            <div class="room">Walker</div>
         </div>
     </div>
 </div>
@@ -3757,7 +3945,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
         
         <div class="bottom-info">
             <div class="track">Performance</div>
-            <div class="room">Walker</div>
+            <div class="room">Wright</div>
         </div>
     </div>
 </div>
@@ -4001,6 +4189,53 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
                                 </a>
                             
                         
+                            <div class="bucket-time">09:30</div>
+                            
+                                <a href="/f2-2024/talk/75/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="75"
+     style="--track-color:#D5724A"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Intro to Traditional Irish Music
+            
+        </div>
+        
+            <div class="speakers">
+                Naoise
+            </div>
+        
+        
+            <div class="abstract">
+                <p>“Intro to Traditional Irish Music” is a hybrid presentation AND performance panel that takes the inner workings of fine details of traditional Irish music and explains them with accessible language accompanied by live performance of various Irish tunes. The presentation aims to cover and explain the types of Irish tunes (such as fast reels, or slow airs) and how each is different; and also bring a visual explanation of how ornamentation is played on the Irish flute specifically. Attendees get to enjoy both a presentation and a variety of music all in one. </p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Performance</div>
+            <div class="room">Mitchell</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
                             <div class="bucket-time">10:00</div>
                             
                                 <a href="/f2-2024/talk/32/">
@@ -4097,53 +4332,6 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
                         
                             <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/75/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="75"
-     style="--track-color:#D5724A"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            10:00
-        </div>
-        <div class="duration">
-            60min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Intro to Traditional Irish Music
-            
-        </div>
-        
-            <div class="speakers">
-                Naoise
-            </div>
-        
-        
-            <div class="abstract">
-                <p>“Intro to Traditional Irish Music” is a hybrid presentation AND performance panel that takes the inner workings of fine details of traditional Irish music and explains them with accessible language accompanied by live performance of various Irish tunes. The presentation aims to cover and explain the types of Irish tunes (such as fast reels, or slow airs) and how each is different; and also bring a visual explanation of how ornamentation is played on the Irish flute specifically. Attendees get to enjoy both a presentation and a variety of music all in one. </p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Performance</div>
-            <div class="room">Mitchell</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
                                 <a href="/f2-2024/talk/147/">
                             
                             
@@ -4197,7 +4385,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 
 <div class="pretalx-session"
      id="107"
-     style="--track-color:#957A52"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -4226,7 +4414,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Talk</div>
+            <div class="track">Main Event</div>
             <div class="room">Pabst</div>
         </div>
     </div>
@@ -4291,7 +4479,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 
 <div class="pretalx-session"
      id="43"
-     style="--track-color:#957A52"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -4320,7 +4508,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Talk</div>
+            <div class="track">Main Event</div>
             <div class="room">Mitchell</div>
         </div>
     </div>
@@ -4338,7 +4526,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 
 <div class="pretalx-session"
      id="38"
-     style="--track-color:#AA744F"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -4367,7 +4555,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Interactive</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
         </div>
     </div>
@@ -4385,7 +4573,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 
 <div class="pretalx-session"
      id="45"
-     style="--track-color:#AA744F"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -4414,7 +4602,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Interactive</div>
+            <div class="track">Main Event</div>
             <div class="room">Walker</div>
         </div>
     </div>
@@ -4714,7 +4902,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 
 <div class="pretalx-session"
      id="22"
-     style="--track-color:#D5724A"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -4743,7 +4931,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Performance</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
         </div>
     </div>
@@ -4855,45 +5043,45 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
                                 </a>
                             
                         
-                            <div class="bucket-time">14:30</div>
+                            <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/106/">
+                                <a href="/f2-2024/talk/163/">
                             
                             
 
 <div class="pretalx-session"
-     id="106"
-     style="--track-color:#957A52"
+     id="163"
+     style="--track-color:#826760"
 >
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            14:30
+            14:00
         </div>
         <div class="duration">
-            60min
+            120min
         </div>
     </div>
     <div class="pretalx-session-info">
         <div class="title">
             
                 
-                So You Want to be a Con Artist 
+                Your Imagined Furry Fantasy (18+)
             
         </div>
         
             <div class="speakers">
-                Bash the Piñata
+                Steele The Warrior
             </div>
         
         
             <div class="abstract">
-                <p>Artists have found a profession vending in artist alleys across the country. Would you like to join? Learn the behind the scenes tips for vending, how to best approach the different application processes, the physiology behind the best booth displays, what sells, what is tax deductible. Whether a novice or veteran vendor, this is a popular panel that has information for everyone!</p>
+                <p>This light-hearted RPG-esque system was borne of frisky fantasy, silly stories of over-the-top shenanigans.  Gameplay gives players a different perspective on the psychology behind modern-day sexuality in a silly-fun and sex-positive way!</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Talk</div>
-            <div class="room">Pabst</div>
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
         </div>
     </div>
 </div>
@@ -4902,7 +5090,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
                                 </a>
                             
                         
-                            <div class="bucket-time"></div>
+                            <div class="bucket-time">14:30</div>
                             
                                 <a href="/f2-2024/talk/123/">
                             
@@ -5145,7 +5333,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 
 <div class="pretalx-session"
      id="67"
-     style="--track-color:#D5724A"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -5174,7 +5362,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Performance</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
         </div>
     </div>
@@ -5278,20 +5466,20 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
                                 </a>
                             
                         
-                            <div class="bucket-time">17:30</div>
+                            <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/72/">
+                                <a href="/f2-2024/talk/167/">
                             
                             
 
 <div class="pretalx-session"
-     id="72"
-     style="--track-color:#AA744F"
+     id="167"
+     style="--track-color:#826760"
 >
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:30
+            17:00
         </div>
         <div class="duration">
             60min
@@ -5301,22 +5489,22 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
         <div class="title">
             
                 
-                Iggy&#x27;s Pyramid
+                Third Big Expedition
             
         </div>
         
             <div class="speakers">
-                Iggy
+                Steele The Warrior
             </div>
         
         
             <div class="abstract">
-                <p>A game show where you and a celebrity guest compete to conquer the Pyramid! The game consists of listing things loudly until your teammate says the thing you're describing. There's seven items on the list per round and they are all of a similar category. Unlike Super Password Plus, you can give a definition, act out the word, anything you think that'll make your teammate say the word(s) on the card.</p>
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Interactive</div>
-            <div class="room">Pabst</div>
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
         </div>
     </div>
 </div>
@@ -5364,6 +5552,147 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
         <div class="bottom-info">
             <div class="track">Talk</div>
             <div class="room">Walker</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/72/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="72"
+     style="--track-color:#AA744F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Iggy&#x27;s Pyramid
+            
+        </div>
+        
+            <div class="speakers">
+                Iggy
+            </div>
+        
+        
+            <div class="abstract">
+                <p>A game show where you and a celebrity guest compete to conquer the Pyramid! The game consists of listing things loudly until your teammate says the thing you're describing. There's seven items on the list per round and they are all of a similar category. Unlike Super Password Plus, you can give a definition, act out the word, anything you think that'll make your teammate say the word(s) on the card.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Interactive</div>
+            <div class="room">Pabst</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/171/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="171"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Steel&#x27;s Improvised 2-Hour RPG
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>After quick character creation, this session will be a %100 "Randomly &amp; Procedurally Generated" game where everything from the NPCs, to the locations, to the very plot itself will be determined, on-the-fly, by the dice! Nobody knows where fate will take the characters you make for this game!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">18:30</div>
+                            
+                                <a href="/f2-2024/talk/106/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="106"
+     style="--track-color:#957A52"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:30
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                So You Want to be a Con Artist 
+            
+        </div>
+        
+            <div class="speakers">
+                Bash the Piñata
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Artists have found a profession vending in artist alleys across the country. Would you like to join? Learn the behind the scenes tips for vending, how to best approach the different application processes, the physiology behind the best booth displays, what sells, what is tax deductible. Whether a novice or veteran vendor, this is a popular panel that has information for everyone!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Talk</div>
+            <div class="room">Mitchell</div>
         </div>
     </div>
 </div>
@@ -5421,6 +5750,53 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
                         
                             <div class="bucket-time">20:00</div>
                             
+                                <a href="/f2-2024/talk/168/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="168"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            20:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Fourth Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
                                 <a href="/f2-2024/talk/68/">
                             
                             
@@ -5474,7 +5850,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 
 <div class="pretalx-session"
      id="34"
-     style="--track-color:#D5724A"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -5503,7 +5879,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Performance</div>
+            <div class="track">Main Event</div>
             <div class="room">Crystal</div>
         </div>
     </div>
@@ -5745,6 +6121,53 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
         <div class="bottom-info">
             <div class="track">Meetup</div>
             <div class="room">Walker</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/160/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="160"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            22:00
+        </div>
+        <div class="duration">
+            180min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Soverign Eclipse
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come test out a new Furry sci-fi game being written by SteelTheWarrior. Choose from a massive assortment of Species and Scion combinations, and explore an immensely dynamic and complex new universe full of mystery, intrigue and betrayal!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
         </div>
     </div>
 </div>
@@ -6987,6 +7410,53 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
                         
                             <div class="bucket-time"></div>
                             
+                                <a href="/f2-2024/talk/169/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="169"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Fifth Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
                                 <a href="/f2-2024/talk/83/">
                             
                             
@@ -7071,60 +7541,6 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
         <div class="bottom-info">
             <div class="track">Talk</div>
             <div class="room">Pabst</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/6/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="6"
-     style="--track-color:#B0B759"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            12:30
-        </div>
-        <div class="duration">
-            240min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Musical Furpile: The Sequel
-            
-        </div>
-        
-            <div class="speakers">
-                Rhubarb the Nidorino, keyotter, Gale Tazzin, a fox named coyote, Shallie Dragon, JayLaFlame, $udo Normi, Dittman Rat, Cosmik, Rhubarb the Bear
-            </div>
-        
-        
-            <div class="abstract">
-                <p>Musical Furpile: The Sequel</p>
-<p>Featuring:<br>
-Otter Chaos<br>
-A Fox Named Coyote<br>
-Shallie Dragon<br>
-JayLaFlame and $udo Normi<br>
-Ratmos (Dittman Rat)<br>
-Cosmik and Rhubarb and Everyone Else</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Concert</div>
-            <div class="room">Crystal</div>
         </div>
     </div>
 </div>
@@ -7236,7 +7652,7 @@ Stick around until the end for special die giveaway too!</p>
 
 <div class="pretalx-session"
      id="71"
-     style="--track-color:#D5724A"
+     style="--track-color:#B05B44"
 >
     <div class="pretalx-session-time-box">
         
@@ -7265,8 +7681,62 @@ Stick around until the end for special die giveaway too!</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Performance</div>
+            <div class="track">Main Event</div>
             <div class="room">Wright</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/6/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="6"
+     style="--track-color:#B0B759"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            240min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Musical Furpile: The Sequel
+            
+        </div>
+        
+            <div class="speakers">
+                Rhubarb the Nidorino, keyotter, Gale Tazzin, a fox named coyote, Shallie Dragon, JayLaFlame, $udo Normi, Dittman Rat, Cosmik, Rhubarb the Bear
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Musical Furpile: The Sequel</p>
+<p>Featuring:<br>
+Otter Chaos<br>
+A Fox Named Coyote<br>
+Shallie Dragon<br>
+JayLaFlame and $udo Normi<br>
+Ratmos (Dittman Rat)<br>
+Cosmik and Rhubarb and Everyone Else</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Concert</div>
+            <div class="room">Crystal</div>
         </div>
     </div>
 </div>
@@ -7314,6 +7784,53 @@ Stick around until the end for special die giveaway too!</p>
         <div class="bottom-info">
             <div class="track">Talk</div>
             <div class="room">Walker</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/164/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="164"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Your Imagined Furry Fantasy (18+)
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This light-hearted RPG-esque system was borne of frisky fantasy, silly stories of over-the-top shenanigans.  Gameplay gives players a different perspective on the psychology behind modern-day sexuality in a silly-fun and sex-positive way!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
         </div>
     </div>
 </div>
@@ -7512,6 +8029,53 @@ Stick around until the end for special die giveaway too!</p>
                         
                             <div class="bucket-time">16:00</div>
                             
+                                <a href="/f2-2024/talk/170/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="170"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Final Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
                                 <a href="/f2-2024/talk/80/">
                             
                             
@@ -7549,6 +8113,53 @@ Stick around until the end for special die giveaway too!</p>
         <div class="bottom-info">
             <div class="track">Talk</div>
             <div class="room">Mitchell</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">17:00</div>
+                            
+                                <a href="/f2-2024/talk/158/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="158"
+     style="--track-color:#B05B44"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Now This is How You Kill the Con
+            
+        </div>
+        
+            <div class="speakers">
+                FurSquared Staff
+            </div>
+        
+        
+            <div class="abstract">
+                <p>As is tradition, join us for our madcap Closing Ceremonies pre-show. Part charity event, part Bohemian Rhapsody singalong, all furry chaos.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Main Event</div>
+            <div class="room">Crystal</div>
         </div>
     </div>
 </div>
@@ -7651,6 +8262,53 @@ Stick around until the end for special die giveaway too!</p>
                                 </a>
                             
                         
+                            <div class="bucket-time">21:00</div>
+                            
+                                <a href="/f2-2024/talk/161/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="161"
+     style="--track-color:#826760"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            21:00
+        </div>
+        <div class="duration">
+            180min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Soverign Eclipse
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come test out a new Furry sci-fi game being written by SteelTheWarrior. Choose from a massive assortment of Species and Scion combinations, and explore an immensely dynamic and complex new universe full of mystery, intrigue and betrayal!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
                     
                 </div>
             
@@ -7675,7 +8333,7 @@ Stick around until the end for special die giveaway too!</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-04 14:33 CST
+                        This is a static export generated at 2024-02-04 15:54 CST
                     </div>
                 
                 
