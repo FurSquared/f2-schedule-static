@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//10
+BEGIN:VEVENT
+UID:pretalx-f2-2024-10@schedule.fursquared.com
+DTSTART:20240223T203000Z
+DTEND:20240223T213000Z
+DESCRIPTION:Sharks\, dolphins\, whales\, otters\, and more! Come and hang o
+ ut with the aquatics. Or\, if you are not one\, come out and learn about w
+ hat makes us so amazing!
+DTSTAMP:20240204T190827Z
+LOCATION:Pabst
+SUMMARY:Aquatic Meet-Up - Konnor Unuki
+URL:https://schedule.fursquared.com/f2-2024/talk/10/
+END:VEVENT
+END:VCALENDAR

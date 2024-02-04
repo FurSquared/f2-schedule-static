@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//67
+BEGIN:VEVENT
+UID:pretalx-f2-2024-67@schedule.fursquared.com
+DTSTART:20240224T223000Z
+DTEND:20240224T233000Z
+DESCRIPTION:I have no idea what is going to happen at this charity event\, 
+ but it is for a good cause. Show up\, throw some money into the hat and en
+ joy the show. And for those of you that asked for this on twitter… I hop
+ e you’re happy.
+DTSTAMP:20240204T190832Z
+LOCATION:Wright
+SUMMARY:I Comedy Better When I've had a Few (18+) - Alkali Bismuth
+URL:https://schedule.fursquared.com/f2-2024/talk/67/
+END:VEVENT
+END:VCALENDAR

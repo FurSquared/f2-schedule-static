@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//EYWRFL
+BEGIN:VEVENT
+UID:pretalx-f2-2024-123@schedule.fursquared.com
+DTSTART:20240224T203000Z
+DTEND:20240224T213000Z
+DESCRIPTION:An hour for neurodivergent friends to come together in a quiete
+ r area. Suits recommended but not needed (this is a safe space). Sensory i
+ tems and card games are welcomed! Slow paced fun!
+DTSTAMP:20240204T190851Z
+LOCATION:Usinger
+SUMMARY:The Sensory Hour - Scamper\, Hoonig
+URL:https://schedule.fursquared.com/f2-2024/talk/123/
+END:VEVENT
+END:VCALENDAR

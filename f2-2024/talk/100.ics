@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//100
+BEGIN:VEVENT
+UID:pretalx-f2-2024-100@schedule.fursquared.com
+DTSTART:20240225T160000Z
+DTEND:20240225T170000Z
+DESCRIPTION:"It was a dark and stormy night\," except then it wasn't. Come 
+ join the game where you compose the next line of the story\, and we all vo
+ te which line we like the best. That becomes the next line in the story an
+ d we repeat this process until we create a masterpiece!
+DTSTAMP:20240204T190839Z
+LOCATION:Pabst
+SUMMARY:Scribbles N Bits - Iggy
+URL:https://schedule.fursquared.com/f2-2024/talk/100/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//152
+BEGIN:VEVENT
+UID:pretalx-f2-2024-152@schedule.fursquared.com
+DTSTART:20240224T170000Z
+DTEND:20240224T230000Z
+DESCRIPTION:.
+DTSTAMP:20240204T190837Z
+LOCATION:Oak
+SUMMARY:Artist's Alley - FurSquared Staff
+URL:https://schedule.fursquared.com/f2-2024/talk/152/
+END:VEVENT
+END:VCALENDAR

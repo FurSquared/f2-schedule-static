@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//102
+BEGIN:VEVENT
+UID:pretalx-f2-2024-102@schedule.fursquared.com
+DTSTART:20240223T223000Z
+DTEND:20240223T233000Z
+DESCRIPTION:The longest running bonfire meet in WI since 2015 that began in
+  Dustin’s backyard that became a local favorite every summer season. At 
+ this panel the bonfire staff will discuss our wonderful venue at Marsh Hav
+ en Nature Center in Waupun\, our colorful history over the years\, and our
+  plans for the 2024 bonfire season. Questions and suggestions are welcomed
+ !
+DTSTAMP:20240204T190829Z
+LOCATION:Schlitz
+SUMMARY:SEWI Furs Bonfire Meet  - Dustin DaHusky
+URL:https://schedule.fursquared.com/f2-2024/talk/102/
+END:VEVENT
+END:VCALENDAR

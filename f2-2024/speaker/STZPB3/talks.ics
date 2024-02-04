@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//STZPB3
+BEGIN:VEVENT
+UID:pretalx-f2-2024-98@schedule.fursquared.com
+DTSTART:20240225T060000Z
+DTEND:20240225T080000Z
+DESCRIPTION:\nBlazinFloof 12am-1am (Dubstep\, Bass House\, DnB)\nItsBoomer!
+ ? 1am-2am (Bass House\, Tech House\, Trap\, Rap)\n        
+DTSTAMP:20240204T190852Z
+LOCATION:Crystal
+SUMMARY:Saturday Night Dances - BlazinFloof\, ItsBoomer!?
+URL:https://schedule.fursquared.com/f2-2024/talk/98/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//TM9RT9
+BEGIN:VEVENT
+UID:pretalx-f2-2024-55@schedule.fursquared.com
+DTSTART:20240224T180000Z
+DTEND:20240224T190000Z
+DESCRIPTION:Come learn about ham radio.
+DTSTAMP:20240204T190851Z
+LOCATION:Pabst
+SUMMARY:Ham Radio 101 - Jase Husky\, Wolfletech\, Shade Wolf\, Predicta
+URL:https://schedule.fursquared.com/f2-2024/talk/55/
+END:VEVENT
+END:VCALENDAR

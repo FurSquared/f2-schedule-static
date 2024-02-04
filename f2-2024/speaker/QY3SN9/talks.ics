@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//QY3SN9
+BEGIN:VEVENT
+UID:pretalx-f2-2024-19@schedule.fursquared.com
+DTSTART:20240224T040000Z
+DTEND:20240224T060000Z
+DESCRIPTION:Join game-master Faelan as he subjects your con chair and speci
+ al guests to a side-splitting adventure...After Dark! The more money you t
+ hrow at charity\, the more hilarious hazards I throw in their way! 
+DTSTAMP:20240204T190845Z
+LOCATION:Wright
+SUMMARY:CHAIRity AD&D (21+) - Faelan
+URL:https://schedule.fursquared.com/f2-2024/talk/19/
+END:VEVENT
+END:VCALENDAR

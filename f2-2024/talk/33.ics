@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//33
+BEGIN:VEVENT
+UID:pretalx-f2-2024-33@schedule.fursquared.com
+DTSTART:20240225T160000Z
+DTEND:20240225T220000Z
+DESCRIPTION:Looking for a souvenir\, or just looking to be amazed by the wo
+ nderous wares on display? Our Dealer's Den is full of clever critters with
+  many exciting creations ready to go home with you! There's bound to be so
+ mething for everybody amidst all the colorful booths and smiling faces\, s
+ o stop by while the sun's up!
+DTSTAMP:20240204T190840Z
+LOCATION:Regency
+SUMMARY:Dealer's Den - FurSquared Staff
+URL:https://schedule.fursquared.com/f2-2024/talk/33/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//9DUMKN
+BEGIN:VEVENT
+UID:pretalx-f2-2024-109@schedule.fursquared.com
+DTSTART:20240223T003000Z
+DTEND:20240223T013000Z
+DESCRIPTION:Rhubarb and Cosmik lead a group discussion about the songwritin
+ g process.  How to get started\, how to fine-tune your work\, where to fin
+ d inspiration\, and more.
+DTSTAMP:20240204T190841Z
+LOCATION:Walker
+SUMMARY:Songwriting Workshop - Rhubarb the Bear\, Cosmik
+URL:https://schedule.fursquared.com/f2-2024/talk/109/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-4@schedule.fursquared.com
+DTSTART:20240224T013000Z
+DTEND:20240224T043000Z
+DESCRIPTION:\nTGIF! (Thank God It's Filthy!) (18+)\n\nFeaturing:\nCitrine H
+ usky\nA Fox Named Coyote\nPepper Coyote Swearing\nCosmik and Rhubarb\n    
+     
+DTSTAMP:20240204T190841Z
+LOCATION:Crystal
+SUMMARY:TGIF! (Thank God It's Filthy!) (18+) - Rhubarb the Bear\, Cosmik\, 
+ Citrine Husky\, a fox named coyote\, Pepper Coyote
+URL:https://schedule.fursquared.com/f2-2024/talk/4/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-43@schedule.fursquared.com
+DTSTART:20240224T170000Z
+DTEND:20240224T180000Z
+DESCRIPTION:You're a furry.  You're a musician.  Does that make you a Furry
+  Musician?  A Musical Furry?  What makes music "Furry"?  How do profession
+ al musicians who are also furry balance their vocation and their avocation
+ ?
+DTSTAMP:20240204T190841Z
+LOCATION:Mitchell
+SUMMARY:Furry/Musician - a Roundtable - Rhubarb the Bear\, Cosmik
+URL:https://schedule.fursquared.com/f2-2024/talk/43/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-5@schedule.fursquared.com
+DTSTART:20240224T200000Z
+DTEND:20240225T010000Z
+DESCRIPTION:\nMusical Furpile and Rock Opera \n\nFeaturing:\nFurry Choir\nP
+ epper Coyote Being Polite\nRatmos (Dittman Rat)\nShallie Dragon\nJayLaFlam
+ e and $udo Normi\nCitrine Husky\nOny the Runaway Circus Bear: a Rock opera
+  by Rhubarb the Bear\n        
+DTSTAMP:20240204T190841Z
+LOCATION:Crystal
+SUMMARY:Musical Furpile and Rock Opera - Rhubarb the Bear\, Cosmik\, Dittma
+ n Rat\, Citrine Husky\, Pepper Coyote\, Shallie Dragon\, JayLaFlame\, $udo
+  Normi
+URL:https://schedule.fursquared.com/f2-2024/talk/5/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-6@schedule.fursquared.com
+DTSTART:20240225T183000Z
+DTEND:20240225T223000Z
+DESCRIPTION:\nMusical Furpile: The Sequel\n\nFeaturing:\nOtter Chaos\nA Fox
+  Named Coyote\nShallie Dragon\nJayLaFlame and $udo Normi\nRatmos (Dittman 
+ Rat)\nCosmik and Rhubarb and Everyone Else\n        
+DTSTAMP:20240204T190841Z
+LOCATION:Crystal
+SUMMARY:Musical Furpile: The Sequel - Rhubarb the Bear\, Cosmik\, Dittman R
+ at\, a fox named coyote\, Shallie Dragon\, keyotter\, Rhubarb the Nidorino
+ \, Gale Tazzin\, JayLaFlame\, $udo Normi
+URL:https://schedule.fursquared.com/f2-2024/talk/6/
+END:VEVENT
+END:VCALENDAR

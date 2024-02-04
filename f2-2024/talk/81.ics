@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//81
+BEGIN:VEVENT
+UID:pretalx-f2-2024-81@schedule.fursquared.com
+DTSTART:20240223T013000Z
+DTEND:20240223T023000Z
+DESCRIPTION:This isn't one panel in an hour\, it's twelve! The Rat of all T
+ rades has a huge variety of trade secrets to divulge but never enough time
+  for them all. Still\, you're guaranteed to learn 12 things\, ranging from
+  fursuiting to music to puzzles to who knows what else. Not interested in 
+ the current topic? Wait five minutes!
+DTSTAMP:20240204T190823Z
+LOCATION:Mitchell
+SUMMARY:Lern Stuf with Dittman - Dittman Rat
+URL:https://schedule.fursquared.com/f2-2024/talk/81/
+END:VEVENT
+END:VCALENDAR

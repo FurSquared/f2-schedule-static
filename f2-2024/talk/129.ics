@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//129
+BEGIN:VEVENT
+UID:pretalx-f2-2024-129@schedule.fursquared.com
+DTSTART:20240225T050000Z
+DTEND:20240225T060000Z
+DESCRIPTION:Stories\, adventures and an overall fun time!  Join chewy and t
+ he gang as we have a ton of fun!
+DTSTAMP:20240204T190833Z
+LOCATION:Wright
+SUMMARY:Who Gave Chewy a Mic! (18+) - ChewiesCuz
+URL:https://schedule.fursquared.com/f2-2024/talk/129/
+END:VEVENT
+END:VCALENDAR

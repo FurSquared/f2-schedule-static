@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//92
+BEGIN:VEVENT
+UID:pretalx-f2-2024-92@schedule.fursquared.com
+DTSTART:20240223T010000Z
+DTEND:20240223T023000Z
+DESCRIPTION:Have a stand-up routine you want to try out? Want to tell a sto
+ ry you think will give us a chuckle? Come try it out at FurSquared Open Mi
+ c! One could not ask for a friendlier atmosphere. After your act\, be read
+ y to receive some helpful good natured critiques from the panel hosts. All
+  performers are limited to 3 to 5 minute sets depending on the panel turn 
+ out. 
+DTSTAMP:20240204T190823Z
+LOCATION:Wright
+SUMMARY:Open Mic & Comedy Basics - Alkali Bismuth
+URL:https://schedule.fursquared.com/f2-2024/talk/92/
+END:VEVENT
+END:VCALENDAR

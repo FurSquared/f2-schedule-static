@@ -1,0 +1,3880 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+    <vcalendar>
+        <version>2.0</version>
+        <prodid>-//Pentabarf//Schedule//EN</prodid>
+        <x-wr-caldesc></x-wr-caldesc>
+        <x-wr-calname></x-wr-calname>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>109@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-109</pentabarf:event-slug>
+            <pentabarf:title>Songwriting Workshop</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T003000</dtstart>
+            <dtend>20240223T013000</dtend>
+            <duration>1.00000</duration>
+            <summary>Songwriting Workshop</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/109/</url>
+            <location>Walker</location>
+            
+            <attendee>Rhubarb the Bear</attendee>
+            
+            <attendee>Cosmik</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>132@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-132</pentabarf:event-slug>
+            <pentabarf:title>Wugs, Kikis, Blorbos, and Scrimblo-Bimblos</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T020000</dtstart>
+            <dtend>20240223T030000</dtend>
+            <duration>1.00000</duration>
+            <summary>Wugs, Kikis, Blorbos, and Scrimblo-Bimblos</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/132/</url>
+            <location>Walker</location>
+            
+            <attendee>Lune</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>92@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-92</pentabarf:event-slug>
+            <pentabarf:title>Open Mic &amp; Comedy Basics</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T010000</dtstart>
+            <dtend>20240223T023000</dtend>
+            <duration>1.03000</duration>
+            <summary>Open Mic &amp; Comedy Basics</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/92/</url>
+            <location>Wright</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>64@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-64</pentabarf:event-slug>
+            <pentabarf:title>Hip Hop Dance Meet (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T000000</dtstart>
+            <dtend>20240223T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>Hip Hop Dance Meet (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/64/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Shiori</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>81@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-81</pentabarf:event-slug>
+            <pentabarf:title>Lern Stuf with Dittman</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T013000</dtstart>
+            <dtend>20240223T023000</dtend>
+            <duration>1.00000</duration>
+            <summary>Lern Stuf with Dittman</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/81/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Dittman Rat</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>112@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-112</pentabarf:event-slug>
+            <pentabarf:title>Sponsor&#x27;s Lounge</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T220000</dtstart>
+            <dtend>20240223T010000</dtend>
+            <duration>3.00000</duration>
+            <summary>Sponsor&#x27;s Lounge</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/112/</url>
+            <location>Empire</location>
+            
+            <attendee>Gazzy</attendee>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>60@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-60</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Founders)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T150000</dtstart>
+            <dtend>20240223T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Founders)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/60/</url>
+            <location>Founders</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>133@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-133</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T000000</dtstart>
+            <dtend>20240223T020000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/133/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>154@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-154</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T000000</dtstart>
+            <dtend>20240223T080000</dtend>
+            <duration>8.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/154/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>135@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-135</pentabarf:event-slug>
+            <pentabarf:title>Registration</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T150000</dtstart>
+            <dtend>20240223T030000</dtend>
+            <duration>12.00000</duration>
+            <summary>Registration</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/135/</url>
+            <location>Registration</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>142@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-142</pentabarf:event-slug>
+            <pentabarf:title>Security</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T110000</dtstart>
+            <dtend>20240222T120000</dtend>
+            <duration>1.00000</duration>
+            <summary>Security</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/142/</url>
+            <location>Business Center</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>134@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-134</pentabarf:event-slug>
+            <pentabarf:title>ZOIDS! an introduction to Robots and Gunpla</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T190000</dtend>
+            <duration>1.00000</duration>
+            <summary>ZOIDS! an introduction to Robots and Gunpla</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/134/</url>
+            <location>Walker</location>
+            
+            <attendee>Lune</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>76@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-76</pentabarf:event-slug>
+            <pentabarf:title>Iron Artist Challenge: Emoji Characters</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T193000</dtstart>
+            <dtend>20240223T210000</dtend>
+            <duration>1.03000</duration>
+            <summary>Iron Artist Challenge: Emoji Characters</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/76/</url>
+            <location>Walker</location>
+            
+            <attendee>Enochtus</attendee>
+            
+            <attendee>Rumeria</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>118@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-118</pentabarf:event-slug>
+            <pentabarf:title>Super Password Plus</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T210000</dtstart>
+            <dtend>20240223T220000</dtend>
+            <duration>1.00000</duration>
+            <summary>Super Password Plus</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/118/</url>
+            <location>Walker</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>74@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-74</pentabarf:event-slug>
+            <pentabarf:title>Improv Workshop</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T223000</dtstart>
+            <dtend>20240223T233000</dtend>
+            <duration>1.00000</duration>
+            <summary>Improv Workshop</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/74/</url>
+            <location>Walker</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>77@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-77</pentabarf:event-slug>
+            <pentabarf:title>ISPEAK About Disability </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T000000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>ISPEAK About Disability </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/77/</url>
+            <location>Walker</location>
+            
+            <attendee>Rob Hogan</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>2@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-2</pentabarf:event-slug>
+            <pentabarf:title>A Complete History of Furry Fandom (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T013000</dtstart>
+            <dtend>20240224T033000</dtend>
+            <duration>2.00000</duration>
+            <summary>A Complete History of Furry Fandom (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/2/</url>
+            <location>Walker</location>
+            
+            <attendee>Scar Kilovarras</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>40@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-40</pentabarf:event-slug>
+            <pentabarf:title>Furry Language: The Game Show!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T183000</dtstart>
+            <dtend>20240223T200000</dtend>
+            <duration>1.03000</duration>
+            <summary>Furry Language: The Game Show!</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/40/</url>
+            <location>Wright</location>
+            
+            <attendee>CCritt93</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>27@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-27</pentabarf:event-slug>
+            <pentabarf:title>Convention Horror Stories</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T220000</dtstart>
+            <dtend>20240223T230000</dtend>
+            <duration>1.00000</duration>
+            <summary>Convention Horror Stories</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/27/</url>
+            <location>Wright</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>122@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-122</pentabarf:event-slug>
+            <pentabarf:title>The Original Whose Lion is it Anyway? (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T000000</dtstart>
+            <dtend>20240224T013000</dtend>
+            <duration>1.03000</duration>
+            <summary>The Original Whose Lion is it Anyway? (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/122/</url>
+            <location>Wright</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>3@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-3</pentabarf:event-slug>
+            <pentabarf:title>Adults Only Karaoke (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T020000</dtstart>
+            <dtend>20240224T033000</dtend>
+            <duration>1.03000</duration>
+            <summary>Adults Only Karaoke (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/3/</url>
+            <location>Wright</location>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>87@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-87</pentabarf:event-slug>
+            <pentabarf:title>MST3K (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T030000</dtstart>
+            <dtend>20240223T050000</dtend>
+            <duration>2.00000</duration>
+            <summary>MST3K (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/87/</url>
+            <location>Crystal</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>26@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-26</pentabarf:event-slug>
+            <pentabarf:title>Concert Block Sound Check</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T150000</dtstart>
+            <dtend>20240223T170000</dtend>
+            <duration>2.00000</duration>
+            <summary>Concert Block Sound Check</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Rehearsal</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/26/</url>
+            <location>Crystal</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>93@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-93</pentabarf:event-slug>
+            <pentabarf:title>Opening Ceremonies</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T170000</dtstart>
+            <dtend>20240223T180000</dtend>
+            <duration>1.00000</duration>
+            <summary>Opening Ceremonies</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Main Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/93/</url>
+            <location>Crystal</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>105@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-105</pentabarf:event-slug>
+            <pentabarf:title>So This is Your First Fur Con</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T190000</dtend>
+            <duration>1.00000</duration>
+            <summary>So This is Your First Fur Con</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/105/</url>
+            <location>Crystal</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>46@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-46</pentabarf:event-slug>
+            <pentabarf:title>Fursuit Dance Comp Prelims</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T193000</dtstart>
+            <dtend>20240223T203000</dtend>
+            <duration>1.00000</duration>
+            <summary>Fursuit Dance Comp Prelims</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/46/</url>
+            <location>Crystal</location>
+            
+            <attendee>Slade</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>29@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-29</pentabarf:event-slug>
+            <pentabarf:title>DBF Dress Rehearsal (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T203000</dtstart>
+            <dtend>20240223T223000</dtend>
+            <duration>2.00000</duration>
+            <summary>DBF Dress Rehearsal (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Rehearsal</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/29/</url>
+            <location>Crystal</location>
+            
+            <attendee>Slug</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>21@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-21</pentabarf:event-slug>
+            <pentabarf:title>Charity Dance Off</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T230000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>2.00000</duration>
+            <summary>Charity Dance Off</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/21/</url>
+            <location>Crystal</location>
+            
+            <attendee>Slade</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>4@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-4</pentabarf:event-slug>
+            <pentabarf:title>TGIF! (Thank God It&#x27;s Filthy!) (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T013000</dtstart>
+            <dtend>20240224T043000</dtend>
+            <duration>3.00000</duration>
+            <summary>TGIF! (Thank God It&#x27;s Filthy!) (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Concert</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/4/</url>
+            <location>Crystal</location>
+            
+            <attendee>Citrine Husky</attendee>
+            
+            <attendee>a fox named coyote</attendee>
+            
+            <attendee>Pepper Coyote</attendee>
+            
+            <attendee>Cosmik</attendee>
+            
+            <attendee>Rhubarb the Bear</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>130@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-130</pentabarf:event-slug>
+            <pentabarf:title>WrestleFur Meetup</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T180000</dtstart>
+            <dtend>20240223T190000</dtend>
+            <duration>1.00000</duration>
+            <summary>WrestleFur Meetup</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/130/</url>
+            <location>Pabst</location>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>99@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-99</pentabarf:event-slug>
+            <pentabarf:title>Scales &amp; Slime Meetup</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T193000</dtstart>
+            <dtend>20240223T203000</dtend>
+            <duration>1.00000</duration>
+            <summary>Scales &amp; Slime Meetup</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/99/</url>
+            <location>Pabst</location>
+            
+            <attendee>LycanthropyLive</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>10@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-10</pentabarf:event-slug>
+            <pentabarf:title>Aquatic Meet-Up</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T203000</dtstart>
+            <dtend>20240223T213000</dtend>
+            <duration>1.00000</duration>
+            <summary>Aquatic Meet-Up</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/10/</url>
+            <location>Pabst</location>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>108@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-108</pentabarf:event-slug>
+            <pentabarf:title>Sober/Teetotal Furs Meetup</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T220000</dtstart>
+            <dtend>20240223T230000</dtend>
+            <duration>1.00000</duration>
+            <summary>Sober/Teetotal Furs Meetup</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/108/</url>
+            <location>Pabst</location>
+            
+            <attendee>Nikolai</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>128@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-128</pentabarf:event-slug>
+            <pentabarf:title>Warrior Cats Fan Meet Up</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T230000</dtstart>
+            <dtend>20240224T000000</dtend>
+            <duration>1.00000</duration>
+            <summary>Warrior Cats Fan Meet Up</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/128/</url>
+            <location>Pabst</location>
+            
+            <attendee>1BitJay</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>66@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-66</pentabarf:event-slug>
+            <pentabarf:title>Hoosk Meet and Greet! </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T003000</dtstart>
+            <dtend>20240224T013000</dtend>
+            <duration>1.00000</duration>
+            <summary>Hoosk Meet and Greet! </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/66/</url>
+            <location>Pabst</location>
+            
+            <attendee>Dustin DaHusky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>124@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-124</pentabarf:event-slug>
+            <pentabarf:title>Therian and Otherkin Meet-up</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T020000</dtstart>
+            <dtend>20240224T030000</dtend>
+            <duration>1.00000</duration>
+            <summary>Therian and Otherkin Meet-up</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/124/</url>
+            <location>Pabst</location>
+            
+            <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>15@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-15</pentabarf:event-slug>
+            <pentabarf:title>Boozy’s Basic Law</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T183000</dtstart>
+            <dtend>20240223T193000</dtend>
+            <duration>1.00000</duration>
+            <summary>Boozy’s Basic Law</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/15/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Boozy Badger</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>39@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-39</pentabarf:event-slug>
+            <pentabarf:title>Furry Choir Open Rehearsal</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T200000</dtstart>
+            <dtend>20240223T220000</dtend>
+            <duration>2.00000</duration>
+            <summary>Furry Choir Open Rehearsal</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Rehearsal</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/39/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Pepper Coyote</attendee>
+            
+            <attendee>Tek</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>84@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-84</pentabarf:event-slug>
+            <pentabarf:title>Let&#x27;s Record a Song in an Hour!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T223000</dtstart>
+            <dtend>20240223T233000</dtend>
+            <duration>1.00000</duration>
+            <summary>Let&#x27;s Record a Song in an Hour!</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/84/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Shallie Dragon</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>82@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-82</pentabarf:event-slug>
+            <pentabarf:title>Let&#x27;s have Shreks</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T000000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>Let&#x27;s have Shreks</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/82/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Kona</attendee>
+            
+            <attendee>Amicus Verum</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>42@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-42</pentabarf:event-slug>
+            <pentabarf:title>Furry Writing 101</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T010000</dtstart>
+            <dtend>20240224T020000</dtend>
+            <duration>1.00000</duration>
+            <summary>Furry Writing 101</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/42/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>120@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-120</pentabarf:event-slug>
+            <pentabarf:title>The Devil&#x27;s Advocate - Discussions and Debates (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T020000</dtstart>
+            <dtend>20240224T033000</dtend>
+            <duration>1.03000</duration>
+            <summary>The Devil&#x27;s Advocate - Discussions and Debates (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/120/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Skyler Ringtail</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>36@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-36</pentabarf:event-slug>
+            <pentabarf:title>Film Furtography</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T183000</dtstart>
+            <dtend>20240223T193000</dtend>
+            <duration>1.00000</duration>
+            <summary>Film Furtography</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/36/</url>
+            <location>Schlitz</location>
+            
+            <attendee>Dustin DaHusky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>14@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-14</pentabarf:event-slug>
+            <pentabarf:title>Basics to Running Furmeets </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T200000</dtstart>
+            <dtend>20240223T210000</dtend>
+            <duration>1.00000</duration>
+            <summary>Basics to Running Furmeets </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/14/</url>
+            <location>Schlitz</location>
+            
+            <attendee>Dustin DaHusky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>13@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-13</pentabarf:event-slug>
+            <pentabarf:title>Basics to Mix Tapes</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T213000</dtstart>
+            <dtend>20240223T223000</dtend>
+            <duration>1.00000</duration>
+            <summary>Basics to Mix Tapes</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/13/</url>
+            <location>Schlitz</location>
+            
+            <attendee>Dustin DaHusky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>102@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-102</pentabarf:event-slug>
+            <pentabarf:title>SEWI Furs Bonfire Meet </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T223000</dtstart>
+            <dtend>20240223T233000</dtend>
+            <duration>1.00000</duration>
+            <summary>SEWI Furs Bonfire Meet </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/102/</url>
+            <location>Schlitz</location>
+            
+            <attendee>Dustin DaHusky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>79@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-79</pentabarf:event-slug>
+            <pentabarf:title>Kaiju And the Furry Fandom</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T000000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>Kaiju And the Furry Fandom</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/79/</url>
+            <location>Schlitz</location>
+            
+            <attendee>Kaiju Nellie</attendee>
+            
+            <attendee>Yolo Dodo</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>96@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-96</pentabarf:event-slug>
+            <pentabarf:title>Reenacting and Airsofting</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T013000</dtstart>
+            <dtend>20240224T023000</dtend>
+            <duration>1.00000</duration>
+            <summary>Reenacting and Airsofting</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/96/</url>
+            <location>Schlitz</location>
+            
+            <attendee>Dustin DaHusky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>31@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-31</pentabarf:event-slug>
+            <pentabarf:title>Dealer&#x27;s Den</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T160000</dtstart>
+            <dtend>20240224T000000</dtend>
+            <duration>8.00000</duration>
+            <summary>Dealer&#x27;s Den</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/31/</url>
+            <location>Regency</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>113@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-113</pentabarf:event-slug>
+            <pentabarf:title>Sponsor&#x27;s Lounge</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T163000</dtstart>
+            <dtend>20240224T020000</dtend>
+            <duration>9.03000</duration>
+            <summary>Sponsor&#x27;s Lounge</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/113/</url>
+            <location>Empire</location>
+            
+            <attendee>Gazzy</attendee>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>41@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-41</pentabarf:event-slug>
+            <pentabarf:title>Furry Merch Swap Meet</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T213000</dtstart>
+            <dtend>20240223T223000</dtend>
+            <duration>1.00000</duration>
+            <summary>Furry Merch Swap Meet</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/41/</url>
+            <location>Empire</location>
+            
+            <attendee>Nova</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>51@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-51</pentabarf:event-slug>
+            <pentabarf:title>Gazzy’s Goblet Gauntlet (for Charity!) (21+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T020000</dtstart>
+            <dtend>20240224T030000</dtend>
+            <duration>1.00000</duration>
+            <summary>Gazzy’s Goblet Gauntlet (for Charity!) (21+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/51/</url>
+            <location>Empire</location>
+            
+            <attendee>Gazzy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>48@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-48</pentabarf:event-slug>
+            <pentabarf:title>Fursuit Photos</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T190000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>6.00000</duration>
+            <summary>Fursuit Photos</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/48/</url>
+            <location>Wright A</location>
+            
+            <attendee>Kehmet</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>57@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-57</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Miller)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T150000</dtstart>
+            <dtend>20240224T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Miller)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/57/</url>
+            <location>Miller</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>61@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-61</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Founders)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T150000</dtstart>
+            <dtend>20240224T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Founders)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/61/</url>
+            <location>Founders</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>110@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-110</pentabarf:event-slug>
+            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T040000</dtstart>
+            <dtend>20240223T070000</dtend>
+            <duration>3.00000</duration>
+            <summary>Soverign Eclipse</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/110/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>155@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-155</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T140000</dtstart>
+            <dtend>20240224T080000</dtend>
+            <duration>18.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/155/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>136@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-136</pentabarf:event-slug>
+            <pentabarf:title>Registration</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T150000</dtstart>
+            <dtend>20240224T030000</dtend>
+            <duration>12.00000</duration>
+            <summary>Registration</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/136/</url>
+            <location>Registration</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>139@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-139</pentabarf:event-slug>
+            <pentabarf:title>Operations</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T150000</dtstart>
+            <dtend>20240224T030000</dtend>
+            <duration>12.00000</duration>
+            <summary>Operations</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/139/</url>
+            <location>Golda Meir</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>143@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-143</pentabarf:event-slug>
+            <pentabarf:title>Security</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T110000</dtstart>
+            <dtend>20240223T120000</dtend>
+            <duration>1.00000</duration>
+            <summary>Security</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/143/</url>
+            <location>Business Center</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>146@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-146</pentabarf:event-slug>
+            <pentabarf:title>Video Games</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T160000</dtstart>
+            <dtend>20240224T060000</dtend>
+            <duration>14.00000</duration>
+            <summary>Video Games</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Video Gaming</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/146/</url>
+            <location>Kilbourn</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>149@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-149</pentabarf:event-slug>
+            <pentabarf:title>Mario Kart Tournament</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T223000</dtstart>
+            <dtend>20240224T000000</dtend>
+            <duration>1.03000</duration>
+            <summary>Mario Kart Tournament</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Video Gaming</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/149/</url>
+            <location>Kilbourn</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>151@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-151</pentabarf:event-slug>
+            <pentabarf:title>Artist&#x27;s Alley</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T190000</dtstart>
+            <dtend>20240223T230000</dtend>
+            <duration>4.00000</duration>
+            <summary>Artist&#x27;s Alley</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/151/</url>
+            <location>Oak</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>24@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-24</pentabarf:event-slug>
+            <pentabarf:title>Church of Garf (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T040000</dtstart>
+            <dtend>20240224T050000</dtend>
+            <duration>1.00000</duration>
+            <summary>Church of Garf (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/24/</url>
+            <location>Walker</location>
+            
+            <attendee>Tapioca</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>104@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-104</pentabarf:event-slug>
+            <pentabarf:title>Sketchbook Swap (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T050000</dtstart>
+            <dtend>20240224T063000</dtend>
+            <duration>1.03000</duration>
+            <summary>Sketchbook Swap (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/104/</url>
+            <location>Walker</location>
+            
+            <attendee>Rouge</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>54@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-54</pentabarf:event-slug>
+            <pentabarf:title>GrindCove: The Movie Premiere </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T150000</dtstart>
+            <dtend>20240224T170000</dtend>
+            <duration>2.00000</duration>
+            <summary>GrindCove: The Movie Premiere </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/54/</url>
+            <location>Walker</location>
+            
+            <attendee>Christine Comedian Buninson</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>69@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-69</pentabarf:event-slug>
+            <pentabarf:title>Iggy and Steele&#x27;s Globetrotting Challenge</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T160000</dtstart>
+            <dtend>20240224T170000</dtend>
+            <duration>1.00000</duration>
+            <summary>Iggy and Steele&#x27;s Globetrotting Challenge</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/69/</url>
+            <location>Walker</location>
+            
+            <attendee>Iggy</attendee>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>45@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-45</pentabarf:event-slug>
+            <pentabarf:title>Fursquared 2024 Charity Poker Tournament </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T173000</dtstart>
+            <dtend>20240224T203000</dtend>
+            <duration>3.00000</duration>
+            <summary>Fursquared 2024 Charity Poker Tournament </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/45/</url>
+            <location>Walker</location>
+            
+            <attendee>Chanur</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>11@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-11</pentabarf:event-slug>
+            <pentabarf:title>Aryu&#x27;s Origami How-To</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T213000</dtstart>
+            <dtend>20240224T223000</dtend>
+            <duration>1.00000</duration>
+            <summary>Aryu&#x27;s Origami How-To</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/11/</url>
+            <location>Walker</location>
+            
+            <attendee>AryuOkusta (Aka Aryu)</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>23@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-23</pentabarf:event-slug>
+            <pentabarf:title>Chill Beats Art Cafe</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T230000</dtstart>
+            <dtend>20240225T000000</dtend>
+            <duration>1.00000</duration>
+            <summary>Chill Beats Art Cafe</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/23/</url>
+            <location>Walker</location>
+            
+            <attendee>SIN</attendee>
+            
+            <attendee>Renacat</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>1@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-1</pentabarf:event-slug>
+            <pentabarf:title>85 Years of Fan Convention History </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T000000</dtstart>
+            <dtend>20240225T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>85 Years of Fan Convention History </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/1/</url>
+            <location>Walker</location>
+            
+            <attendee>Con History Project</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>19@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-19</pentabarf:event-slug>
+            <pentabarf:title>CHAIRity AD&amp;D (21+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T040000</dtstart>
+            <dtend>20240224T060000</dtend>
+            <duration>2.00000</duration>
+            <summary>CHAIRity AD&amp;D (21+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/19/</url>
+            <location>Wright</location>
+            
+            <attendee>Faelan</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>38@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-38</pentabarf:event-slug>
+            <pentabarf:title>Furry Card Sharks</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T173000</dtstart>
+            <dtend>20240224T190000</dtend>
+            <duration>1.03000</duration>
+            <summary>Furry Card Sharks</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/38/</url>
+            <location>Wright</location>
+            
+            <attendee>CCritt93</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>22@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-22</pentabarf:event-slug>
+            <pentabarf:title>Charity Whose Lion is it Anyway?</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T193000</dtstart>
+            <dtend>20240224T203000</dtend>
+            <duration>1.00000</duration>
+            <summary>Charity Whose Lion is it Anyway?</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/22/</url>
+            <location>Wright</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>16@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-16</pentabarf:event-slug>
+            <pentabarf:title>Boozy’s Legal Funhouse </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T210000</dtstart>
+            <dtend>20240224T220000</dtend>
+            <duration>1.00000</duration>
+            <summary>Boozy’s Legal Funhouse </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/16/</url>
+            <location>Wright</location>
+            
+            <attendee>Boozy Badger</attendee>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>67@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-67</pentabarf:event-slug>
+            <pentabarf:title>I Comedy Better When I&#x27;ve had a Few (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T223000</dtstart>
+            <dtend>20240224T233000</dtend>
+            <duration>1.00000</duration>
+            <summary>I Comedy Better When I&#x27;ve had a Few (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/67/</url>
+            <location>Wright</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>68@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-68</pentabarf:event-slug>
+            <pentabarf:title>Iggy and Friend&#x27;s Musical Menagerie Matinee</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T020000</dtstart>
+            <dtend>20240225T030000</dtend>
+            <duration>1.00000</duration>
+            <summary>Iggy and Friend&#x27;s Musical Menagerie Matinee</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Concert</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/68/</url>
+            <location>Wright</location>
+            
+            <attendee>Iggy</attendee>
+            
+            <attendee>keyotter</attendee>
+            
+            <attendee>Rhubarb the Nidorino</attendee>
+            
+            <attendee>Dittman Rat</attendee>
+            
+            <attendee>Gale Tazzin</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>37@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-37</pentabarf:event-slug>
+            <pentabarf:title>Friday Night Dances</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T050000</dtstart>
+            <dtend>20240224T080000</dtend>
+            <duration>3.00000</duration>
+            <summary>Friday Night Dances</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/37/</url>
+            <location>Crystal</location>
+            
+            <attendee>DodiePOP</attendee>
+            
+            <attendee>DJ Dragon M A A W</attendee>
+            
+            <attendee>Aves</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>47@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-47</pentabarf:event-slug>
+            <pentabarf:title>Fursuit Dance Competition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T173000</dtstart>
+            <dtend>20240224T193000</dtend>
+            <duration>2.00000</duration>
+            <summary>Fursuit Dance Competition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/47/</url>
+            <location>Crystal</location>
+            
+            <attendee>Slade</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>5@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-5</pentabarf:event-slug>
+            <pentabarf:title>Musical Furpile and Rock Opera</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T200000</dtstart>
+            <dtend>20240225T010000</dtend>
+            <duration>5.00000</duration>
+            <summary>Musical Furpile and Rock Opera</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Concert</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/5/</url>
+            <location>Crystal</location>
+            
+            <attendee>Pepper Coyote</attendee>
+            
+            <attendee>Dittman Rat</attendee>
+            
+            <attendee>Shallie Dragon</attendee>
+            
+            <attendee>JayLaFlame</attendee>
+            
+            <attendee>$udo Normi</attendee>
+            
+            <attendee>Citrine Husky</attendee>
+            
+            <attendee>Cosmik</attendee>
+            
+            <attendee>Rhubarb the Bear</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>34@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-34</pentabarf:event-slug>
+            <pentabarf:title>Down Bad Furlesque</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T023000</dtstart>
+            <dtend>20240225T043000</dtend>
+            <duration>2.00000</duration>
+            <summary>Down Bad Furlesque</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/34/</url>
+            <location>Crystal</location>
+            
+            <attendee>Slug</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>88@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-88</pentabarf:event-slug>
+            <pentabarf:title>Murrsuit Meetup (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T033000</dtstart>
+            <dtend>20240224T043000</dtend>
+            <duration>1.00000</duration>
+            <summary>Murrsuit Meetup (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/88/</url>
+            <location>Pabst</location>
+            
+            <attendee>Fenlan</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>107@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-107</pentabarf:event-slug>
+            <pentabarf:title>So, Your Parents Found Out…</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T163000</dtstart>
+            <dtend>20240224T173000</dtend>
+            <duration>1.00000</duration>
+            <summary>So, Your Parents Found Out…</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/107/</url>
+            <location>Pabst</location>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>55@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-55</pentabarf:event-slug>
+            <pentabarf:title>Ham Radio 101</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T180000</dtstart>
+            <dtend>20240224T190000</dtend>
+            <duration>1.00000</duration>
+            <summary>Ham Radio 101</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/55/</url>
+            <location>Pabst</location>
+            
+            <attendee>Jase Husky</attendee>
+            
+            <attendee>Wolfletech</attendee>
+            
+            <attendee>Shade Wolf</attendee>
+            
+            <attendee>Predicta</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>35@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-35</pentabarf:event-slug>
+            <pentabarf:title>Field Telephones</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T190000</dtstart>
+            <dtend>20240224T200000</dtend>
+            <duration>1.00000</duration>
+            <summary>Field Telephones</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/35/</url>
+            <location>Pabst</location>
+            
+            <attendee>Dustin DaHusky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>106@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-106</pentabarf:event-slug>
+            <pentabarf:title>So You Want to be a Con Artist </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T203000</dtstart>
+            <dtend>20240224T213000</dtend>
+            <duration>1.00000</duration>
+            <summary>So You Want to be a Con Artist </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/106/</url>
+            <location>Pabst</location>
+            
+            <attendee>Bash the Piñata</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>65@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-65</pentabarf:event-slug>
+            <pentabarf:title>Home Vocal Recording on a Budget</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T220000</dtstart>
+            <dtend>20240224T230000</dtend>
+            <duration>1.00000</duration>
+            <summary>Home Vocal Recording on a Budget</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/65/</url>
+            <location>Pabst</location>
+            
+            <attendee>Shallie Dragon</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>72@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-72</pentabarf:event-slug>
+            <pentabarf:title>Iggy&#x27;s Pyramid</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T233000</dtstart>
+            <dtend>20240225T003000</dtend>
+            <duration>1.00000</duration>
+            <summary>Iggy&#x27;s Pyramid</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/72/</url>
+            <location>Pabst</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>44@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-44</pentabarf:event-slug>
+            <pentabarf:title>Furs in Leather Meet (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T040000</dtstart>
+            <dtend>20240224T053000</dtend>
+            <duration>1.03000</duration>
+            <summary>Furs in Leather Meet (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/44/</url>
+            <location>Mitchell</location>
+            
+            <attendee>AnubianArmani (Sir K-Nyne)</attendee>
+            
+            <attendee>NaughtyAnubis</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>95@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-95</pentabarf:event-slug>
+            <pentabarf:title>Pet Play 101 (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T053000</dtstart>
+            <dtend>20240224T063000</dtend>
+            <duration>1.00000</duration>
+            <summary>Pet Play 101 (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/95/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Pup Delta</attendee>
+            
+            <attendee>Pup Griso</attendee>
+            
+            <attendee>Pup Roofus</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>75@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-75</pentabarf:event-slug>
+            <pentabarf:title>Intro to Traditional Irish Music</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T160000</dtstart>
+            <dtend>20240224T170000</dtend>
+            <duration>1.00000</duration>
+            <summary>Intro to Traditional Irish Music</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/75/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Naoise</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>43@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-43</pentabarf:event-slug>
+            <pentabarf:title>Furry/Musician - a Roundtable</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T170000</dtstart>
+            <dtend>20240224T180000</dtend>
+            <duration>1.00000</duration>
+            <summary>Furry/Musician - a Roundtable</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/43/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Rhubarb the Bear</attendee>
+            
+            <attendee>Cosmik</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>85@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-85</pentabarf:event-slug>
+            <pentabarf:title>Live Demo - Painting a Fursona</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T183000</dtstart>
+            <dtend>20240224T203000</dtend>
+            <duration>2.00000</duration>
+            <summary>Live Demo - Painting a Fursona</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/85/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Rob Hogan</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>125@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-125</pentabarf:event-slug>
+            <pentabarf:title>Time to Talk Transformation</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T220000</dtstart>
+            <dtend>20240224T230000</dtend>
+            <duration>1.00000</duration>
+            <summary>Time to Talk Transformation</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/125/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>103@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-103</pentabarf:event-slug>
+            <pentabarf:title>Shapeshifters &amp; Transformation in Fiction - From Fables to Furry Culture </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T230000</dtstart>
+            <dtend>20240225T000000</dtend>
+            <duration>1.00000</duration>
+            <summary>Shapeshifters &amp; Transformation in Fiction - From Fables to Furry Culture </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/103/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Bash the Piñata</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>32@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-32</pentabarf:event-slug>
+            <pentabarf:title>Dealer&#x27;s Den</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T160000</dtstart>
+            <dtend>20240225T000000</dtend>
+            <duration>8.00000</duration>
+            <summary>Dealer&#x27;s Den</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/32/</url>
+            <location>Regency</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>114@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-114</pentabarf:event-slug>
+            <pentabarf:title>Sponsor&#x27;s Lounge</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T140000</dtstart>
+            <dtend>20240225T080000</dtend>
+            <duration>18.00000</duration>
+            <summary>Sponsor&#x27;s Lounge</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/114/</url>
+            <location>Empire</location>
+            
+            <attendee>Gazzy</attendee>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>119@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-119</pentabarf:event-slug>
+            <pentabarf:title>Super Sponsor Dinner</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T010000</dtstart>
+            <dtend>20240225T023000</dtend>
+            <duration>1.03000</duration>
+            <summary>Super Sponsor Dinner</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/119/</url>
+            <location>Empire</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>49@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-49</pentabarf:event-slug>
+            <pentabarf:title>Fursuit Photos</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T180000</dtstart>
+            <dtend>20240225T010000</dtend>
+            <duration>7.00000</duration>
+            <summary>Fursuit Photos</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/49/</url>
+            <location>Wright A</location>
+            
+            <attendee>Kehmet</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>58@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-58</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Miller)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T150000</dtstart>
+            <dtend>20240225T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Miller)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/58/</url>
+            <location>Miller</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>56@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-56</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Miller)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T150000</dtstart>
+            <dtend>20240225T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Miller)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/56/</url>
+            <location>Miller</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>62@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-62</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Founders)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T150000</dtstart>
+            <dtend>20240225T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Founders)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/62/</url>
+            <location>Founders</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>90@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-90</pentabarf:event-slug>
+            <pentabarf:title>Night Market</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T030000</dtstart>
+            <dtend>20240224T070000</dtend>
+            <duration>4.00000</duration>
+            <summary>Night Market</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/90/</url>
+            <location>Juneau</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>156@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-156</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T140000</dtstart>
+            <dtend>20240225T080000</dtend>
+            <duration>18.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/156/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>111@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-111</pentabarf:event-slug>
+            <pentabarf:title>Spirit-Animal Guided Meditation</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T180000</dtstart>
+            <dtend>20240224T193000</dtend>
+            <duration>1.03000</duration>
+            <summary>Spirit-Animal Guided Meditation</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/111/</url>
+            <location>Usinger</location>
+            
+            <attendee>Steele The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>123@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-123</pentabarf:event-slug>
+            <pentabarf:title>The Sensory Hour</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T203000</dtstart>
+            <dtend>20240224T213000</dtend>
+            <duration>1.00000</duration>
+            <summary>The Sensory Hour</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/123/</url>
+            <location>Usinger</location>
+            
+            <attendee>Scamper</attendee>
+            
+            <attendee>Hoonig</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>137@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-137</pentabarf:event-slug>
+            <pentabarf:title>Registration</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T150000</dtstart>
+            <dtend>20240225T030000</dtend>
+            <duration>12.00000</duration>
+            <summary>Registration</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/137/</url>
+            <location>Registration</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>140@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-140</pentabarf:event-slug>
+            <pentabarf:title>Operations</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T150000</dtstart>
+            <dtend>20240225T030000</dtend>
+            <duration>12.00000</duration>
+            <summary>Operations</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/140/</url>
+            <location>Golda Meir</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>144@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-144</pentabarf:event-slug>
+            <pentabarf:title>Security</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T110000</dtstart>
+            <dtend>20240224T120000</dtend>
+            <duration>1.00000</duration>
+            <summary>Security</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/144/</url>
+            <location>Business Center</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>147@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-147</pentabarf:event-slug>
+            <pentabarf:title>Video Games</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T160000</dtstart>
+            <dtend>20240225T060000</dtend>
+            <duration>14.00000</duration>
+            <summary>Video Games</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Video Gaming</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/147/</url>
+            <location>Kilbourn</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>150@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-150</pentabarf:event-slug>
+            <pentabarf:title>Smash Tournament</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T200000</dtstart>
+            <dtend>20240224T230000</dtend>
+            <duration>3.00000</duration>
+            <summary>Smash Tournament</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Video Gaming</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/150/</url>
+            <location>Kilbourn</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>152@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-152</pentabarf:event-slug>
+            <pentabarf:title>Artist&#x27;s Alley</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T170000</dtstart>
+            <dtend>20240224T230000</dtend>
+            <duration>6.00000</duration>
+            <summary>Artist&#x27;s Alley</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/152/</url>
+            <location>Oak</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>12@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-12</pentabarf:event-slug>
+            <pentabarf:title>Babyfur Meet and Greet and Discussion (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T030000</dtstart>
+            <dtend>20240225T040000</dtend>
+            <duration>1.00000</duration>
+            <summary>Babyfur Meet and Greet and Discussion (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/12/</url>
+            <location>Walker</location>
+            
+            <attendee>Citrine Husky</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>97@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-97</pentabarf:event-slug>
+            <pentabarf:title>Rubberfurs: Meet and Greet! (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T040000</dtstart>
+            <dtend>20240225T050000</dtend>
+            <duration>1.00000</duration>
+            <summary>Rubberfurs: Meet and Greet! (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/97/</url>
+            <location>Walker</location>
+            
+            <attendee>Kizu Watage</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>53@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-53</pentabarf:event-slug>
+            <pentabarf:title>Getting Started With Latex Crafting (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T050000</dtstart>
+            <dtend>20240225T060000</dtend>
+            <duration>1.00000</duration>
+            <summary>Getting Started With Latex Crafting (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/53/</url>
+            <location>Walker</location>
+            
+            <attendee>Purple DragonMage</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>7@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-7</pentabarf:event-slug>
+            <pentabarf:title>All Ages Sketchbook Swap</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T160000</dtstart>
+            <dtend>20240225T173000</dtend>
+            <duration>1.03000</duration>
+            <summary>All Ages Sketchbook Swap</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/7/</url>
+            <location>Walker</location>
+            
+            <attendee>Rouge</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>83@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-83</pentabarf:event-slug>
+            <pentabarf:title>Let&#x27;s Make Kandi!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T180000</dtstart>
+            <dtend>20240225T193000</dtend>
+            <duration>1.03000</duration>
+            <summary>Let&#x27;s Make Kandi!</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/83/</url>
+            <location>Walker</location>
+            
+            <attendee>Vixie</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>126@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-126</pentabarf:event-slug>
+            <pentabarf:title>Twitch: Reach Affiliate &amp; Grow</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T200000</dtstart>
+            <dtend>20240225T210000</dtend>
+            <duration>1.00000</duration>
+            <summary>Twitch: Reach Affiliate &amp; Grow</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/126/</url>
+            <location>Walker</location>
+            
+            <attendee>Tango Bloom</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>17@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-17</pentabarf:event-slug>
+            <pentabarf:title>Career Growth for Furries</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T213000</dtstart>
+            <dtend>20240225T223000</dtend>
+            <duration>1.00000</duration>
+            <summary>Career Growth for Furries</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/17/</url>
+            <location>Walker</location>
+            
+            <attendee>f0rl00p</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>86@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-86</pentabarf:event-slug>
+            <pentabarf:title>Mass-Debation (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T033000</dtstart>
+            <dtend>20240225T043000</dtend>
+            <duration>1.00000</duration>
+            <summary>Mass-Debation (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/86/</url>
+            <location>Wright</location>
+            
+            <attendee>Boozy Badger</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>129@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-129</pentabarf:event-slug>
+            <pentabarf:title>Who Gave Chewy a Mic! (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T050000</dtstart>
+            <dtend>20240225T060000</dtend>
+            <duration>1.00000</duration>
+            <summary>Who Gave Chewy a Mic! (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/129/</url>
+            <location>Wright</location>
+            
+            <attendee>ChewiesCuz</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>28@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-28</pentabarf:event-slug>
+            <pentabarf:title>Darkglow Fitness!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T150000</dtstart>
+            <dtend>20240225T160000</dtend>
+            <duration>1.00000</duration>
+            <summary>Darkglow Fitness!</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/28/</url>
+            <location>Wright</location>
+            
+            <attendee>Ziggy Darkglow</attendee>
+            
+            <attendee>Catboyxei</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>20@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-20</pentabarf:event-slug>
+            <pentabarf:title>Charity Auction</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T173000</dtstart>
+            <dtend>20240225T193000</dtend>
+            <duration>2.00000</duration>
+            <summary>Charity Auction</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Main Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/20/</url>
+            <location>Wright</location>
+            
+            <attendee>Alkali Bismuth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>71@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-71</pentabarf:event-slug>
+            <pentabarf:title>Iggy&#x27;s Improv Expo</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T200000</dtstart>
+            <dtend>20240225T210000</dtend>
+            <duration>1.00000</duration>
+            <summary>Iggy&#x27;s Improv Expo</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/71/</url>
+            <location>Wright</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>70@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-70</pentabarf:event-slug>
+            <pentabarf:title>Iggy&#x27;s Games for Guinea Pigs</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T213000</dtstart>
+            <dtend>20240225T223000</dtend>
+            <duration>1.00000</duration>
+            <summary>Iggy&#x27;s Games for Guinea Pigs</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/70/</url>
+            <location>Wright</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>30@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-30</pentabarf:event-slug>
+            <pentabarf:title>Dead Dog Karaoke</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240226T020000</dtstart>
+            <dtend>20240226T040000</dtend>
+            <duration>2.00000</duration>
+            <summary>Dead Dog Karaoke</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/30/</url>
+            <location>Wright</location>
+            
+            <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>101@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-101</pentabarf:event-slug>
+            <pentabarf:title>Sensory Friendly Dance</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T050000</dtstart>
+            <dtend>20240225T060000</dtend>
+            <duration>1.00000</duration>
+            <summary>Sensory Friendly Dance</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/101/</url>
+            <location>Crystal</location>
+            
+            <attendee>Cosmik</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>98@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-98</pentabarf:event-slug>
+            <pentabarf:title>Saturday Night Dances</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T060000</dtstart>
+            <dtend>20240225T080000</dtend>
+            <duration>2.00000</duration>
+            <summary>Saturday Night Dances</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Dance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/98/</url>
+            <location>Crystal</location>
+            
+            <attendee>BlazinFloof</attendee>
+            
+            <attendee>ItsBoomer!?</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>94@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-94</pentabarf:event-slug>
+            <pentabarf:title>Otter Chaos! Rehearsal</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T150000</dtstart>
+            <dtend>20240225T170000</dtend>
+            <duration>2.00000</duration>
+            <summary>Otter Chaos! Rehearsal</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Rehearsal</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/94/</url>
+            <location>Crystal</location>
+            
+            <attendee>keyotter</attendee>
+            
+            <attendee>Rhubarb the Nidorino</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>6@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-6</pentabarf:event-slug>
+            <pentabarf:title>Musical Furpile: The Sequel</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T183000</dtstart>
+            <dtend>20240225T223000</dtend>
+            <duration>4.00000</duration>
+            <summary>Musical Furpile: The Sequel</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Concert</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/6/</url>
+            <location>Crystal</location>
+            
+            <attendee>Rhubarb the Nidorino</attendee>
+            
+            <attendee>keyotter</attendee>
+            
+            <attendee>Gale Tazzin</attendee>
+            
+            <attendee>a fox named coyote</attendee>
+            
+            <attendee>Shallie Dragon</attendee>
+            
+            <attendee>JayLaFlame</attendee>
+            
+            <attendee>$udo Normi</attendee>
+            
+            <attendee>Dittman Rat</attendee>
+            
+            <attendee>Cosmik</attendee>
+            
+            <attendee>Rhubarb the Bear</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>25@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-25</pentabarf:event-slug>
+            <pentabarf:title>Closing Ceremonies</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240226T000000</dtstart>
+            <dtend>20240226T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>Closing Ceremonies</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Main Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/25/</url>
+            <location>Crystal</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>100@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-100</pentabarf:event-slug>
+            <pentabarf:title>Scribbles N Bits</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T160000</dtstart>
+            <dtend>20240225T170000</dtend>
+            <duration>1.00000</duration>
+            <summary>Scribbles N Bits</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/100/</url>
+            <location>Pabst</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>8@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-8</pentabarf:event-slug>
+            <pentabarf:title>Alternatives to Dungeons &amp; Dragons</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T173000</dtstart>
+            <dtend>20240225T183000</dtend>
+            <duration>1.00000</duration>
+            <summary>Alternatives to Dungeons &amp; Dragons</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/8/</url>
+            <location>Pabst</location>
+            
+            <attendee>Draggor</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>52@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-52</pentabarf:event-slug>
+            <pentabarf:title>Get Started GMing!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T183000</dtstart>
+            <dtend>20240225T193000</dtend>
+            <duration>1.00000</duration>
+            <summary>Get Started GMing!</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/52/</url>
+            <location>Pabst</location>
+            
+            <attendee>a fox named coyote</attendee>
+            
+            <attendee>Ulric Stiltwolf</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>18@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-18</pentabarf:event-slug>
+            <pentabarf:title>Casting Resin Dice 101</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T200000</dtstart>
+            <dtend>20240225T210000</dtend>
+            <duration>1.00000</duration>
+            <summary>Casting Resin Dice 101</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/18/</url>
+            <location>Pabst</location>
+            
+            <attendee>Arcane Owl Dice</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>127@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-127</pentabarf:event-slug>
+            <pentabarf:title>Vore Furs Meet and Eat (Greet) (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T030000</dtstart>
+            <dtend>20240225T040000</dtend>
+            <duration>1.00000</duration>
+            <summary>Vore Furs Meet and Eat (Greet) (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/127/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Amicus Verum</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>131@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-131</pentabarf:event-slug>
+            <pentabarf:title>Writing Furry Erotica (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T043000</dtstart>
+            <dtend>20240225T053000</dtend>
+            <duration>1.00000</duration>
+            <summary>Writing Furry Erotica (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/131/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>73@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-73</pentabarf:event-slug>
+            <pentabarf:title>Iggy&#x27;s Self-Indulgent Parlour Games Panel For A Midnight Crowd</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T060000</dtstart>
+            <dtend>20240225T070000</dtend>
+            <duration>1.00000</duration>
+            <summary>Iggy&#x27;s Self-Indulgent Parlour Games Panel For A Midnight Crowd</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Performance</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/73/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>121@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-121</pentabarf:event-slug>
+            <pentabarf:title>The Fourth Annual FurSquared Spelling Bee</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T163000</dtstart>
+            <dtend>20240225T173000</dtend>
+            <duration>1.00000</duration>
+            <summary>The Fourth Annual FurSquared Spelling Bee</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/121/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Status Ferret</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>9@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-9</pentabarf:event-slug>
+            <pentabarf:title>Aquascaping 101</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T180000</dtstart>
+            <dtend>20240225T190000</dtend>
+            <duration>1.00000</duration>
+            <summary>Aquascaping 101</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/9/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Lone</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>117@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-117</pentabarf:event-slug>
+            <pentabarf:title>Storytellers</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T190000</dtstart>
+            <dtend>20240225T200000</dtend>
+            <duration>1.00000</duration>
+            <summary>Storytellers</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/117/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>89@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-89</pentabarf:event-slug>
+            <pentabarf:title>Name that Tune: Gaming Edition</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T203000</dtstart>
+            <dtend>20240225T213000</dtend>
+            <duration>1.00000</duration>
+            <summary>Name that Tune: Gaming Edition</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/89/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Renato</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>78@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-78</pentabarf:event-slug>
+            <pentabarf:title>Jackbox Party Time!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T210000</dtstart>
+            <dtend>20240225T220000</dtend>
+            <duration>1.00000</duration>
+            <summary>Jackbox Party Time!</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/78/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>80@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-80</pentabarf:event-slug>
+            <pentabarf:title>Lawyer Horror Stories </pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T220000</dtstart>
+            <dtend>20240225T230000</dtend>
+            <duration>1.00000</duration>
+            <summary>Lawyer Horror Stories </summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/80/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Boozy Badger</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>33@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-33</pentabarf:event-slug>
+            <pentabarf:title>Dealer&#x27;s Den</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T160000</dtstart>
+            <dtend>20240225T220000</dtend>
+            <duration>6.00000</duration>
+            <summary>Dealer&#x27;s Den</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/33/</url>
+            <location>Regency</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>115@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-115</pentabarf:event-slug>
+            <pentabarf:title>Sponsor&#x27;s Lounge</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T140000</dtstart>
+            <dtend>20240226T000000</dtend>
+            <duration>10.00000</duration>
+            <summary>Sponsor&#x27;s Lounge</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/115/</url>
+            <location>Empire</location>
+            
+            <attendee>Gazzy</attendee>
+            
+            <attendee>Konnor Unuki</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>50@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-50</pentabarf:event-slug>
+            <pentabarf:title>Fursuit Photos</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T163000</dtstart>
+            <dtend>20240225T220000</dtend>
+            <duration>5.03000</duration>
+            <summary>Fursuit Photos</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/50/</url>
+            <location>Wright A</location>
+            
+            <attendee>Kehmet</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>59@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-59</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Miller)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T150000</dtstart>
+            <dtend>20240226T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Miller)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/59/</url>
+            <location>Miller</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>63@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-63</pentabarf:event-slug>
+            <pentabarf:title>Headless Lounge (Founders)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T150000</dtstart>
+            <dtend>20240226T060000</dtend>
+            <duration>15.00000</duration>
+            <summary>Headless Lounge (Founders)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/63/</url>
+            <location>Founders</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>91@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-91</pentabarf:event-slug>
+            <pentabarf:title>Night Market</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T030000</dtstart>
+            <dtend>20240225T070000</dtend>
+            <duration>4.00000</duration>
+            <summary>Night Market</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/91/</url>
+            <location>Juneau</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>157@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-157</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T140000</dtstart>
+            <dtend>20240226T000000</dtend>
+            <duration>10.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/157/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>116@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-116</pentabarf:event-slug>
+            <pentabarf:title>Squishy Cuddly Plushie Appreciation</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T160000</dtstart>
+            <dtend>20240225T170000</dtend>
+            <duration>1.00000</duration>
+            <summary>Squishy Cuddly Plushie Appreciation</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/116/</url>
+            <location>Usinger</location>
+            
+            <attendee>Ditsy</attendee>
+            
+            <attendee>Trouble</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>138@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-138</pentabarf:event-slug>
+            <pentabarf:title>Registration</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T150000</dtstart>
+            <dtend>20240225T210000</dtend>
+            <duration>6.00000</duration>
+            <summary>Registration</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/138/</url>
+            <location>Registration</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>141@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-141</pentabarf:event-slug>
+            <pentabarf:title>Operations</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T150000</dtstart>
+            <dtend>20240225T210000</dtend>
+            <duration>6.00000</duration>
+            <summary>Operations</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/141/</url>
+            <location>Golda Meir</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>145@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-145</pentabarf:event-slug>
+            <pentabarf:title>Security</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T110000</dtstart>
+            <dtend>20240225T120000</dtend>
+            <duration>1.00000</duration>
+            <summary>Security</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/145/</url>
+            <location>Business Center</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>148@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-148</pentabarf:event-slug>
+            <pentabarf:title>Video Games</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T160000</dtstart>
+            <dtend>20240225T230000</dtend>
+            <duration>7.00000</duration>
+            <summary>Video Games</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Video Gaming</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/148/</url>
+            <location>Kilbourn</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>153@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-153</pentabarf:event-slug>
+            <pentabarf:title>Artist&#x27;s Alley</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T170000</dtstart>
+            <dtend>20240225T220000</dtend>
+            <duration>5.00000</duration>
+            <summary>Artist&#x27;s Alley</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/153/</url>
+            <location>Oak</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+    </vcalendar>
+</iCalendar>

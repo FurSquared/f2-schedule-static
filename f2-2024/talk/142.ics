@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//142
+BEGIN:VEVENT
+UID:pretalx-f2-2024-142@schedule.fursquared.com
+DTSTART:20240222T110000Z
+DTEND:20240222T120000Z
+DESCRIPTION:.
+DTSTAMP:20240204T190824Z
+LOCATION:Business Center
+SUMMARY:Security - FurSquared Staff
+URL:https://schedule.fursquared.com/f2-2024/talk/142/
+END:VEVENT
+END:VCALENDAR

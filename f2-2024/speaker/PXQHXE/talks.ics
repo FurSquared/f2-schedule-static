@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//PXQHXE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-1@schedule.fursquared.com
+DTSTART:20240225T000000Z
+DTEND:20240225T010000Z
+DESCRIPTION:\nFrom the first multi-day fan event Worldcon in 1939 to the mu
+ lti-media giants that swarm the convention halls of today\, the evolution 
+ of pop culture cons have come far. From the filk of old scifi\, to first c
+ omic con artist alleys\, to the first AMV at an anime con\, to the first f
+ ursuit parade at a furry con\, to hand Trekkies and bronies had in innovat
+ ing convention staffing\, all of us are part of one large family tree of f
+ an events. Presented by the Convention History Project. \n\n        
+DTSTAMP:20240204T190849Z
+LOCATION:Walker
+SUMMARY:85 Years of Fan Convention History  - Con History Project
+URL:https://schedule.fursquared.com/f2-2024/talk/1/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//7
+BEGIN:VEVENT
+UID:pretalx-f2-2024-7@schedule.fursquared.com
+DTSTART:20240225T160000Z
+DTEND:20240225T173000Z
+DESCRIPTION:Put your sketchbook in the pile\, pick up another one\, and dra
+ w something you think they would like! Bringing character references is en
+ couraged. Please make sure your sketchbook is suitable for all audiences!
+DTSTAMP:20240204T190837Z
+LOCATION:Walker
+SUMMARY:All Ages Sketchbook Swap - Rouge
+URL:https://schedule.fursquared.com/f2-2024/talk/7/
+END:VEVENT
+END:VCALENDAR

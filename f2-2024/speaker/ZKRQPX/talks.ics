@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//ZKRQPX
+BEGIN:VEVENT
+UID:pretalx-f2-2024-95@schedule.fursquared.com
+DTSTART:20240224T053000Z
+DTEND:20240224T063000Z
+DESCRIPTION:Join us for an informative panel about the practice and communi
+ ty of Pet Play (including its more commonly known subcategories of Pup Pla
+ y\, Pony Play\, etc.)\, followed by a meet & greet!
+DTSTAMP:20240204T190848Z
+LOCATION:Mitchell
+SUMMARY:Pet Play 101 (18+) - Pup Delta\, Pup Griso\, Pup Roofus
+URL:https://schedule.fursquared.com/f2-2024/talk/95/
+END:VEVENT
+END:VCALENDAR

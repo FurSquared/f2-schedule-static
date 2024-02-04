@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//29
+BEGIN:VEVENT
+UID:pretalx-f2-2024-29@schedule.fursquared.com
+DTSTART:20240223T203000Z
+DTEND:20240223T223000Z
+DESCRIPTION:This is a closed rehearsal for Down Bad Furlesque performers an
+ d staff. Please only come to this event if you have been requested to do s
+ o.
+DTSTAMP:20240204T190826Z
+LOCATION:Crystal
+SUMMARY:DBF Dress Rehearsal (18+) - Slug
+URL:https://schedule.fursquared.com/f2-2024/talk/29/
+END:VEVENT
+END:VCALENDAR

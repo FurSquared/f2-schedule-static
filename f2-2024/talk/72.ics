@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//72
+BEGIN:VEVENT
+UID:pretalx-f2-2024-72@schedule.fursquared.com
+DTSTART:20240224T233000Z
+DTEND:20240225T003000Z
+DESCRIPTION:A game show where you and a celebrity guest compete to conquer 
+ the Pyramid! The game consists of listing things loudly until your teammat
+ e says the thing you're describing. There's seven items on the list per ro
+ und and they are all of a similar category. Unlike Super Password Plus\, y
+ ou can give a definition\, act out the word\, anything you think that'll m
+ ake your teammate say the word(s) on the card.
+DTSTAMP:20240204T190834Z
+LOCATION:Pabst
+SUMMARY:Iggy's Pyramid - Iggy
+URL:https://schedule.fursquared.com/f2-2024/talk/72/
+END:VEVENT
+END:VCALENDAR

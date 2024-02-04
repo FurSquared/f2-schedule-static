@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//27
+BEGIN:VEVENT
+UID:pretalx-f2-2024-27@schedule.fursquared.com
+DTSTART:20240223T220000Z
+DTEND:20240223T230000Z
+DESCRIPTION:Come out and see what happens behind the closed doors of conven
+ tions. Sit back and listen to the stories that you were never meant to fin
+ d out about from our panel of convention staff and board members. Enjoy th
+ e stories and find out why that cop was shaking his head well laughing. 
+DTSTAMP:20240204T190826Z
+LOCATION:Wright
+SUMMARY:Convention Horror Stories - Alkali Bismuth
+URL:https://schedule.fursquared.com/f2-2024/talk/27/
+END:VEVENT
+END:VCALENDAR

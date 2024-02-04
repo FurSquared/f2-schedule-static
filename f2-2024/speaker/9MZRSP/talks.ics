@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//9MZRSP
+BEGIN:VEVENT
+UID:pretalx-f2-2024-83@schedule.fursquared.com
+DTSTART:20240225T180000Z
+DTEND:20240225T193000Z
+DESCRIPTION:Let's get together and make some Kandi\, those colorful bead br
+ acelets! Lots of good vibes\, good folk\, and good music. Supplies provide
+ d\, and we'll have a table with helpers for anyone new to making Kandi.
+DTSTAMP:20240204T190852Z
+LOCATION:Walker
+SUMMARY:Let's Make Kandi! - Vixie
+URL:https://schedule.fursquared.com/f2-2024/talk/83/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//PDWPYV
+BEGIN:VEVENT
+UID:pretalx-f2-2024-116@schedule.fursquared.com
+DTSTART:20240225T160000Z
+DTEND:20240225T170000Z
+DESCRIPTION:A panelist-led discussion and Q&A session about how plushies ar
+ e used throughout our lives. How is it that we became so attached to these
+  poly-filled and polyester blend fabric creatures that make us happy? Let'
+ s discuss this and more at the plushy panel. Don't forget to bring your fa
+ vorite squishable friend if you like. Bonus\, we may raffle off a few new 
+ plush friends for you to take home and add to your collection.
+DTSTAMP:20240204T190853Z
+LOCATION:Usinger
+SUMMARY:Squishy Cuddly Plushie Appreciation - Ditsy\, Trouble
+URL:https://schedule.fursquared.com/f2-2024/talk/116/
+END:VEVENT
+END:VCALENDAR

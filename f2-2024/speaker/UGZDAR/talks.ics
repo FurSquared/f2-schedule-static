@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//UGZDAR
+BEGIN:VEVENT
+UID:pretalx-f2-2024-97@schedule.fursquared.com
+DTSTART:20240225T040000Z
+DTEND:20240225T050000Z
+DESCRIPTION:Have you ever seen a shiny critter running around a con or onli
+ ne and wondered what it's all about? Well\, now's your chance! Come join u
+ s and other rubberfurs as we answer your questions and what makes rubber s
+ o special. Make a new friend or learn something new. Rubber not required\,
+  but highly encouraged!
+DTSTAMP:20240204T190850Z
+LOCATION:Walker
+SUMMARY:Rubberfurs: Meet and Greet! (18+) - Kizu Watage
+URL:https://schedule.fursquared.com/f2-2024/talk/97/
+END:VEVENT
+END:VCALENDAR

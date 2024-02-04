@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//40
+BEGIN:VEVENT
+UID:pretalx-f2-2024-40@schedule.fursquared.com
+DTSTART:20240223T183000Z
+DTEND:20240223T200000Z
+DESCRIPTION:Let your fur do the talking! In this twist on furry charades ba
+ sed on TV’s “Body Language\,” teams of two use pantomime to convey c
+ lues to furry-themed puzzles. Winners receive a small prize and play a bon
+ us round for HAWS! (Fursuiters\, please note that every player has to spea
+ k at some point in the game.)
+DTSTAMP:20240204T190826Z
+LOCATION:Wright
+SUMMARY:Furry Language: The Game Show! - CCritt93
+URL:https://schedule.fursquared.com/f2-2024/talk/40/
+END:VEVENT
+END:VCALENDAR

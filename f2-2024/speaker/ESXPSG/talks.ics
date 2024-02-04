@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//ESXPSG
+BEGIN:VEVENT
+UID:pretalx-f2-2024-128@schedule.fursquared.com
+DTSTART:20240223T230000Z
+DTEND:20240224T000000Z
+DESCRIPTION:Star'Clan wants you to come join for a good time of discussion\
+ , laughter\, and a little bit of trivia!
+DTSTAMP:20240204T190847Z
+LOCATION:Pabst
+SUMMARY:Warrior Cats Fan Meet Up - 1BitJay
+URL:https://schedule.fursquared.com/f2-2024/talk/128/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//37
+BEGIN:VEVENT
+UID:pretalx-f2-2024-37@schedule.fursquared.com
+DTSTART:20240224T050000Z
+DTEND:20240224T080000Z
+DESCRIPTION:\nDodiePOP 11pm (House\, Pop\, J-pop\, K-pop)\nDJ Dragon M A A 
+ W 12am (DnB\, Trap\, Dubstep\, House)\nAves 1am (Hard Dance)\n        
+DTSTAMP:20240204T190826Z
+LOCATION:Crystal
+SUMMARY:Friday Night Dances - DodiePOP\, DJ Dragon M A A W\, Aves
+URL:https://schedule.fursquared.com/f2-2024/talk/37/
+END:VEVENT
+END:VCALENDAR

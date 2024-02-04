@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//28
+BEGIN:VEVENT
+UID:pretalx-f2-2024-28@schedule.fursquared.com
+DTSTART:20240225T150000Z
+DTEND:20240225T160000Z
+DESCRIPTION:Darkglow Fitness is originally an event that happens two nights
+  a week on VRChat\, brought into real life for a night! Ziggy Darkglow\, y
+ our certified trainer\, will go through a quick fitness course with you an
+ d show how fitness can be fun and doesn't have to be boring!
+DTSTAMP:20240204T190837Z
+LOCATION:Wright
+SUMMARY:Darkglow Fitness! - Ziggy Darkglow\, Catboyxei
+URL:https://schedule.fursquared.com/f2-2024/talk/28/
+END:VEVENT
+END:VCALENDAR

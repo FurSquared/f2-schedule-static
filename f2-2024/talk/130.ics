@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//130
+BEGIN:VEVENT
+UID:pretalx-f2-2024-130@schedule.fursquared.com
+DTSTART:20240223T180000Z
+DTEND:20240223T190000Z
+DESCRIPTION:Come and layeth the smacketh down in this wonderful panel of fu
+ rs who love pro wrestling! Come and discuss your favorite wrestlers\, matc
+ hes\, moments\, moves\, or learn what it’s all about! The matches may be
+  predetermined\, but this meetup turnout is not!
+DTSTAMP:20240204T190828Z
+LOCATION:Pabst
+SUMMARY:WrestleFur Meetup - Konnor Unuki
+URL:https://schedule.fursquared.com/f2-2024/talk/130/
+END:VEVENT
+END:VCALENDAR

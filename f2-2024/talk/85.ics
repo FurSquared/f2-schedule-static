@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//85
+BEGIN:VEVENT
+UID:pretalx-f2-2024-85@schedule.fursquared.com
+DTSTART:20240224T183000Z
+DTEND:20240224T203000Z
+DESCRIPTION:Rob will live paint a Fursona portrait for one lucky attendee a
+ t the panel.
+DTSTAMP:20240204T190834Z
+LOCATION:Mitchell
+SUMMARY:Live Demo - Painting a Fursona - Rob Hogan
+URL:https://schedule.fursquared.com/f2-2024/talk/85/
+END:VEVENT
+END:VCALENDAR

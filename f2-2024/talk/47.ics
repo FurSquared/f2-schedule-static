@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//47
+BEGIN:VEVENT
+UID:pretalx-f2-2024-47@schedule.fursquared.com
+DTSTART:20240224T173000Z
+DTEND:20240224T193000Z
+DESCRIPTION:Come see the best fursuit dancers F2 has to offer in this year'
+ s Dance Competition! The performers will be competing with their choreogra
+ phed routines to take first place\, who will earn the trophy this year?
+DTSTAMP:20240204T190833Z
+LOCATION:Crystal
+SUMMARY:Fursuit Dance Competition - Slade
+URL:https://schedule.fursquared.com/f2-2024/talk/47/
+END:VEVENT
+END:VCALENDAR

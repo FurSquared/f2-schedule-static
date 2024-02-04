@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//66
+BEGIN:VEVENT
+UID:pretalx-f2-2024-66@schedule.fursquared.com
+DTSTART:20240224T003000Z
+DTEND:20240224T013000Z
+DESCRIPTION:If you find yourself zooming\, swirling\, and screaming\, you'r
+ e likely a husky! Come stop on by and say hello if your sona is a husky or
+  a hybrid\, have an actual hoosk at home\, or a fan of this cool breed of 
+ dog. Let’s all scream together! =D
+DTSTAMP:20240204T190827Z
+LOCATION:Pabst
+SUMMARY:Hoosk Meet and Greet!  - Dustin DaHusky
+URL:https://schedule.fursquared.com/f2-2024/talk/66/
+END:VEVENT
+END:VCALENDAR

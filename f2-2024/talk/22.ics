@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//22
+BEGIN:VEVENT
+UID:pretalx-f2-2024-22@schedule.fursquared.com
+DTSTART:20240224T193000Z
+DTEND:20240224T203000Z
+DESCRIPTION:Come out and see some of the funniest people in the fandom perf
+ orming in Improv games. This 100% off the cuff event will go to support ou
+ r charity\, so come one come all and see some of your favorite funny furs 
+ make fools of themselves. As with any Improv event\, audience participatio
+ n is bound to happen. 
+DTSTAMP:20240204T190832Z
+LOCATION:Wright
+SUMMARY:Charity Whose Lion is it Anyway? - Alkali Bismuth
+URL:https://schedule.fursquared.com/f2-2024/talk/22/
+END:VEVENT
+END:VCALENDAR

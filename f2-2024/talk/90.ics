@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//90
+BEGIN:VEVENT
+UID:pretalx-f2-2024-90@schedule.fursquared.com
+DTSTART:20240224T030000Z
+DTEND:20240224T070000Z
+DESCRIPTION:\nRumours abound of a secret gathering\, a shady Night Market t
+ hat takes \nplace in the Alley near the Dealer's Den after the sun has gon
+ e down. \nUnder cover of night\, vendors gather to hawk their wares to a m
+ ore \nspecialized crowd\, selling various sundries to the discerning adult
+  \ncustomer. Drop by if you dare! No secret password is required for entry
+ \,\n although all that visit the Night Market must be at least 18 years ol
+ d.\n        
+DTSTAMP:20240204T190830Z
+LOCATION:Juneau
+SUMMARY:Night Market - FurSquared Staff
+URL:https://schedule.fursquared.com/f2-2024/talk/90/
+END:VEVENT
+END:VCALENDAR

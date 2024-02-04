@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//Z8YY9M
+BEGIN:VEVENT
+UID:pretalx-f2-2024-99@schedule.fursquared.com
+DTSTART:20240223T193000Z
+DTEND:20240223T203000Z
+DESCRIPTION:\nCalling all critters scaly\, slimy\, aquatic\, and insectoid!
+  Stop by to mingle\, take photos\, and chat with your fellow non-mammalian
+  furs. Fursuits not required - come as you are! \nFree buttons will be pro
+ vided to the first 50 attendees\, and a sketchbook swap will be hosted dur
+ ing the meet.\n        
+DTSTAMP:20240204T190847Z
+LOCATION:Pabst
+SUMMARY:Scales & Slime Meetup - LycanthropyLive
+URL:https://schedule.fursquared.com/f2-2024/talk/99/
+END:VEVENT
+END:VCALENDAR

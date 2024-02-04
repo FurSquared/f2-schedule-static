@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//133
+BEGIN:VEVENT
+UID:pretalx-f2-2024-133@schedule.fursquared.com
+DTSTART:20240223T000000Z
+DTEND:20240223T020000Z
+DESCRIPTION:This light-hearted RPG-esque system was borne of frisky fantasy
+ \, silly stories of over-the-top shenanigans.  Gameplay gives players a di
+ fferent perspective on the psychology behind modern-day sexuality in a sil
+ ly-fun and sex-positive way!
+DTSTAMP:20240204T190824Z
+LOCATION:MacArthur
+SUMMARY:Your Imagined Furry Fantasy (18+) - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/133/
+END:VEVENT
+END:VCALENDAR

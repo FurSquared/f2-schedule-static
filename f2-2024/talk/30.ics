@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//30
+BEGIN:VEVENT
+UID:pretalx-f2-2024-30@schedule.fursquared.com
+DTSTART:20240226T020000Z
+DTEND:20240226T040000Z
+DESCRIPTION:For those lingering after the con we have karaoke for the late 
+ night party animals!  Come sing along until the last furry hits the floor.
+DTSTAMP:20240204T190837Z
+LOCATION:Wright
+SUMMARY:Dead Dog Karaoke - Serathin Sabertooth
+URL:https://schedule.fursquared.com/f2-2024/talk/30/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//38
+BEGIN:VEVENT
+UID:pretalx-f2-2024-38@schedule.fursquared.com
+DTSTART:20240224T173000Z
+DTEND:20240224T190000Z
+DESCRIPTION:The classic TV game of higher and lower—with a furry twist! P
+ layers predict how furry fans responded to poll questions\, then test thei
+ r luck against the cards. Winners receive a small prize and play the Money
+  Cards for HAWS!
+DTSTAMP:20240204T190832Z
+LOCATION:Wright
+SUMMARY:Furry Card Sharks - CCritt93
+URL:https://schedule.fursquared.com/f2-2024/talk/38/
+END:VEVENT
+END:VCALENDAR

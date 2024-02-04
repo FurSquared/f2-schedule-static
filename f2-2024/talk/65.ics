@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//65
+BEGIN:VEVENT
+UID:pretalx-f2-2024-65@schedule.fursquared.com
+DTSTART:20240224T220000Z
+DTEND:20240224T230000Z
+DESCRIPTION:Do you want to record vocals\, but don't know where to start? D
+ o you want to get your budding voice acting/singing/podcasting career off 
+ the ground\, but don't know what equipment to get? I can help you with tha
+ t! This panel will cover the basics of home vocal recording\, and provide 
+ equipment suggestions for a variety of budgets. I'll teach you how to make
+  your ideas a reality\, without breaking the bank!
+DTSTAMP:20240204T190834Z
+LOCATION:Pabst
+SUMMARY:Home Vocal Recording on a Budget - Shallie Dragon
+URL:https://schedule.fursquared.com/f2-2024/talk/65/
+END:VEVENT
+END:VCALENDAR

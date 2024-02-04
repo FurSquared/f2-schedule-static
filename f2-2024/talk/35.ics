@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//35
+BEGIN:VEVENT
+UID:pretalx-f2-2024-35@schedule.fursquared.com
+DTSTART:20240224T190000Z
+DTEND:20240224T200000Z
+DESCRIPTION:Military field telephones. An entry level discussion to get the
+ m tested and working again\, their history\, evolution\, and their uses. C
+ ome stop by and have a little fun over the wire! Have a field phone? Bring
+  it along!
+DTSTAMP:20240204T190833Z
+LOCATION:Pabst
+SUMMARY:Field Telephones - Dustin DaHusky
+URL:https://schedule.fursquared.com/f2-2024/talk/35/
+END:VEVENT
+END:VCALENDAR

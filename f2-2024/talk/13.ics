@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//13
+BEGIN:VEVENT
+UID:pretalx-f2-2024-13@schedule.fursquared.com
+DTSTART:20240223T213000Z
+DTEND:20240223T223000Z
+DESCRIPTION:Going over the basics of how to structure or organize a themed 
+ mix tape\, as well as ways to record on your cassette tape. It's reel fun!
+DTSTAMP:20240204T190829Z
+LOCATION:Schlitz
+SUMMARY:Basics to Mix Tapes - Dustin DaHusky
+URL:https://schedule.fursquared.com/f2-2024/talk/13/
+END:VEVENT
+END:VCALENDAR

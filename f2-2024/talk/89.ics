@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//89
+BEGIN:VEVENT
+UID:pretalx-f2-2024-89@schedule.fursquared.com
+DTSTART:20240225T203000Z
+DTEND:20240225T213000Z
+DESCRIPTION:Come on down and see how well you know the music to some of you
+ r favorite Video Games! We’ll be playing some of your favorite and iconi
+ c tunes from games of all kinds\, test your knowledge against others in th
+ is friendly multi round competition!
+DTSTAMP:20240204T190839Z
+LOCATION:Mitchell
+SUMMARY:Name that Tune: Gaming Edition - Renato
+URL:https://schedule.fursquared.com/f2-2024/talk/89/
+END:VEVENT
+END:VCALENDAR

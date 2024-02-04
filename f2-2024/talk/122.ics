@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//122
+BEGIN:VEVENT
+UID:pretalx-f2-2024-122@schedule.fursquared.com
+DTSTART:20240224T000000Z
+DTEND:20240224T013000Z
+DESCRIPTION:Based on the popular TV show “Whose Line is it Anyway\,” th
+ is is everyone’s chance to get up on stage and improvise with their fell
+ ow furs! A completely interactive panel\, Whose Lion will feature such gam
+ es as: Questions Only\, Who’s Line\, Party Quirks\, and even World’s W
+ orst. Hosted by Alkali\, this panel is sure to be a good time for all\; so
+  come on out\, get up on stage\, and show everyone how quick your wit is. 
+ Panel is 18+\, and may not be suitable for minors. People with a heart con
+ dition should not have a heart attack during this panel as we will think y
+ ou are acting. Panel has been known to cause uproarious laughter\, fits of
+  giggling\, and diarrhea. See you there!
+DTSTAMP:20240204T190826Z
+LOCATION:Wright
+SUMMARY:The Original Whose Lion is it Anyway? (18+) - Alkali Bismuth
+URL:https://schedule.fursquared.com/f2-2024/talk/122/
+END:VEVENT
+END:VCALENDAR

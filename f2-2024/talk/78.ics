@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//78
+BEGIN:VEVENT
+UID:pretalx-f2-2024-78@schedule.fursquared.com
+DTSTART:20240225T210000Z
+DTEND:20240225T220000Z
+DESCRIPTION:Bring your cell phones and get ready to party! Join your host S
+ erathin as we play from the Jackbox party packs. With games galore there w
+ ill be plenty to choose from and as always its the more the merrier!
+DTSTAMP:20240204T190839Z
+LOCATION:Mitchell
+SUMMARY:Jackbox Party Time! - Serathin Sabertooth
+URL:https://schedule.fursquared.com/f2-2024/talk/78/
+END:VEVENT
+END:VCALENDAR

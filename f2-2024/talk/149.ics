@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//149
+BEGIN:VEVENT
+UID:pretalx-f2-2024-149@schedule.fursquared.com
+DTSTART:20240223T223000Z
+DTEND:20240224T000000Z
+DESCRIPTION:https://challonge.com/FurSquared2024MarioKart
+DTSTAMP:20240204T190831Z
+LOCATION:Kilbourn
+SUMMARY:Mario Kart Tournament - FurSquared Staff
+URL:https://schedule.fursquared.com/f2-2024/talk/149/
+END:VEVENT
+END:VCALENDAR

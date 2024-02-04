@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//107
+BEGIN:VEVENT
+UID:pretalx-f2-2024-107@schedule.fursquared.com
+DTSTART:20240224T163000Z
+DTEND:20240224T173000Z
+DESCRIPTION:Worried that your parents know about your furry life? Hear from
+  Konnor’s father as to how he handled the news. He will be open to any q
+ uestions you may have.
+DTSTAMP:20240204T190834Z
+LOCATION:Pabst
+SUMMARY:So\, Your Parents Found Out… - Konnor Unuki
+URL:https://schedule.fursquared.com/f2-2024/talk/107/
+END:VEVENT
+END:VCALENDAR

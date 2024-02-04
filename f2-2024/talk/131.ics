@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//131
+BEGIN:VEVENT
+UID:pretalx-f2-2024-131@schedule.fursquared.com
+DTSTART:20240225T043000Z
+DTEND:20240225T053000Z
+DESCRIPTION:For those curious on how to write an effective adult novel\, we
+  talk about the difference between smut and erotica and how to write both.
+  Whether curious about the process or interested in working in the fandom\
+ , this is the panel for you! Questions encouraged and many topics on the t
+ able.
+DTSTAMP:20240204T190835Z
+LOCATION:Mitchell
+SUMMARY:Writing Furry Erotica (18+) - Serathin Sabertooth
+URL:https://schedule.fursquared.com/f2-2024/talk/131/
+END:VEVENT
+END:VCALENDAR

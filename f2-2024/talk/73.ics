@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//73
+BEGIN:VEVENT
+UID:pretalx-f2-2024-73@schedule.fursquared.com
+DTSTART:20240225T060000Z
+DTEND:20240225T070000Z
+DESCRIPTION:A completely self-indulgent panel.  You did read the title righ
+ t?
+DTSTAMP:20240204T190839Z
+LOCATION:Mitchell
+SUMMARY:Iggy's Self-Indulgent Parlour Games Panel For A Midnight Crowd - Ig
+ gy
+URL:https://schedule.fursquared.com/f2-2024/talk/73/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//71
+BEGIN:VEVENT
+UID:pretalx-f2-2024-71@schedule.fursquared.com
+DTSTART:20240225T200000Z
+DTEND:20240225T210000Z
+DESCRIPTION:Iggy's improv show\, featuring a variety of friends who are mos
+ tly on the panel to be tortured by Iggy.  The show will feature lesser pla
+ yed short-form games (similar to those on Whose Lion) and long form improv
+  (stuff you've probably never seen unless you've been to this panel).  
+DTSTAMP:20240204T190838Z
+LOCATION:Wright
+SUMMARY:Iggy's Improv Expo - Iggy
+URL:https://schedule.fursquared.com/f2-2024/talk/71/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//17
+BEGIN:VEVENT
+UID:pretalx-f2-2024-17@schedule.fursquared.com
+DTSTART:20240225T213000Z
+DTEND:20240225T223000Z
+DESCRIPTION:Resumes\, applying for jobs\, interviewing\, etc. Finding a job
+  can be a ton of work and it can be difficult to find your first or next p
+ osition! Come join f0rl00p\, who has coached numerous furries and normies 
+ on career growth\, for a lighthearted discussion on making yourself stand 
+ out and grow. Q&A will be lengthy\, so bring your questions!
+DTSTAMP:20240204T190837Z
+LOCATION:Walker
+SUMMARY:Career Growth for Furries - f0rl00p
+URL:https://schedule.fursquared.com/f2-2024/talk/17/
+END:VEVENT
+END:VCALENDAR

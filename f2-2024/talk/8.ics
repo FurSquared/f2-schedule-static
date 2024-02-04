@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//8
+BEGIN:VEVENT
+UID:pretalx-f2-2024-8@schedule.fursquared.com
+DTSTART:20240225T173000Z
+DTEND:20240225T183000Z
+DESCRIPTION:Most folks have heard of Dungeons and Dragons\, the most popula
+ r and successful table top role playing game (TTRPG).  Ever wondered what 
+ else is out there?  Join us for a panel discussion on some other systems w
+ ith radically different (and fun) ways to play!
+DTSTAMP:20240204T190838Z
+LOCATION:Pabst
+SUMMARY:Alternatives to Dungeons & Dragons - Draggor
+URL:https://schedule.fursquared.com/f2-2024/talk/8/
+END:VEVENT
+END:VCALENDAR

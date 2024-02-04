@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//80
+BEGIN:VEVENT
+UID:pretalx-f2-2024-80@schedule.fursquared.com
+DTSTART:20240225T220000Z
+DTEND:20240225T230000Z
+DESCRIPTION:Come out and see what happens behind the closed doors of conven
+ tions. Sit back and listen to the stories that you were never meant to fin
+ d out about\, from our panel of convention staff and board members. Enjoy 
+ the stories and find out why that cop was shaking his head while laughing.
+DTSTAMP:20240204T190839Z
+LOCATION:Mitchell
+SUMMARY:Lawyer Horror Stories  - Boozy Badger
+URL:https://schedule.fursquared.com/f2-2024/talk/80/
+END:VEVENT
+END:VCALENDAR

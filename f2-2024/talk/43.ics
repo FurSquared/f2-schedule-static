@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//43
+BEGIN:VEVENT
+UID:pretalx-f2-2024-43@schedule.fursquared.com
+DTSTART:20240224T170000Z
+DTEND:20240224T180000Z
+DESCRIPTION:You're a furry.  You're a musician.  Does that make you a Furry
+  Musician?  A Musical Furry?  What makes music "Furry"?  How do profession
+ al musicians who are also furry balance their vocation and their avocation
+ ?
+DTSTAMP:20240204T190834Z
+LOCATION:Mitchell
+SUMMARY:Furry/Musician - a Roundtable - Rhubarb the Bear\, Cosmik
+URL:https://schedule.fursquared.com/f2-2024/talk/43/
+END:VEVENT
+END:VCALENDAR

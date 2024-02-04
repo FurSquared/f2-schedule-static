@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//96
+BEGIN:VEVENT
+UID:pretalx-f2-2024-96@schedule.fursquared.com
+DTSTART:20240224T013000Z
+DTEND:20240224T023000Z
+DESCRIPTION:An explanation and summary of all the aspects of reenacting and
+  airsofting\, what to expect\, what is focused on\, and how to have fun do
+ ing it in the field!
+DTSTAMP:20240204T190829Z
+LOCATION:Schlitz
+SUMMARY:Reenacting and Airsofting - Dustin DaHusky
+URL:https://schedule.fursquared.com/f2-2024/talk/96/
+END:VEVENT
+END:VCALENDAR

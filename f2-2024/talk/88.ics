@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//88
+BEGIN:VEVENT
+UID:pretalx-f2-2024-88@schedule.fursquared.com
+DTSTART:20240224T033000Z
+DTEND:20240224T043000Z
+DESCRIPTION:A murrsuit meetup and open discussion. This is a social gatheri
+ ng and a panel to discuss and inform. Please have your bits covered.
+DTSTAMP:20240204T190827Z
+LOCATION:Pabst
+SUMMARY:Murrsuit Meetup (18+) - Fenlan
+URL:https://schedule.fursquared.com/f2-2024/talk/88/
+END:VEVENT
+END:VCALENDAR

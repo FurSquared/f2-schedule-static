@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//34
+BEGIN:VEVENT
+UID:pretalx-f2-2024-34@schedule.fursquared.com
+DTSTART:20240225T023000Z
+DTEND:20240225T043000Z
+DESCRIPTION:DBF is an adult variety show mixing the art of acting\, dance\,
+  and fursuiting! Come witness the magic of the stage as our performers put
+  on a top-notch show for you! Like what you see? Toss some money! Our even
+ t proudly gives to the convention's charity!
+DTSTAMP:20240204T190833Z
+LOCATION:Crystal
+SUMMARY:Down Bad Furlesque - Slug
+URL:https://schedule.fursquared.com/f2-2024/talk/34/
+END:VEVENT
+END:VCALENDAR

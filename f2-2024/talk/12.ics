@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//12
+BEGIN:VEVENT
+UID:pretalx-f2-2024-12@schedule.fursquared.com
+DTSTART:20240225T030000Z
+DTEND:20240225T040000Z
+DESCRIPTION:Are you a Babyfur or a member of the ABDL community or are you 
+ just curious as to what this section of the fandom is about? Come join us 
+ for an hour of discussion and mingling and making new friends.
+DTSTAMP:20240204T190831Z
+LOCATION:Walker
+SUMMARY:Babyfur Meet and Greet and Discussion (18+) - Citrine Husky
+URL:https://schedule.fursquared.com/f2-2024/talk/12/
+END:VEVENT
+END:VCALENDAR

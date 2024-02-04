@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//26
+BEGIN:VEVENT
+UID:pretalx-f2-2024-26@schedule.fursquared.com
+DTSTART:20240223T150000Z
+DTEND:20240223T170000Z
+DESCRIPTION:Closed sound check and rehearsal.
+DTSTAMP:20240204T190826Z
+LOCATION:Crystal
+SUMMARY:Concert Block Sound Check - FurSquared Staff
+URL:https://schedule.fursquared.com/f2-2024/talk/26/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//24
+BEGIN:VEVENT
+UID:pretalx-f2-2024-24@schedule.fursquared.com
+DTSTART:20240224T040000Z
+DTEND:20240224T050000Z
+DESCRIPTION:Come join Garfield enthusiasts as we draw only cursed Garfields
+ .
+DTSTAMP:20240204T190824Z
+LOCATION:Walker
+SUMMARY:Church of Garf (18+) - Tapioca
+URL:https://schedule.fursquared.com/f2-2024/talk/24/
+END:VEVENT
+END:VCALENDAR

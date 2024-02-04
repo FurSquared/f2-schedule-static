@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//9
+BEGIN:VEVENT
+UID:pretalx-f2-2024-9@schedule.fursquared.com
+DTSTART:20240225T180000Z
+DTEND:20240225T190000Z
+DESCRIPTION:A educational panel for those interested in getting into the wo
+ rld of hobbyist fish keeping. Building basics for setting up and maintaini
+ ng a planted aquarium 
+DTSTAMP:20240204T190839Z
+LOCATION:Mitchell
+SUMMARY:Aquascaping 101 - Lone
+URL:https://schedule.fursquared.com/f2-2024/talk/9/
+END:VEVENT
+END:VCALENDAR

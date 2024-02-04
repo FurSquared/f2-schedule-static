@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//87
+BEGIN:VEVENT
+UID:pretalx-f2-2024-87@schedule.fursquared.com
+DTSTART:20240223T030000Z
+DTEND:20240223T050000Z
+DESCRIPTION:Mystery Science Theatre 3000 – furry style! Come join Alkali 
+ as we (and probably the whole room full of people) verbally rip a movie of
+  our choosing to shreds! Hopefully this year’s movie will NOT have cente
+ r screen wipes. 
+DTSTAMP:20240204T190823Z
+LOCATION:Crystal
+SUMMARY:MST3K (18+) - Alkali Bismuth
+URL:https://schedule.fursquared.com/f2-2024/talk/87/
+END:VEVENT
+END:VCALENDAR

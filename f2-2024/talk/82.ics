@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//82
+BEGIN:VEVENT
+UID:pretalx-f2-2024-82@schedule.fursquared.com
+DTSTART:20240224T000000Z
+DTEND:20240224T010000Z
+DESCRIPTION:Are you a true Shrekkie? A discussion panel to discuss Shrek lo
+ re\, fan theories\, memes\, and culture. Don't be a Farquaad.
+DTSTAMP:20240204T190828Z
+LOCATION:Mitchell
+SUMMARY:Let's have Shreks - Kona\, Amicus Verum
+URL:https://schedule.fursquared.com/f2-2024/talk/82/
+END:VEVENT
+END:VCALENDAR
