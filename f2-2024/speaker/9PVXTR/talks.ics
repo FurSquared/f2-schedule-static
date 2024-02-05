@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//9PVXTR
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-133@schedule.fursquared.com
+DTSTART;TZID=CST:20240222T180000
+DTEND;TZID=CST:20240222T200000
+DESCRIPTION:This light-hearted RPG-esque system was borne of frisky fantasy
+ \, silly stories of over-the-top shenanigans.  Gameplay gives players a di
+ fferent perspective on the psychology behind modern-day sexuality in a sil
+ ly-fun and sex-positive way!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Your Imagined Furry Fantasy (18+) - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/133/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-110@schedule.fursquared.com
+DTSTART;TZID=CST:20240222T220000
+DTEND;TZID=CST:20240223T010000
+DESCRIPTION:Come test out a new Furry sci-fi game being written by SteelThe
+ Warrior. Choose from a massive assortment of Species and Scion combination
+ s\, and explore an immensely dynamic and complex new universe full of myst
+ ery\, intrigue and betrayal!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Soverign Eclipse - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/110/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-165@schedule.fursquared.com
+DTSTART;TZID=CST:20240223T140000
+DTEND;TZID=CST:20240223T150000
+DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
+ angerous areas of the megaplex that hold the Master Inventors hostage in a
+  race against the clock! Score plenty of points towards your score for the
+  ARG and help contribute to the effort of saving Inventia and everyone wit
+ hin it before the weekend is over!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:First Big Expedition - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/165/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-166@schedule.fursquared.com
+DTSTART;TZID=CST:20240223T180000
+DTEND;TZID=CST:20240223T190000
+DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
+ angerous areas of the megaplex that hold the Master Inventors hostage in a
+  race against the clock! Score plenty of points towards your score for the
+  ARG and help contribute to the effort of saving Inventia and everyone wit
+ hin it before the weekend is over!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Second Big Expedition - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/166/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-162@schedule.fursquared.com
+DTSTART;TZID=CST:20240223T200000
+DTEND;TZID=CST:20240223T220000
+DESCRIPTION:This light-hearted RPG-esque system was borne of frisky fantasy
+ \, silly stories of over-the-top shenanigans.  Gameplay gives players a di
+ fferent perspective on the psychology behind modern-day sexuality in a sil
+ ly-fun and sex-positive way!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Your Imagined Furry Fantasy (18+) - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/162/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-159@schedule.fursquared.com
+DTSTART;TZID=CST:20240223T220000
+DTEND;TZID=CST:20240224T010000
+DESCRIPTION:Come test out a new Furry sci-fi game being written by SteelThe
+ Warrior. Choose from a massive assortment of Species and Scion combination
+ s\, and explore an immensely dynamic and complex new universe full of myst
+ ery\, intrigue and betrayal!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Soverign Eclipse - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/159/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-69@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T100000
+DTEND;TZID=CST:20240224T110000
+DESCRIPTION:An interactive thinking game for an audience to play through.  
+ A globe and time trotting expedition involving clues and puzzles.  Can the
+  group recover the McGuffin before the no-goodnik gets away?
+DTSTAMP:20240205T045110Z
+LOCATION:Walker
+SUMMARY:Iggy and Steele's Globetrotting Challenge - Steele The Warrior\, Ig
+ gy
+URL:https://schedule.fursquared.com/f2-2024/talk/69/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-111@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T120000
+DTEND;TZID=CST:20240224T133000
+DESCRIPTION:Come take a break from the high-energy hustle and bustle of con
+ vention life\, and give your mind and body some peace to recharge!  This g
+ uided meditation will have an interesting creature accompany you on a jour
+ ney through an interesting world of your subconscious' making!
+DTSTAMP:20240205T045110Z
+LOCATION:Usinger
+SUMMARY:Spirit-Animal Guided Meditation - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/111/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-163@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T140000
+DTEND;TZID=CST:20240224T160000
+DESCRIPTION:This light-hearted RPG-esque system was borne of frisky fantasy
+ \, silly stories of over-the-top shenanigans.  Gameplay gives players a di
+ fferent perspective on the psychology behind modern-day sexuality in a sil
+ ly-fun and sex-positive way!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Your Imagined Furry Fantasy (18+) - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/163/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-167@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T170000
+DTEND;TZID=CST:20240224T180000
+DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
+ angerous areas of the megaplex that hold the Master Inventors hostage in a
+  race against the clock! Score plenty of points towards your score for the
+  ARG and help contribute to the effort of saving Inventia and everyone wit
+ hin it before the weekend is over!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Third Big Expedition - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/167/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-171@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T180000
+DTEND;TZID=CST:20240224T200000
+DESCRIPTION:After quick character creation\, this session will be a %100 "R
+ andomly & Procedurally Generated" game where everything from the NPCs\, to
+  the locations\, to the very plot itself will be determined\, on-the-fly\,
+  by the dice! Nobody knows where fate will take the characters you make fo
+ r this game!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Steel's Improvised 2-Hour RPG - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/171/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-168@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T200000
+DTEND;TZID=CST:20240224T210000
+DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
+ angerous areas of the megaplex that hold the Master Inventors hostage in a
+  race against the clock! Score plenty of points towards your score for the
+  ARG and help contribute to the effort of saving Inventia and everyone wit
+ hin it before the weekend is over!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Fourth Big Expedition - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/168/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-160@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T220000
+DTEND;TZID=CST:20240225T010000
+DESCRIPTION:Come test out a new Furry sci-fi game being written by SteelThe
+ Warrior. Choose from a massive assortment of Species and Scion combination
+ s\, and explore an immensely dynamic and complex new universe full of myst
+ ery\, intrigue and betrayal!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Soverign Eclipse - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/160/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-169@schedule.fursquared.com
+DTSTART;TZID=CST:20240225T120000
+DTEND;TZID=CST:20240225T130000
+DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
+ angerous areas of the megaplex that hold the Master Inventors hostage in a
+  race against the clock! Score plenty of points towards your score for the
+  ARG and help contribute to the effort of saving Inventia and everyone wit
+ hin it before the weekend is over!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Fifth Big Expedition - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/169/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-164@schedule.fursquared.com
+DTSTART;TZID=CST:20240225T140000
+DTEND;TZID=CST:20240225T160000
+DESCRIPTION:This light-hearted RPG-esque system was borne of frisky fantasy
+ \, silly stories of over-the-top shenanigans.  Gameplay gives players a di
+ fferent perspective on the psychology behind modern-day sexuality in a sil
+ ly-fun and sex-positive way!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Your Imagined Furry Fantasy (18+) - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/164/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-170@schedule.fursquared.com
+DTSTART;TZID=CST:20240225T160000
+DTEND;TZID=CST:20240225T173000
+DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
+ angerous areas of the megaplex that hold the Master Inventors hostage in a
+  race against the clock! Score plenty of points towards your score for the
+  ARG and help contribute to the effort of saving Inventia and everyone wit
+ hin it before the weekend is over!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Final Big Expedition - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/170/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-161@schedule.fursquared.com
+DTSTART;TZID=CST:20240225T210000
+DTEND;TZID=CST:20240226T000000
+DESCRIPTION:Come test out a new Furry sci-fi game being written by SteelThe
+ Warrior. Choose from a massive assortment of Species and Scion combination
+ s\, and explore an immensely dynamic and complex new universe full of myst
+ ery\, intrigue and betrayal!
+DTSTAMP:20240205T045110Z
+LOCATION:MacArthur
+SUMMARY:Soverign Eclipse - Steele The Warrior
+URL:https://schedule.fursquared.com/f2-2024/talk/161/
+END:VEVENT
+END:VCALENDAR

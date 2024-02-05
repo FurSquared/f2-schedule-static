@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//schedule.fursquared.com//f2-2024//CLKFQW
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-1@schedule.fursquared.com
+DTSTART;TZID=CST:20240224T180000
+DTEND;TZID=CST:20240224T190000
+DESCRIPTION:\nFrom the first multi-day fan event Worldcon in 1939 to the mu
+ lti-media giants that swarm the convention halls of today\, the evolution 
+ of pop culture cons have come far. From the filk of old scifi\, to first c
+ omic con artist alleys\, to the first AMV at an anime con\, to the first f
+ ursuit parade at a furry con\, to hand Trekkies and bronies had in innovat
+ ing convention staffing\, all of us are part of one large family tree of f
+ an events. Presented by the Convention History Project. \n\n        
+DTSTAMP:20240205T045115Z
+LOCATION:Walker
+SUMMARY:85 Years of Fan Convention History  - Con History Project
+URL:https://schedule.fursquared.com/f2-2024/talk/1/
+END:VEVENT
+END:VCALENDAR

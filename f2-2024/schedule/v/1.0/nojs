@@ -15,7 +15,7 @@
         
         <meta name="robots" content="index, follow">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="theme-color" content="#3aa57c">
+        <meta name="theme-color" content="#995C44">
         <meta name="HandheldFriendly" content="True"/>
         <meta property="thumbnail" content="https://schedule.fursquared.com/f2-2024/og-image">
             <meta property="og:image" content="https://schedule.fursquared.com/f2-2024/og-image">
@@ -85,15 +85,6 @@
                 To see our schedule with full functionality, like timezone conversion and personal scheduling, please enable JavaScript and go <a href="/f2-2024/schedule/">here</a>.
             </div>
         </div>
-        
-            <div class="alert alert-warning m-3"><span>
-                
-                    You are currently viewing an older schedule version.
-                
-                
-                    You can find the current version <a href="/f2-2024/schedule/">here</a>.
-                
-            </span></div>
         
 
         
@@ -213,7 +204,9 @@
                 <div class="pretalx-list-day pretalx-tab-content" data-start="">
                     
                         
-                            <div class="bucket-time">11:00</div>
+                            <div class="bucket-time">05:00</div>
+                            
+                                <a href="/f2-2024/talk/142/">
                             
                             
 
@@ -224,7 +217,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            11:00
+            05:00
         </div>
         <div class="duration">
             60min
@@ -255,8 +248,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">15:00</div>
+                            <div class="bucket-time">09:00</div>
+                            
+                                <a href="/f2-2024/talk/60/">
                             
                             
 
@@ -267,7 +264,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -298,8 +295,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/135/">
                             
                             
 
@@ -310,7 +311,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             720min
@@ -341,8 +342,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">22:00</div>
+                            <div class="bucket-time">16:00</div>
+                            
+                                <a href="/f2-2024/talk/112/">
                             
                             
 
@@ -353,7 +358,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:00
+            16:00
         </div>
         <div class="duration">
             180min
@@ -384,8 +389,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">00:00</div>
+                            <div class="bucket-time">18:00</div>
+                            
+                                <a href="/f2-2024/talk/64/">
                             
                             
 
@@ -396,7 +405,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             60min
@@ -427,8 +436,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/154/">
                             
                             
 
@@ -439,7 +452,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             480min
@@ -470,8 +483,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/133/">
                             
                             
 
@@ -482,7 +499,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             120min
@@ -513,8 +530,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">00:30</div>
+                            <div class="bucket-time">18:30</div>
+                            
+                                <a href="/f2-2024/talk/109/">
                             
                             
 
@@ -525,7 +546,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:30
+            18:30
         </div>
         <div class="duration">
             60min
@@ -556,8 +577,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">01:00</div>
+                            <div class="bucket-time">19:00</div>
+                            
+                                <a href="/f2-2024/talk/92/">
                             
                             
 
@@ -568,7 +593,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            01:00
+            19:00
         </div>
         <div class="duration">
             90min
@@ -599,8 +624,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">01:30</div>
+                            <div class="bucket-time">19:30</div>
+                            
+                                <a href="/f2-2024/talk/81/">
                             
                             
 
@@ -611,7 +640,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            01:30
+            19:30
         </div>
         <div class="duration">
             60min
@@ -642,8 +671,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">02:00</div>
+                            <div class="bucket-time">20:00</div>
+                            
+                                <a href="/f2-2024/talk/132/">
                             
                             
 
@@ -654,7 +687,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:00
+            20:00
         </div>
         <div class="duration">
             60min
@@ -685,17 +718,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                    
-                </div>
-            
-                
-                    <input name="tabs" id="2024-02-23" type="radio" >
-                
-                <div class="pretalx-list-day pretalx-tab-content" data-start="">
-                    
-                        
-                            <div class="bucket-time">03:00</div>
+                            <div class="bucket-time">21:00</div>
+                            
+                                <a href="/f2-2024/talk/87/">
                             
                             
 
@@ -706,7 +734,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            03:00
+            21:00
         </div>
         <div class="duration">
             120min
@@ -737,8 +765,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">04:00</div>
+                            <div class="bucket-time">22:00</div>
+                            
+                                <a href="/f2-2024/talk/110/">
                             
                             
 
@@ -749,7 +781,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            04:00
+            22:00
         </div>
         <div class="duration">
             180min
@@ -780,8 +812,21 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">11:00</div>
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-02-23" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">05:00</div>
+                            
+                                <a href="/f2-2024/talk/143/">
                             
                             
 
@@ -792,7 +837,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            11:00
+            05:00
         </div>
         <div class="duration">
             60min
@@ -823,8 +868,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">14:00</div>
+                            <div class="bucket-time">08:00</div>
+                            
+                                <a href="/f2-2024/talk/155/">
                             
                             
 
@@ -835,7 +884,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            14:00
+            08:00
         </div>
         <div class="duration">
             1080min
@@ -866,8 +915,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">15:00</div>
+                            <div class="bucket-time">09:00</div>
+                            
+                                <a href="/f2-2024/talk/26/">
                             
                             
 
@@ -878,7 +931,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             120min
@@ -909,8 +962,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/61/">
                             
                             
 
@@ -921,7 +978,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -952,8 +1009,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/57/">
                             
                             
 
@@ -964,7 +1025,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -995,8 +1056,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/139/">
                             
                             
 
@@ -1007,7 +1072,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             720min
@@ -1038,8 +1103,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/136/">
                             
                             
 
@@ -1050,7 +1119,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             720min
@@ -1081,8 +1150,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">16:00</div>
+                            <div class="bucket-time">10:00</div>
+                            
+                                <a href="/f2-2024/talk/31/">
                             
                             
 
@@ -1093,7 +1166,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             480min
@@ -1124,8 +1197,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/146/">
                             
                             
 
@@ -1136,7 +1213,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             840min
@@ -1167,8 +1244,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">16:30</div>
+                            <div class="bucket-time">10:30</div>
+                            
+                                <a href="/f2-2024/talk/113/">
                             
                             
 
@@ -1179,7 +1260,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:30
+            10:30
         </div>
         <div class="duration">
             570min
@@ -1210,8 +1291,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">17:00</div>
+                            <div class="bucket-time">11:00</div>
+                            
+                                <a href="/f2-2024/talk/93/">
                             
                             
 
@@ -1222,7 +1307,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:00
+            11:00
         </div>
         <div class="duration">
             60min
@@ -1253,8 +1338,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">18:00</div>
+                            <div class="bucket-time">12:00</div>
+                            
+                                <a href="/f2-2024/talk/105/">
                             
                             
 
@@ -1265,7 +1354,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             60min
@@ -1296,8 +1385,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/130/">
                             
                             
 
@@ -1308,7 +1401,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             60min
@@ -1339,8 +1432,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/134/">
                             
                             
 
@@ -1351,7 +1448,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             60min
@@ -1382,8 +1479,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">18:30</div>
+                            <div class="bucket-time">12:30</div>
+                            
+                                <a href="/f2-2024/talk/15/">
                             
                             
 
@@ -1394,7 +1495,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:30
+            12:30
         </div>
         <div class="duration">
             60min
@@ -1425,8 +1526,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/36/">
                             
                             
 
@@ -1437,7 +1542,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:30
+            12:30
         </div>
         <div class="duration">
             60min
@@ -1468,8 +1573,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/40/">
                             
                             
 
@@ -1480,7 +1589,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:30
+            12:30
         </div>
         <div class="duration">
             90min
@@ -1511,8 +1620,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">19:00</div>
+                            <div class="bucket-time">13:00</div>
+                            
+                                <a href="/f2-2024/talk/151/">
                             
                             
 
@@ -1523,7 +1636,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:00
+            13:00
         </div>
         <div class="duration">
             240min
@@ -1554,8 +1667,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/48/">
                             
                             
 
@@ -1566,7 +1683,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:00
+            13:00
         </div>
         <div class="duration">
             360min
@@ -1597,8 +1714,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">19:30</div>
+                            <div class="bucket-time">13:30</div>
+                            
+                                <a href="/f2-2024/talk/46/">
                             
                             
 
@@ -1609,7 +1730,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:30
+            13:30
         </div>
         <div class="duration">
             60min
@@ -1640,8 +1761,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/76/">
                             
                             
 
@@ -1652,7 +1777,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:30
+            13:30
         </div>
         <div class="duration">
             90min
@@ -1683,8 +1808,12 @@
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/99/">
                             
                             
 
@@ -1695,7 +1824,7 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:30
+            13:30
         </div>
         <div class="duration">
             60min
@@ -1727,8 +1856,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">20:00</div>
+                            <div class="bucket-time">14:00</div>
+                            
+                                <a href="/f2-2024/talk/14/">
                             
                             
 
@@ -1739,7 +1872,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:00
+            14:00
         </div>
         <div class="duration">
             60min
@@ -1770,8 +1903,59 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/165/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="165"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                First Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/39/">
                             
                             
 
@@ -1782,7 +1966,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:00
+            14:00
         </div>
         <div class="duration">
             120min
@@ -1813,8 +1997,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">20:30</div>
+                            <div class="bucket-time">14:30</div>
+                            
+                                <a href="/f2-2024/talk/10/">
                             
                             
 
@@ -1825,7 +2013,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:30
+            14:30
         </div>
         <div class="duration">
             60min
@@ -1856,8 +2044,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/29/">
                             
                             
 
@@ -1868,7 +2060,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:30
+            14:30
         </div>
         <div class="duration">
             120min
@@ -1899,8 +2091,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">21:00</div>
+                            <div class="bucket-time">15:00</div>
+                            
+                                <a href="/f2-2024/talk/118/">
                             
                             
 
@@ -1911,7 +2107,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            21:00
+            15:00
         </div>
         <div class="duration">
             60min
@@ -1942,8 +2138,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">21:30</div>
+                            <div class="bucket-time">15:30</div>
+                            
+                                <a href="/f2-2024/talk/13/">
                             
                             
 
@@ -1954,7 +2154,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            21:30
+            15:30
         </div>
         <div class="duration">
             60min
@@ -1985,8 +2185,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/41/">
                             
                             
 
@@ -1997,7 +2201,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            21:30
+            15:30
         </div>
         <div class="duration">
             60min
@@ -2028,8 +2232,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">22:00</div>
+                            <div class="bucket-time">16:00</div>
+                            
+                                <a href="/f2-2024/talk/27/">
                             
                             
 
@@ -2040,7 +2248,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:00
+            16:00
         </div>
         <div class="duration">
             60min
@@ -2071,8 +2279,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/108/">
                             
                             
 
@@ -2083,7 +2295,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:00
+            16:00
         </div>
         <div class="duration">
             60min
@@ -2114,8 +2326,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">22:30</div>
+                            <div class="bucket-time">16:30</div>
+                            
+                                <a href="/f2-2024/talk/74/">
                             
                             
 
@@ -2126,7 +2342,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:30
+            16:30
         </div>
         <div class="duration">
             60min
@@ -2157,8 +2373,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/84/">
                             
                             
 
@@ -2169,7 +2389,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:30
+            16:30
         </div>
         <div class="duration">
             60min
@@ -2200,8 +2420,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/149/">
                             
                             
 
@@ -2212,7 +2436,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:30
+            16:30
         </div>
         <div class="duration">
             90min
@@ -2243,8 +2467,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/102/">
                             
                             
 
@@ -2255,7 +2483,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:30
+            16:30
         </div>
         <div class="duration">
             60min
@@ -2286,8 +2514,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">23:00</div>
+                            <div class="bucket-time">17:00</div>
+                            
+                                <a href="/f2-2024/talk/21/">
                             
                             
 
@@ -2298,7 +2530,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            23:00
+            17:00
         </div>
         <div class="duration">
             120min
@@ -2329,8 +2561,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/128/">
                             
                             
 
@@ -2341,7 +2577,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            23:00
+            17:00
         </div>
         <div class="duration">
             60min
@@ -2372,8 +2608,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">00:00</div>
+                            <div class="bucket-time">18:00</div>
+                            
+                                <a href="/f2-2024/talk/77/">
                             
                             
 
@@ -2384,7 +2624,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             60min
@@ -2415,8 +2655,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/79/">
                             
                             
 
@@ -2427,7 +2671,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             60min
@@ -2458,8 +2702,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/82/">
                             
                             
 
@@ -2470,7 +2718,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             60min
@@ -2501,8 +2749,59 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/166/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="166"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Second Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/122/">
                             
                             
 
@@ -2513,7 +2812,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             90min
@@ -2544,8 +2843,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">00:30</div>
+                            <div class="bucket-time">18:30</div>
+                            
+                                <a href="/f2-2024/talk/66/">
                             
                             
 
@@ -2556,7 +2859,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:30
+            18:30
         </div>
         <div class="duration">
             60min
@@ -2587,8 +2890,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">01:00</div>
+                            <div class="bucket-time">19:00</div>
+                            
+                                <a href="/f2-2024/talk/42/">
                             
                             
 
@@ -2599,7 +2906,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            01:00
+            19:00
         </div>
         <div class="duration">
             60min
@@ -2630,8 +2937,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">01:30</div>
+                            <div class="bucket-time">19:30</div>
+                            
+                                <a href="/f2-2024/talk/2/">
                             
                             
 
@@ -2642,7 +2953,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            01:30
+            19:30
         </div>
         <div class="duration">
             120min
@@ -2673,8 +2984,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/96/">
                             
                             
 
@@ -2685,7 +3000,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            01:30
+            19:30
         </div>
         <div class="duration">
             60min
@@ -2716,8 +3031,12 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/4/">
                             
                             
 
@@ -2728,7 +3047,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            01:30
+            19:30
         </div>
         <div class="duration">
             180min
@@ -2764,8 +3083,12 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">02:00</div>
+                            <div class="bucket-time">20:00</div>
+                            
+                                <a href="/f2-2024/talk/3/">
                             
                             
 
@@ -2776,7 +3099,7 @@ Cosmik and Rhubarb</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:00
+            20:00
         </div>
         <div class="duration">
             90min
@@ -2807,8 +3130,12 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/51/">
                             
                             
 
@@ -2819,7 +3146,7 @@ Cosmik and Rhubarb</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:00
+            20:00
         </div>
         <div class="duration">
             60min
@@ -2850,8 +3177,12 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/120/">
                             
                             
 
@@ -2862,7 +3193,7 @@ Cosmik and Rhubarb</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:00
+            20:00
         </div>
         <div class="duration">
             90min
@@ -2893,8 +3224,12 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/124/">
                             
                             
 
@@ -2905,7 +3240,7 @@ Cosmik and Rhubarb</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:00
+            20:00
         </div>
         <div class="duration">
             60min
@@ -2936,17 +3271,59 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                    
-                </div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/162/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="162"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            20:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
             
                 
-                    <input name="tabs" id="2024-02-24" type="radio" >
-                
-                <div class="pretalx-list-day pretalx-tab-content" data-start="">
-                    
+                Your Imagined Furry Fantasy (18+)
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This light-hearted RPG-esque system was borne of frisky fantasy, silly stories of over-the-top shenanigans.  Gameplay gives players a different perspective on the psychology behind modern-day sexuality in a silly-fun and sex-positive way!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
                         
-                            <div class="bucket-time">03:00</div>
+                            <div class="bucket-time">21:00</div>
+                            
+                                <a href="/f2-2024/talk/90/">
                             
                             
 
@@ -2957,7 +3334,7 @@ Cosmik and Rhubarb</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            03:00
+            21:00
         </div>
         <div class="duration">
             240min
@@ -2993,8 +3370,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">03:30</div>
+                            <div class="bucket-time">21:30</div>
+                            
+                                <a href="/f2-2024/talk/88/">
                             
                             
 
@@ -3005,7 +3386,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            03:30
+            21:30
         </div>
         <div class="duration">
             60min
@@ -3036,8 +3417,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">04:00</div>
+                            <div class="bucket-time">22:00</div>
+                            
+                                <a href="/f2-2024/talk/19/">
                             
                             
 
@@ -3048,7 +3433,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            04:00
+            22:00
         </div>
         <div class="duration">
             120min
@@ -3079,8 +3464,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/24/">
                             
                             
 
@@ -3091,7 +3480,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            04:00
+            22:00
         </div>
         <div class="duration">
             60min
@@ -3122,8 +3511,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/44/">
                             
                             
 
@@ -3134,7 +3527,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            04:00
+            22:00
         </div>
         <div class="duration">
             90min
@@ -3167,8 +3560,59 @@ Join Armani (Midsouth Kink and leather Sir 2024) and NaughtyAnubis in<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">05:00</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/159/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="159"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            22:00
+        </div>
+        <div class="duration">
+            180min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Soverign Eclipse
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come test out a new Furry sci-fi game being written by SteelTheWarrior. Choose from a massive assortment of Species and Scion combinations, and explore an immensely dynamic and complex new universe full of mystery, intrigue and betrayal!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">23:00</div>
+                            
+                                <a href="/f2-2024/talk/37/">
                             
                             
 
@@ -3179,7 +3623,7 @@ Join Armani (Midsouth Kink and leather Sir 2024) and NaughtyAnubis in<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:00
+            23:00
         </div>
         <div class="duration">
             180min
@@ -3212,51 +3656,12 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
-                        
-                            <div class="bucket-time"></div>
-                            
-                            
-
-<div class="pretalx-session"
-     id="104"
-     style="--track-color:#A33F51"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            05:00
-        </div>
-        <div class="duration">
-            90min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Sketchbook Swap (18+)
-            
-        </div>
-        
-            <div class="speakers">
-                Rouge
-            </div>
-        
-        
-            <div class="abstract">
-                <p>Put your sketchbook in the pile, pick up another one, and draw something you think they would like! Bringing character references is encouraged. Sketchbook owners may indicate whether or not they would like to receive NSFW artwork with provided bookmarks.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Art</div>
-            <div class="room">Walker</div>
-        </div>
-    </div>
-</div>
-
+                                </a>
                             
                         
-                            <div class="bucket-time">05:30</div>
+                            <div class="bucket-time">23:30</div>
+                            
+                                <a href="/f2-2024/talk/95/">
                             
                             
 
@@ -3267,7 +3672,7 @@ Aves 1am (Hard Dance)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:30
+            23:30
         </div>
         <div class="duration">
             60min
@@ -3298,8 +3703,68 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">11:00</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/104/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="104"
+     style="--track-color:#A33F51"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            23:30
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Sketchbook Swap (18+)
+            
+        </div>
+        
+            <div class="speakers">
+                Rouge
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Put your sketchbook in the pile, pick up another one, and draw something you think they would like! Bringing character references is encouraged. Sketchbook owners may indicate whether or not they would like to receive NSFW artwork with provided bookmarks.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Art</div>
+            <div class="room">Walker</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-02-24" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">05:00</div>
+                            
+                                <a href="/f2-2024/talk/144/">
                             
                             
 
@@ -3310,7 +3775,7 @@ Aves 1am (Hard Dance)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            11:00
+            05:00
         </div>
         <div class="duration">
             60min
@@ -3341,8 +3806,12 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">14:00</div>
+                            <div class="bucket-time">08:00</div>
+                            
+                                <a href="/f2-2024/talk/114/">
                             
                             
 
@@ -3353,7 +3822,7 @@ Aves 1am (Hard Dance)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            14:00
+            08:00
         </div>
         <div class="duration">
             1080min
@@ -3384,8 +3853,12 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/156/">
                             
                             
 
@@ -3396,7 +3869,7 @@ Aves 1am (Hard Dance)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            14:00
+            08:00
         </div>
         <div class="duration">
             1080min
@@ -3427,8 +3900,12 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">15:00</div>
+                            <div class="bucket-time">09:00</div>
+                            
+                                <a href="/f2-2024/talk/54/">
                             
                             
 
@@ -3439,7 +3916,7 @@ Aves 1am (Hard Dance)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             120min
@@ -3468,14 +3945,18 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
         
         <div class="bottom-info">
             <div class="track">Performance</div>
-            <div class="room">Walker</div>
+            <div class="room">Wright</div>
         </div>
     </div>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/62/">
                             
                             
 
@@ -3486,7 +3967,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -3517,8 +3998,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/58/">
                             
                             
 
@@ -3529,7 +4014,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -3560,8 +4045,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/56/">
                             
                             
 
@@ -3572,7 +4061,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -3603,8 +4092,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/140/">
                             
                             
 
@@ -3615,7 +4108,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             720min
@@ -3646,8 +4139,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/137/">
                             
                             
 
@@ -3658,7 +4155,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             720min
@@ -3689,94 +4186,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                        
-                            <div class="bucket-time">16:00</div>
-                            
-                            
-
-<div class="pretalx-session"
-     id="32"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            16:00
-        </div>
-        <div class="duration">
-            480min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Dealer&#x27;s Den
-            
-        </div>
-        
-            <div class="speakers">
-                FurSquared Staff
-            </div>
-        
-        
-            <div class="abstract">
-                <p>Looking for a souvenir, or just looking to be amazed by the wonderous wares on display? Our Dealer's Den is full of clever critters with many exciting creations ready to go home with you! There's bound to be something for everybody amidst all the colorful booths and smiling faces, so stop by while the sun's up!</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Regency</div>
-        </div>
-    </div>
-</div>
-
+                                </a>
                             
                         
-                            <div class="bucket-time"></div>
+                            <div class="bucket-time">09:30</div>
                             
-                            
-
-<div class="pretalx-session"
-     id="69"
-     style="--track-color:#BD992F"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            16:00
-        </div>
-        <div class="duration">
-            60min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Iggy and Steele&#x27;s Globetrotting Challenge
-            
-        </div>
-        
-            <div class="speakers">
-                Iggy, Steele The Warrior
-            </div>
-        
-        
-            <div class="abstract">
-                <p>An interactive thinking game for an audience to play through.  A globe and time trotting expedition involving clues and puzzles.  Can the group recover the McGuffin before the no-goodnik gets away?</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Interactive</div>
-            <div class="room">Walker</div>
-        </div>
-    </div>
-</div>
-
-                            
-                        
-                            <div class="bucket-time"></div>
+                                <a href="/f2-2024/talk/75/">
                             
                             
 
@@ -3787,7 +4202,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            09:30
         </div>
         <div class="duration">
             60min
@@ -3818,8 +4233,106 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
+                        
+                            <div class="bucket-time">10:00</div>
+                            
+                                <a href="/f2-2024/talk/32/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="32"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            480min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Dealer&#x27;s Den
+            
+        </div>
+        
+            <div class="speakers">
+                FurSquared Staff
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Looking for a souvenir, or just looking to be amazed by the wonderous wares on display? Our Dealer's Den is full of clever critters with many exciting creations ready to go home with you! There's bound to be something for everybody amidst all the colorful booths and smiling faces, so stop by while the sun's up!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Regency</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/69/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="69"
+     style="--track-color:#BD992F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Iggy and Steele&#x27;s Globetrotting Challenge
+            
+        </div>
+        
+            <div class="speakers">
+                Iggy, Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>An interactive thinking game for an audience to play through.  A globe and time trotting expedition involving clues and puzzles.  Can the group recover the McGuffin before the no-goodnik gets away?</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Interactive</div>
+            <div class="room">Walker</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/147/">
                             
                             
 
@@ -3830,7 +4343,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             840min
@@ -3861,8 +4374,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">16:30</div>
+                            <div class="bucket-time">10:30</div>
+                            
+                                <a href="/f2-2024/talk/107/">
                             
                             
 
@@ -3873,7 +4390,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:30
+            10:30
         </div>
         <div class="duration">
             60min
@@ -3904,8 +4421,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">17:00</div>
+                            <div class="bucket-time">11:00</div>
+                            
+                                <a href="/f2-2024/talk/152/">
                             
                             
 
@@ -3916,7 +4437,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:00
+            11:00
         </div>
         <div class="duration">
             360min
@@ -3947,8 +4468,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/43/">
                             
                             
 
@@ -3959,7 +4484,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:00
+            11:00
         </div>
         <div class="duration">
             60min
@@ -3990,8 +4515,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">17:30</div>
+                            <div class="bucket-time">11:30</div>
+                            
+                                <a href="/f2-2024/talk/38/">
                             
                             
 
@@ -4002,7 +4531,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:30
+            11:30
         </div>
         <div class="duration">
             90min
@@ -4033,8 +4562,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/45/">
                             
                             
 
@@ -4045,7 +4578,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:30
+            11:30
         </div>
         <div class="duration">
             180min
@@ -4076,8 +4609,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/47/">
                             
                             
 
@@ -4088,7 +4625,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:30
+            11:30
         </div>
         <div class="duration">
             120min
@@ -4119,8 +4656,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">18:00</div>
+                            <div class="bucket-time">12:00</div>
+                            
+                                <a href="/f2-2024/talk/49/">
                             
                             
 
@@ -4131,7 +4672,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             420min
@@ -4162,8 +4703,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/55/">
                             
                             
 
@@ -4174,7 +4719,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             60min
@@ -4205,8 +4750,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/111/">
                             
                             
 
@@ -4217,7 +4766,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             90min
@@ -4248,8 +4797,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">18:30</div>
+                            <div class="bucket-time">12:30</div>
+                            
+                                <a href="/f2-2024/talk/85/">
                             
                             
 
@@ -4260,7 +4813,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:30
+            12:30
         </div>
         <div class="duration">
             120min
@@ -4291,8 +4844,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">19:00</div>
+                            <div class="bucket-time">13:00</div>
+                            
+                                <a href="/f2-2024/talk/35/">
                             
                             
 
@@ -4303,7 +4860,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:00
+            13:00
         </div>
         <div class="duration">
             60min
@@ -4334,8 +4891,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">19:30</div>
+                            <div class="bucket-time">13:30</div>
+                            
+                                <a href="/f2-2024/talk/22/">
                             
                             
 
@@ -4346,7 +4907,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:30
+            13:30
         </div>
         <div class="duration">
             60min
@@ -4377,8 +4938,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">20:00</div>
+                            <div class="bucket-time">14:00</div>
+                            
+                                <a href="/f2-2024/talk/5/">
                             
                             
 
@@ -4389,7 +4954,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:00
+            14:00
         </div>
         <div class="duration">
             300min
@@ -4428,8 +4993,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/150/">
                             
                             
 
@@ -4440,7 +5009,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:00
+            14:00
         </div>
         <div class="duration">
             180min
@@ -4471,51 +5040,59 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">20:30</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/163/">
                             
                             
 
 <div class="pretalx-session"
-     id="106"
-     style="--track-color:#3237A2"
+     id="163"
+     style="--track-color:#A82C6F"
 >
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:30
+            14:00
         </div>
         <div class="duration">
-            60min
+            120min
         </div>
     </div>
     <div class="pretalx-session-info">
         <div class="title">
             
                 
-                So You Want to be a Con Artist 
+                Your Imagined Furry Fantasy (18+)
             
         </div>
         
             <div class="speakers">
-                Bash the Piñata
+                Steele The Warrior
             </div>
         
         
             <div class="abstract">
-                <p>Artists have found a profession vending in artist alleys across the country. Would you like to join? Learn the behind the scenes tips for vending, how to best approach the different application processes, the physiology behind the best booth displays, what sells, what is tax deductible. Whether a novice or veteran vendor, this is a popular panel that has information for everyone!</p>
+                <p>This light-hearted RPG-esque system was borne of frisky fantasy, silly stories of over-the-top shenanigans.  Gameplay gives players a different perspective on the psychology behind modern-day sexuality in a silly-fun and sex-positive way!</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Talk</div>
-            <div class="room">Pabst</div>
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
         </div>
     </div>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time"></div>
+                            <div class="bucket-time">14:30</div>
+                            
+                                <a href="/f2-2024/talk/123/">
                             
                             
 
@@ -4526,7 +5103,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:30
+            14:30
         </div>
         <div class="duration">
             60min
@@ -4557,8 +5134,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">21:00</div>
+                            <div class="bucket-time">15:00</div>
+                            
+                                <a href="/f2-2024/talk/16/">
                             
                             
 
@@ -4569,7 +5150,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            21:00
+            15:00
         </div>
         <div class="duration">
             60min
@@ -4600,8 +5181,59 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">21:30</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/78/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="78"
+     style="--track-color:#BD992F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Jackbox Party Time!
+            
+        </div>
+        
+            <div class="speakers">
+                Serathin Sabertooth
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Bring your cell phones and get ready to party! Join your host Serathin as we play from the Jackbox party packs. With games galore there will be plenty to choose from and as always its the more the merrier!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Interactive</div>
+            <div class="room">Mitchell</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">15:30</div>
+                            
+                                <a href="/f2-2024/talk/11/">
                             
                             
 
@@ -4612,7 +5244,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            21:30
+            15:30
         </div>
         <div class="duration">
             60min
@@ -4643,8 +5275,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">22:00</div>
+                            <div class="bucket-time">16:00</div>
+                            
+                                <a href="/f2-2024/talk/65/">
                             
                             
 
@@ -4655,7 +5291,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:00
+            16:00
         </div>
         <div class="duration">
             60min
@@ -4686,8 +5322,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/125/">
                             
                             
 
@@ -4698,7 +5338,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:00
+            16:00
         </div>
         <div class="duration">
             60min
@@ -4729,8 +5369,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">22:30</div>
+                            <div class="bucket-time">16:30</div>
+                            
+                                <a href="/f2-2024/talk/67/">
                             
                             
 
@@ -4741,7 +5385,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:30
+            16:30
         </div>
         <div class="duration">
             60min
@@ -4772,8 +5416,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">23:00</div>
+                            <div class="bucket-time">17:00</div>
+                            
+                                <a href="/f2-2024/talk/23/">
                             
                             
 
@@ -4784,7 +5432,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            23:00
+            17:00
         </div>
         <div class="duration">
             60min
@@ -4815,8 +5463,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/103/">
                             
                             
 
@@ -4827,7 +5479,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            23:00
+            17:00
         </div>
         <div class="duration">
             60min
@@ -4858,19 +5510,23 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">23:30</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/167/">
                             
                             
 
 <div class="pretalx-session"
-     id="72"
-     style="--track-color:#BD992F"
+     id="167"
+     style="--track-color:#A82C6F"
 >
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            23:30
+            17:00
         </div>
         <div class="duration">
             60min
@@ -4880,29 +5536,33 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
         <div class="title">
             
                 
-                Iggy&#x27;s Pyramid
+                Third Big Expedition
             
         </div>
         
             <div class="speakers">
-                Iggy
+                Steele The Warrior
             </div>
         
         
             <div class="abstract">
-                <p>A game show where you and a celebrity guest compete to conquer the Pyramid! The game consists of listing things loudly until your teammate says the thing you're describing. There's seven items on the list per round and they are all of a similar category. Unlike Super Password Plus, you can give a definition, act out the word, anything you think that'll make your teammate say the word(s) on the card.</p>
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
             </div>
         
         <div class="bottom-info">
-            <div class="track">Interactive</div>
-            <div class="room">Pabst</div>
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
         </div>
     </div>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">00:00</div>
+                            <div class="bucket-time">18:00</div>
+                            
+                                <a href="/f2-2024/talk/1/">
                             
                             
 
@@ -4913,7 +5573,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             60min
@@ -4944,8 +5604,153 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">01:00</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/72/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="72"
+     style="--track-color:#BD992F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Iggy&#x27;s Pyramid
+            
+        </div>
+        
+            <div class="speakers">
+                Iggy
+            </div>
+        
+        
+            <div class="abstract">
+                <p>A game show where you and a celebrity guest compete to conquer the Pyramid! The game consists of listing things loudly until your teammate says the thing you're describing. There's seven items on the list per round and they are all of a similar category. Unlike Super Password Plus, you can give a definition, act out the word, anything you think that'll make your teammate say the word(s) on the card.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Interactive</div>
+            <div class="room">Pabst</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/171/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="171"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Steel&#x27;s Improvised 2-Hour RPG
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>After quick character creation, this session will be a %100 "Randomly &amp; Procedurally Generated" game where everything from the NPCs, to the locations, to the very plot itself will be determined, on-the-fly, by the dice! Nobody knows where fate will take the characters you make for this game!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">18:30</div>
+                            
+                                <a href="/f2-2024/talk/106/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="106"
+     style="--track-color:#3237A2"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:30
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                So You Want to be a Con Artist 
+            
+        </div>
+        
+            <div class="speakers">
+                Bash the Piñata
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Artists have found a profession vending in artist alleys across the country. Would you like to join? Learn the behind the scenes tips for vending, how to best approach the different application processes, the physiology behind the best booth displays, what sells, what is tax deductible. Whether a novice or veteran vendor, this is a popular panel that has information for everyone!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Talk</div>
+            <div class="room">Mitchell</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">19:00</div>
+                            
+                                <a href="/f2-2024/talk/119/">
                             
                             
 
@@ -4956,7 +5761,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            01:00
+            19:00
         </div>
         <div class="duration">
             90min
@@ -4987,8 +5792,59 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">02:00</div>
+                            <div class="bucket-time">20:00</div>
+                            
+                                <a href="/f2-2024/talk/168/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="168"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            20:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Fourth Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/68/">
                             
                             
 
@@ -4999,7 +5855,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:00
+            20:00
         </div>
         <div class="duration">
             60min
@@ -5030,8 +5886,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">02:30</div>
+                            <div class="bucket-time">20:30</div>
+                            
+                                <a href="/f2-2024/talk/34/">
                             
                             
 
@@ -5042,7 +5902,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:30
+            20:30
         </div>
         <div class="duration">
             120min
@@ -5073,17 +5933,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                    
-                </div>
-            
-                
-                    <input name="tabs" id="2024-02-25" type="radio" >
-                
-                <div class="pretalx-list-day pretalx-tab-content" data-start="">
-                    
-                        
-                            <div class="bucket-time">03:00</div>
+                            <div class="bucket-time">21:00</div>
+                            
+                                <a href="/f2-2024/talk/12/">
                             
                             
 
@@ -5094,7 +5949,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            03:00
+            21:00
         </div>
         <div class="duration">
             60min
@@ -5125,8 +5980,12 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/91/">
                             
                             
 
@@ -5137,7 +5996,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            03:00
+            21:00
         </div>
         <div class="duration">
             240min
@@ -5173,8 +6032,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/127/">
                             
                             
 
@@ -5185,7 +6048,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            03:00
+            21:00
         </div>
         <div class="duration">
             60min
@@ -5216,8 +6079,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">03:30</div>
+                            <div class="bucket-time">21:30</div>
+                            
+                                <a href="/f2-2024/talk/86/">
                             
                             
 
@@ -5228,7 +6095,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            03:30
+            21:30
         </div>
         <div class="duration">
             60min
@@ -5259,8 +6126,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">04:00</div>
+                            <div class="bucket-time">22:00</div>
+                            
+                                <a href="/f2-2024/talk/97/">
                             
                             
 
@@ -5271,7 +6142,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            04:00
+            22:00
         </div>
         <div class="duration">
             60min
@@ -5302,8 +6173,59 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">04:30</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/160/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="160"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            22:00
+        </div>
+        <div class="duration">
+            180min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Soverign Eclipse
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come test out a new Furry sci-fi game being written by SteelTheWarrior. Choose from a massive assortment of Species and Scion combinations, and explore an immensely dynamic and complex new universe full of mystery, intrigue and betrayal!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">22:30</div>
+                            
+                                <a href="/f2-2024/talk/131/">
                             
                             
 
@@ -5314,7 +6236,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            04:30
+            22:30
         </div>
         <div class="duration">
             60min
@@ -5345,8 +6267,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">05:00</div>
+                            <div class="bucket-time">23:00</div>
+                            
+                                <a href="/f2-2024/talk/53/">
                             
                             
 
@@ -5357,7 +6283,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:00
+            23:00
         </div>
         <div class="duration">
             60min
@@ -5388,8 +6314,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/101/">
                             
                             
 
@@ -5400,7 +6330,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:00
+            23:00
         </div>
         <div class="duration">
             60min
@@ -5431,8 +6361,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/129/">
                             
                             
 
@@ -5443,7 +6377,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:00
+            23:00
         </div>
         <div class="duration">
             60min
@@ -5474,8 +6408,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">06:00</div>
+                            <div class="bucket-time">00:00</div>
+                            
+                                <a href="/f2-2024/talk/73/">
                             
                             
 
@@ -5486,7 +6424,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            06:00
+            00:00
         </div>
         <div class="duration">
             60min
@@ -5517,8 +6455,12 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/98/">
                             
                             
 
@@ -5529,7 +6471,7 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            06:00
+            00:00
         </div>
         <div class="duration">
             120min
@@ -5561,8 +6503,21 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">11:00</div>
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-02-25" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">05:00</div>
+                            
+                                <a href="/f2-2024/talk/145/">
                             
                             
 
@@ -5573,7 +6528,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            11:00
+            05:00
         </div>
         <div class="duration">
             60min
@@ -5604,8 +6559,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">14:00</div>
+                            <div class="bucket-time">08:00</div>
+                            
+                                <a href="/f2-2024/talk/115/">
                             
                             
 
@@ -5616,7 +6575,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            14:00
+            08:00
         </div>
         <div class="duration">
             600min
@@ -5647,8 +6606,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/157/">
                             
                             
 
@@ -5659,7 +6622,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            14:00
+            08:00
         </div>
         <div class="duration">
             600min
@@ -5690,8 +6653,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">15:00</div>
+                            <div class="bucket-time">09:00</div>
+                            
+                                <a href="/f2-2024/talk/28/">
                             
                             
 
@@ -5702,7 +6669,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             60min
@@ -5733,8 +6700,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/63/">
                             
                             
 
@@ -5745,7 +6716,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -5776,8 +6747,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/59/">
                             
                             
 
@@ -5788,7 +6763,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             900min
@@ -5819,8 +6794,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/141/">
                             
                             
 
@@ -5831,7 +6810,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             360min
@@ -5862,8 +6841,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/94/">
                             
                             
 
@@ -5874,7 +6857,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             120min
@@ -5905,8 +6888,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/138/">
                             
                             
 
@@ -5917,7 +6904,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            15:00
+            09:00
         </div>
         <div class="duration">
             360min
@@ -5948,8 +6935,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">16:00</div>
+                            <div class="bucket-time">10:00</div>
+                            
+                                <a href="/f2-2024/talk/7/">
                             
                             
 
@@ -5960,7 +6951,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             90min
@@ -5991,8 +6982,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/33/">
                             
                             
 
@@ -6003,7 +6998,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             360min
@@ -6034,8 +7029,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/100/">
                             
                             
 
@@ -6046,7 +7045,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             60min
@@ -6077,8 +7076,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/116/">
                             
                             
 
@@ -6089,7 +7092,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             60min
@@ -6120,8 +7123,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/148/">
                             
                             
 
@@ -6132,7 +7139,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:00
+            10:00
         </div>
         <div class="duration">
             420min
@@ -6163,8 +7170,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">16:30</div>
+                            <div class="bucket-time">10:30</div>
+                            
+                                <a href="/f2-2024/talk/50/">
                             
                             
 
@@ -6175,7 +7186,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:30
+            10:30
         </div>
         <div class="duration">
             330min
@@ -6206,8 +7217,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/121/">
                             
                             
 
@@ -6218,7 +7233,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            16:30
+            10:30
         </div>
         <div class="duration">
             60min
@@ -6249,8 +7264,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">17:00</div>
+                            <div class="bucket-time">11:00</div>
+                            
+                                <a href="/f2-2024/talk/153/">
                             
                             
 
@@ -6261,7 +7280,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:00
+            11:00
         </div>
         <div class="duration">
             300min
@@ -6292,8 +7311,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">17:30</div>
+                            <div class="bucket-time">11:30</div>
+                            
+                                <a href="/f2-2024/talk/8/">
                             
                             
 
@@ -6304,7 +7327,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:30
+            11:30
         </div>
         <div class="duration">
             60min
@@ -6335,8 +7358,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/20/">
                             
                             
 
@@ -6347,7 +7374,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            17:30
+            11:30
         </div>
         <div class="duration">
             120min
@@ -6378,8 +7405,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">18:00</div>
+                            <div class="bucket-time">12:00</div>
+                            
+                                <a href="/f2-2024/talk/9/">
                             
                             
 
@@ -6390,7 +7421,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             60min
@@ -6421,8 +7452,59 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/169/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="169"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Fifth Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/83/">
                             
                             
 
@@ -6433,7 +7515,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:00
+            12:00
         </div>
         <div class="duration">
             90min
@@ -6464,8 +7546,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">18:30</div>
+                            <div class="bucket-time">12:30</div>
+                            
+                                <a href="/f2-2024/talk/52/">
                             
                             
 
@@ -6476,7 +7562,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:30
+            12:30
         </div>
         <div class="duration">
             60min
@@ -6507,8 +7593,12 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/6/">
                             
                             
 
@@ -6519,7 +7609,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            18:30
+            12:30
         </div>
         <div class="duration">
             240min
@@ -6557,8 +7647,12 @@ Cosmik and Rhubarb and Everyone Else</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">19:00</div>
+                            <div class="bucket-time">13:00</div>
+                            
+                                <a href="/f2-2024/talk/117/">
                             
                             
 
@@ -6569,7 +7663,7 @@ Cosmik and Rhubarb and Everyone Else</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:00
+            13:00
         </div>
         <div class="duration">
             60min
@@ -6600,8 +7694,12 @@ Cosmik and Rhubarb and Everyone Else</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">20:00</div>
+                            <div class="bucket-time">14:00</div>
+                            
+                                <a href="/f2-2024/talk/18/">
                             
                             
 
@@ -6612,7 +7710,7 @@ Cosmik and Rhubarb and Everyone Else</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:00
+            14:00
         </div>
         <div class="duration">
             60min
@@ -6644,8 +7742,12 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/71/">
                             
                             
 
@@ -6656,7 +7758,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:00
+            14:00
         </div>
         <div class="duration">
             60min
@@ -6687,8 +7789,12 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/126/">
                             
                             
 
@@ -6699,7 +7805,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:00
+            14:00
         </div>
         <div class="duration">
             60min
@@ -6730,8 +7836,59 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">20:30</div>
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/164/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="164"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Your Imagined Furry Fantasy (18+)
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This light-hearted RPG-esque system was borne of frisky fantasy, silly stories of over-the-top shenanigans.  Gameplay gives players a different perspective on the psychology behind modern-day sexuality in a silly-fun and sex-positive way!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">14:30</div>
+                            
+                                <a href="/f2-2024/talk/89/">
                             
                             
 
@@ -6742,7 +7899,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            20:30
+            14:30
         </div>
         <div class="duration">
             60min
@@ -6773,51 +7930,12 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                        
-                            <div class="bucket-time">21:00</div>
-                            
-                            
-
-<div class="pretalx-session"
-     id="78"
-     style="--track-color:#BD992F"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            21:00
-        </div>
-        <div class="duration">
-            60min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Jackbox Party Time!
-            
-        </div>
-        
-            <div class="speakers">
-                Serathin Sabertooth
-            </div>
-        
-        
-            <div class="abstract">
-                <p>Bring your cell phones and get ready to party! Join your host Serathin as we play from the Jackbox party packs. With games galore there will be plenty to choose from and as always its the more the merrier!</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Interactive</div>
-            <div class="room">Mitchell</div>
-        </div>
-    </div>
-</div>
-
+                                </a>
                             
                         
-                            <div class="bucket-time">21:30</div>
+                            <div class="bucket-time">15:30</div>
+                            
+                                <a href="/f2-2024/talk/17/">
                             
                             
 
@@ -6828,7 +7946,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            21:30
+            15:30
         </div>
         <div class="duration">
             60min
@@ -6859,8 +7977,12 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
                         
                             <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/70/">
                             
                             
 
@@ -6871,7 +7993,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            21:30
+            15:30
         </div>
         <div class="duration">
             60min
@@ -6902,8 +8024,59 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">22:00</div>
+                            <div class="bucket-time">16:00</div>
+                            
+                                <a href="/f2-2024/talk/170/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="170"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Final Big Expedition
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come and join a Tabletop RPG-styled expedition to explore the dangerous areas of the megaplex that hold the Master Inventors hostage in a race against the clock! Score plenty of points towards your score for the ARG and help contribute to the effort of saving Inventia and everyone within it before the weekend is over!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/80/">
                             
                             
 
@@ -6914,7 +8087,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            22:00
+            16:00
         </div>
         <div class="duration">
             60min
@@ -6945,8 +8118,59 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">00:00</div>
+                            <div class="bucket-time">17:00</div>
+                            
+                                <a href="/f2-2024/talk/158/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="158"
+     style="--track-color:#C28AB0"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Now This is How You Kill the Con
+            
+        </div>
+        
+            <div class="speakers">
+                FurSquared Staff
+            </div>
+        
+        
+            <div class="abstract">
+                <p>As is tradition, join us for our madcap Closing Ceremonies pre-show. Part charity event, part Bohemian Rhapsody singalong, all furry chaos.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Main Event</div>
+            <div class="room">Crystal</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">18:00</div>
+                            
+                                <a href="/f2-2024/talk/25/">
                             
                             
 
@@ -6957,7 +8181,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            00:00
+            18:00
         </div>
         <div class="duration">
             60min
@@ -6988,8 +8212,12 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
                         
-                            <div class="bucket-time">02:00</div>
+                            <div class="bucket-time">20:00</div>
+                            
+                                <a href="/f2-2024/talk/30/">
                             
                             
 
@@ -7000,7 +8228,7 @@ Stick around until the end for special die giveaway too!</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            02:00
+            20:00
         </div>
         <div class="duration">
             120min
@@ -7031,6 +8259,55 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
+                                </a>
+                            
+                        
+                            <div class="bucket-time">21:00</div>
+                            
+                                <a href="/f2-2024/talk/161/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="161"
+     style="--track-color:#A82C6F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            21:00
+        </div>
+        <div class="duration">
+            180min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Soverign Eclipse
+            
+        </div>
+        
+            <div class="speakers">
+                Steele The Warrior
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Come test out a new Furry sci-fi game being written by SteelTheWarrior. Choose from a massive assortment of Species and Scion combinations, and explore an immensely dynamic and complex new universe full of mystery, intrigue and betrayal!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tabletop</div>
+            <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
                         
                     
                 </div>
@@ -7056,7 +8333,7 @@ Stick around until the end for special die giveaway too!</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-04 18:13 CST
+                        This is a static export generated at 2024-02-04 22:50 CST
                     </div>
                 
                 
