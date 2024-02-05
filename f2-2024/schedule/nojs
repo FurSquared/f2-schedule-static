@@ -102,7 +102,7 @@
     </div>
     <div class="header-right">
         
-            <span>Version <a href="/f2-2024/schedule/changelog/">1.4</a></span>
+            <span>Version <a href="/f2-2024/schedule/changelog/">1.6</a></span>
             <details class="dropdown">
                 <summary class="btn btn-sm btn-outline-info">
                     <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
@@ -4003,12 +4003,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
                         
                             <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/56/">
+                                <a href="/f2-2024/talk/58/">
                             
                             
 
 <div class="pretalx-session"
-     id="56"
+     id="58"
      style="--track-color:#AB5AC7"
 >
     <div class="pretalx-session-time-box">
@@ -4050,12 +4050,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
                         
                             <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/58/">
+                                <a href="/f2-2024/talk/56/">
                             
                             
 
 <div class="pretalx-session"
-     id="58"
+     id="56"
      style="--track-color:#AB5AC7"
 >
     <div class="pretalx-session-time-box">
@@ -5176,6 +5176,53 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
         <div class="bottom-info">
             <div class="track">Performance</div>
             <div class="room">Wright</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/78/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="78"
+     style="--track-color:#BD992F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Jackbox Party Time!
+            
+        </div>
+        
+            <div class="speakers">
+                Serathin Sabertooth
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Bring your cell phones and get ready to party! Join your host Serathin as we play from the Jackbox party packs. With games galore there will be plenty to choose from and as always its the more the merrier!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Interactive</div>
+            <div class="room">Mitchell</div>
         </div>
     </div>
 </div>
@@ -7549,6 +7596,60 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
                                 </a>
                             
                         
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/6/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="6"
+     style="--track-color:#D4E73F"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:30
+        </div>
+        <div class="duration">
+            240min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Musical Furpile: The Sequel
+            
+        </div>
+        
+            <div class="speakers">
+                Rhubarb the Nidorino, keyotter, Gale Tazzin, a fox named coyote, Shallie Dragon, JayLaFlame, $udo Normi, Dittman Rat, Cosmik, Rhubarb the Bear
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Musical Furpile: The Sequel</p>
+<p>Featuring:<br>
+Otter Chaos<br>
+A Fox Named Coyote<br>
+Shallie Dragon<br>
+JayLaFlame and $udo Normi<br>
+Ratmos (Dittman Rat)<br>
+Cosmik and Rhubarb and Everyone Else</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Concert</div>
+            <div class="room">Crystal</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
                             <div class="bucket-time">13:00</div>
                             
                                 <a href="/f2-2024/talk/117/">
@@ -7693,60 +7794,6 @@ Stick around until the end for special die giveaway too!</p>
                         
                             <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/6/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="6"
-     style="--track-color:#D4E73F"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            14:00
-        </div>
-        <div class="duration">
-            240min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Musical Furpile: The Sequel
-            
-        </div>
-        
-            <div class="speakers">
-                Rhubarb the Nidorino, keyotter, Gale Tazzin, a fox named coyote, Shallie Dragon, JayLaFlame, $udo Normi, Dittman Rat, Cosmik, Rhubarb the Bear
-            </div>
-        
-        
-            <div class="abstract">
-                <p>Musical Furpile: The Sequel</p>
-<p>Featuring:<br>
-Otter Chaos<br>
-A Fox Named Coyote<br>
-Shallie Dragon<br>
-JayLaFlame and $udo Normi<br>
-Ratmos (Dittman Rat)<br>
-Cosmik and Rhubarb and Everyone Else</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Concert</div>
-            <div class="room">Crystal</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
                                 <a href="/f2-2024/talk/126/">
                             
                             
@@ -7873,53 +7920,6 @@ Cosmik and Rhubarb and Everyone Else</p>
         
             <div class="abstract">
                 <p>Come on down and see how well you know the music to some of your favorite Video Games! We’ll be playing some of your favorite and iconic tunes from games of all kinds, test your knowledge against others in this friendly multi round competition!</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Interactive</div>
-            <div class="room">Mitchell</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time">15:00</div>
-                            
-                                <a href="/f2-2024/talk/78/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="78"
-     style="--track-color:#BD992F"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            15:00
-        </div>
-        <div class="duration">
-            60min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Jackbox Party Time!
-            
-        </div>
-        
-            <div class="speakers">
-                Serathin Sabertooth
-            </div>
-        
-        
-            <div class="abstract">
-                <p>Bring your cell phones and get ready to party! Join your host Serathin as we play from the Jackbox party packs. With games galore there will be plenty to choose from and as always its the more the merrier!</p>
             </div>
         
         <div class="bottom-info">
@@ -8333,7 +8333,7 @@ Cosmik and Rhubarb and Everyone Else</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-04 16:45 CST
+                        This is a static export generated at 2024-02-04 18:13 CST
                     </div>
                 
                 
