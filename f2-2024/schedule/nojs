@@ -102,7 +102,7 @@
     </div>
     <div class="header-right">
         
-            <span>Version <a href="/f2-2024/schedule/changelog/">1.0</a></span>
+            <span>Version <a href="/f2-2024/schedule/changelog/">1.1</a></span>
             <details class="dropdown">
                 <summary class="btn btn-sm btn-outline-info">
                     <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
@@ -204,53 +204,6 @@
                 <div class="pretalx-list-day pretalx-tab-content" data-start="">
                     
                         
-                            <div class="bucket-time">05:00</div>
-                            
-                                <a href="/f2-2024/talk/142/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="142"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            05:00
-        </div>
-        <div class="duration">
-            60min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Security
-            
-        </div>
-        
-            <div class="speakers">
-                FurSquared Staff
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Business Center</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
                             <div class="bucket-time">09:00</div>
                             
                                 <a href="/f2-2024/talk/60/">
@@ -298,53 +251,6 @@
                                 </a>
                             
                         
-                            <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/135/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="135"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            09:00
-        </div>
-        <div class="duration">
-            720min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Registration
-            
-        </div>
-        
-            <div class="speakers">
-                FurSquared Staff
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Registration</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
                             <div class="bucket-time">16:00</div>
                             
                                 <a href="/f2-2024/talk/112/">
@@ -384,6 +290,100 @@
         <div class="bottom-info">
             <div class="track">Convention Event</div>
             <div class="room">Empire</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">17:00</div>
+                            
+                                <a href="/f2-2024/talk/135/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="135"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:00
+        </div>
+        <div class="duration">
+            180min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Registration
+            
+        </div>
+        
+            <div class="speakers">
+                FurSquared Staff
+            </div>
+        
+        
+            <div class="abstract">
+                <p>.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Registration</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/142/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="142"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:00
+        </div>
+        <div class="duration">
+            420min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Security
+            
+        </div>
+        
+            <div class="speakers">
+                FurSquared Staff
+            </div>
+        
+        
+            <div class="abstract">
+                <p>.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Business Center</div>
         </div>
     </div>
 </div>
@@ -815,16 +815,7 @@
                                 </a>
                             
                         
-                    
-                </div>
-            
-                
-                    <input name="tabs" id="2024-02-23" type="radio" >
-                
-                <div class="pretalx-list-day pretalx-tab-content" data-start="">
-                    
-                        
-                            <div class="bucket-time">05:00</div>
+                            <div class="bucket-time">00:00</div>
                             
                                 <a href="/f2-2024/talk/143/">
                             
@@ -837,10 +828,10 @@
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:00
+            00:00
         </div>
         <div class="duration">
-            60min
+            1439min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -870,6 +861,15 @@
                             
                                 </a>
                             
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-02-23" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
                         
                             <div class="bucket-time">08:00</div>
                             
@@ -1122,7 +1122,7 @@
             09:00
         </div>
         <div class="duration">
-            720min
+            660min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -3753,16 +3753,7 @@ Aves 1am (Hard Dance)</p>
                                 </a>
                             
                         
-                    
-                </div>
-            
-                
-                    <input name="tabs" id="2024-02-24" type="radio" >
-                
-                <div class="pretalx-list-day pretalx-tab-content" data-start="">
-                    
-                        
-                            <div class="bucket-time">05:00</div>
+                            <div class="bucket-time">00:00</div>
                             
                                 <a href="/f2-2024/talk/144/">
                             
@@ -3775,10 +3766,10 @@ Aves 1am (Hard Dance)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:00
+            00:00
         </div>
         <div class="duration">
-            60min
+            1439min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -3808,6 +3799,15 @@ Aves 1am (Hard Dance)</p>
                             
                                 </a>
                             
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-02-24" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
                         
                             <div class="bucket-time">08:00</div>
                             
@@ -4003,12 +4003,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
                         
                             <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/58/">
+                                <a href="/f2-2024/talk/56/">
                             
                             
 
 <div class="pretalx-session"
-     id="58"
+     id="56"
      style="--track-color:#AB5AC7"
 >
     <div class="pretalx-session-time-box">
@@ -4050,12 +4050,12 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
                         
                             <div class="bucket-time"></div>
                             
-                                <a href="/f2-2024/talk/56/">
+                                <a href="/f2-2024/talk/58/">
                             
                             
 
 <div class="pretalx-session"
-     id="56"
+     id="58"
      style="--track-color:#AB5AC7"
 >
     <div class="pretalx-session-time-box">
@@ -4158,7 +4158,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             09:00
         </div>
         <div class="duration">
-            720min
+            660min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -6506,16 +6506,7 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
                                 </a>
                             
                         
-                    
-                </div>
-            
-                
-                    <input name="tabs" id="2024-02-25" type="radio" >
-                
-                <div class="pretalx-list-day pretalx-tab-content" data-start="">
-                    
-                        
-                            <div class="bucket-time">05:00</div>
+                            <div class="bucket-time"></div>
                             
                                 <a href="/f2-2024/talk/145/">
                             
@@ -6528,10 +6519,10 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            05:00
+            00:00
         </div>
         <div class="duration">
-            60min
+            1140min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -6561,6 +6552,15 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
                             
                                 </a>
                             
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-02-25" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
                         
                             <div class="bucket-time">08:00</div>
                             
@@ -8333,7 +8333,7 @@ Stick around until the end for special die giveaway too!</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-04 22:50 CST
+                        This is a static export generated at 2024-02-05 21:44 CST
                     </div>
                 
                 
