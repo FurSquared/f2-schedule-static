@@ -204,6 +204,30 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>154@@schedule.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-154</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240223T020000</dtend>
+            <duration>8.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://schedule.fursquared.com/f2-2024/talk/154/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>133@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-133</pentabarf:event-slug>
@@ -224,29 +248,7 @@
             
             <attendee>Steele The Warrior</attendee>
             
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>154@@schedule.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-154</pentabarf:event-slug>
-            <pentabarf:title>Tabletop Gaming</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240223T020000</dtend>
-            <duration>8.00000</duration>
-            <summary>Tabletop Gaming</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://schedule.fursquared.com/f2-2024/talk/154/</url>
-            <location>MacArthur</location>
-            
-            <attendee>FurSquared Staff</attendee>
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -272,6 +274,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -279,14 +283,14 @@
             <uid>135@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-135</pentabarf:event-slug>
-            <pentabarf:title>Registration</pentabarf:title>
+            <pentabarf:title>Pre-Registration Badge Pickup</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240222T170000</dtstart>
             <dtend>20240222T200000</dtend>
             <duration>3.00000</duration>
-            <summary>Registration</summary>
+            <summary>Pre-Registration Badge Pickup</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -1644,6 +1648,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -1667,6 +1673,8 @@
             <location>MacArthur</location>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -1692,6 +1700,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -1715,6 +1725,8 @@
             <location>MacArthur</location>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -1867,14 +1879,14 @@
             <uid>69@@schedule.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-69</pentabarf:event-slug>
-            <pentabarf:title>Iggy and Steele&#x27;s Globetrotting Challenge</pentabarf:title>
+            <pentabarf:title>Iggy and Steel&#x27;s Globetrotting Challenge</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240224T100000</dtstart>
             <dtend>20240224T110000</dtend>
             <duration>1.00000</duration>
-            <summary>Iggy and Steele&#x27;s Globetrotting Challenge</summary>
+            <summary>Iggy and Steel&#x27;s Globetrotting Challenge</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -1885,6 +1897,8 @@
             <attendee>Iggy</attendee>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -3004,6 +3018,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -3027,6 +3043,8 @@
             <location>MacArthur</location>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -3052,6 +3070,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -3075,6 +3095,8 @@
             <location>MacArthur</location>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -3100,6 +3122,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -3123,6 +3147,8 @@
             <location>Usinger</location>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -3639,8 +3665,8 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T100000</dtstart>
-            <dtend>20240225T110000</dtend>
+            <dtstart>20240225T093000</dtstart>
+            <dtend>20240225T103000</dtend>
             <duration>1.00000</duration>
             <summary>Scribbles N Bits</summary>
             <description></description>
@@ -4016,6 +4042,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -4039,6 +4067,8 @@
             <location>MacArthur</location>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -4064,6 +4094,8 @@
             
             <attendee>Steele The Warrior</attendee>
             
+            <attendee>Steel The Warrior</attendee>
+            
         </vevent>
         
         <vevent>
@@ -4087,6 +4119,8 @@
             <location>MacArthur</location>
             
             <attendee>Steele The Warrior</attendee>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
