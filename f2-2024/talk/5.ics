@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//5
+PRODID:-//pretalx//pretalx.fursquared.com//5
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,18 +33,17 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-5@schedule.fursquared.com
+UID:pretalx-f2-2024-5@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T140000
 DTEND;TZID=CST:20240224T190000
 DESCRIPTION:\nMusical Furpile and Rock Opera \n\nFeaturing:\nFurry Choir\nP
  epper Coyote Being Polite\nRatmos (Dittman Rat)\nShallie Dragon\nCitrine H
  usky\nOny the Runaway Circus Bear: a Rock opera by Rhubarb the Bear\n     
     
-DTSTAMP:20240207T004222Z
+DTSTAMP:20240209T040022Z
 LOCATION:Crystal
 SUMMARY:Musical Furpile and Rock Opera - Rhubarb the Bear\, Cosmik\, Dittma
- n Rat\, Citrine Husky\, Pepper Coyote\, Shallie Dragon\, JayLaFlame\, $udo
-  Normi
-URL:https://schedule.fursquared.com/f2-2024/talk/5/
+ n Rat\, Citrine Husky\, Pepper Coyote\, Shallie Dragon
+URL:https://pretalx.fursquared.com/f2-2024/talk/5/
 END:VEVENT
 END:VCALENDAR

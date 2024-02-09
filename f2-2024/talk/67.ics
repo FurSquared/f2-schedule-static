@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//67
+PRODID:-//pretalx//pretalx.fursquared.com//67
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-67@schedule.fursquared.com
+UID:pretalx-f2-2024-67@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T163000
 DTEND;TZID=CST:20240224T173000
 DESCRIPTION:I have no idea what is going to happen at this charity event\, 
  but it is for a good cause. Show up\, throw some money into the hat and en
  joy the show. And for those of you that asked for this on twitter… I hop
  e you’re happy.
-DTSTAMP:20240207T004221Z
+DTSTAMP:20240209T040022Z
 LOCATION:Wright
 SUMMARY:I Comedy Better When I've had a Few (18+) - Alkali Bismuth
-URL:https://schedule.fursquared.com/f2-2024/talk/67/
+URL:https://pretalx.fursquared.com/f2-2024/talk/67/
 END:VEVENT
 END:VCALENDAR

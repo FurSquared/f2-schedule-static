@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//97
+PRODID:-//pretalx//pretalx.fursquared.com//97
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-97@schedule.fursquared.com
+UID:pretalx-f2-2024-97@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T220000
 DTEND;TZID=CST:20240224T230000
 DESCRIPTION:Have you ever seen a shiny critter running around a con or onli
@@ -41,9 +41,9 @@ DESCRIPTION:Have you ever seen a shiny critter running around a con or onli
  s and other rubberfurs as we answer your questions and what makes rubber s
  o special. Make a new friend or learn something new. Rubber not required\,
   but highly encouraged!
-DTSTAMP:20240207T004221Z
+DTSTAMP:20240209T040008Z
 LOCATION:Walker
 SUMMARY:Rubberfurs: Meet and Greet! (18+) - Kizu Watage
-URL:https://schedule.fursquared.com/f2-2024/talk/97/
+URL:https://pretalx.fursquared.com/f2-2024/talk/97/
 END:VEVENT
 END:VCALENDAR

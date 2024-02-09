@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//4
+PRODID:-//pretalx//pretalx.fursquared.com//4
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-4@schedule.fursquared.com
+UID:pretalx-f2-2024-4@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T193000
 DTEND;TZID=CST:20240223T223000
 DESCRIPTION:\nTGIF! (Thank God It's Filthy!) (18+)\n\nFeaturing:\nCitrine H
  usky\nA Fox Named Coyote\nPepper Coyote Swearing\nCosmik and Rhubarb\n    
      
-DTSTAMP:20240207T004214Z
+DTSTAMP:20240209T040017Z
 LOCATION:Crystal
 SUMMARY:TGIF! (Thank God It's Filthy!) (18+) - Rhubarb the Bear\, Cosmik\, 
  Citrine Husky\, a fox named coyote\, Pepper Coyote
-URL:https://schedule.fursquared.com/f2-2024/talk/4/
+URL:https://pretalx.fursquared.com/f2-2024/talk/4/
 END:VEVENT
 END:VCALENDAR

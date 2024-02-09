@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//93
+PRODID:-//pretalx//pretalx.fursquared.com//93
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,14 +33,14 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-93@schedule.fursquared.com
+UID:pretalx-f2-2024-93@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T110000
 DTEND;TZID=CST:20240223T120000
 DESCRIPTION:Every great invention begins with a spark. And this is the spar
  k of our convention! Join us to kick off our world of innovation!
-DTSTAMP:20240207T004215Z
+DTSTAMP:20240209T040019Z
 LOCATION:Crystal
 SUMMARY:Opening Ceremonies - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/93/
+URL:https://pretalx.fursquared.com/f2-2024/talk/93/
 END:VEVENT
 END:VCALENDAR

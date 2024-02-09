@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//117
+PRODID:-//pretalx//pretalx.fursquared.com//117
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-117@schedule.fursquared.com
+UID:pretalx-f2-2024-117@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T130000
 DTEND;TZID=CST:20240225T140000
 DESCRIPTION:There aren't enough panels for writers and furs who enjoy writt
  en works. This panel seeks to celebrate written works within the fandom an
  d beyond through oral presentation.
-DTSTAMP:20240207T004229Z
+DTSTAMP:20240209T040024Z
 LOCATION:Mitchell
 SUMMARY:Storytellers - Iggy
-URL:https://schedule.fursquared.com/f2-2024/talk/117/
+URL:https://pretalx.fursquared.com/f2-2024/talk/117/
 END:VEVENT
 END:VCALENDAR

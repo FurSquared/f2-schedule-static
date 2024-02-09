@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//20
+PRODID:-//pretalx//pretalx.fursquared.com//20
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-20@schedule.fursquared.com
+UID:pretalx-f2-2024-20@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T113000
 DTEND;TZID=CST:20240225T133000
 DESCRIPTION:Come one\, come all to the auction hall! Where fantastic gadget
  s and doodads alike could be yours to own\, and you may even get to shout 
  our lucky numbers.
-DTSTAMP:20240207T004227Z
+DTSTAMP:20240209T040028Z
 LOCATION:Wright
 SUMMARY:Charity Auction - Alkali Bismuth
-URL:https://schedule.fursquared.com/f2-2024/talk/20/
+URL:https://pretalx.fursquared.com/f2-2024/talk/20/
 END:VEVENT
 END:VCALENDAR

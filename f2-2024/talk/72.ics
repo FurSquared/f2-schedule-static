@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//72
+PRODID:-//pretalx//pretalx.fursquared.com//72
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-72@schedule.fursquared.com
+UID:pretalx-f2-2024-72@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T180000
 DTEND;TZID=CST:20240224T190000
 DESCRIPTION:A game show where you and a celebrity guest compete to conquer 
@@ -42,9 +42,9 @@ DESCRIPTION:A game show where you and a celebrity guest compete to conquer
  und and they are all of a similar category. Unlike Super Password Plus\, y
  ou can give a definition\, act out the word\, anything you think that'll m
  ake your teammate say the word(s) on the card.
-DTSTAMP:20240207T004223Z
+DTSTAMP:20240209T040009Z
 LOCATION:Pabst
 SUMMARY:Iggy's Pyramid - Iggy
-URL:https://schedule.fursquared.com/f2-2024/talk/72/
+URL:https://pretalx.fursquared.com/f2-2024/talk/72/
 END:VEVENT
 END:VCALENDAR

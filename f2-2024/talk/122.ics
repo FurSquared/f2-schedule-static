@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//122
+PRODID:-//pretalx//pretalx.fursquared.com//122
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-122@schedule.fursquared.com
+UID:pretalx-f2-2024-122@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T180000
 DTEND;TZID=CST:20240223T193000
 DESCRIPTION:Based on the popular TV show “Whose Line is it Anyway\,” th
@@ -46,9 +46,9 @@ DESCRIPTION:Based on the popular TV show “Whose Line is it Anyway\,” th
  dition should not have a heart attack during this panel as we will think y
  ou are acting. Panel has been known to cause uproarious laughter\, fits of
   giggling\, and diarrhea. See you there!
-DTSTAMP:20240207T004214Z
+DTSTAMP:20240209T040032Z
 LOCATION:Wright
 SUMMARY:The Original Whose Lion is it Anyway? (18+) - Alkali Bismuth
-URL:https://schedule.fursquared.com/f2-2024/talk/122/
+URL:https://pretalx.fursquared.com/f2-2024/talk/122/
 END:VEVENT
 END:VCALENDAR

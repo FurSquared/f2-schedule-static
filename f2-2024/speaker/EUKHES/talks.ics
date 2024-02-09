@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.fursquared.com//f2-2024//EUKHES
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-92@pretalx.fursquared.com
+DTSTART;TZID=CST:20240222T190000
+DTEND;TZID=CST:20240222T203000
+DESCRIPTION:Have a stand-up routine you want to try out? Want to tell a sto
+ ry you think will give us a chuckle? Come try it out at FurSquared Open Mi
+ c! One could not ask for a friendlier atmosphere. After your act\, be read
+ y to receive some helpful good natured critiques from the panel hosts. All
+  performers are limited to 3 to 5 minute sets depending on the panel turn 
+ out. 
+DTSTAMP:20240209T040033Z
+LOCATION:Wright
+SUMMARY:Open Mic & Comedy Basics - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/92/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-87@pretalx.fursquared.com
+DTSTART;TZID=CST:20240222T210000
+DTEND;TZID=CST:20240222T230000
+DESCRIPTION:Mystery Science Theatre 3000 – furry style! Come join Alkali 
+ as we (and probably the whole room full of people) verbally rip a movie of
+  our choosing to shreds! Hopefully this year’s movie will NOT have cente
+ r screen wipes. 
+DTSTAMP:20240209T040033Z
+LOCATION:Crystal
+SUMMARY:MST3K (18+) - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/87/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-105@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T120000
+DTEND;TZID=CST:20240223T130000
+DESCRIPTION:Is this your first time at a fun con? Or even just your first t
+ ime at FurSquared? Well come on in and learn the do’s and don’ts of be
+ ing at a fur con. From dealing with fur suits to the 6/2/1 rule. A great w
+ ay to start your convention and learn the best way to have a good time. 
+DTSTAMP:20240209T040033Z
+LOCATION:Crystal
+SUMMARY:So This is Your First Fur Con - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/105/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-27@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T160000
+DTEND;TZID=CST:20240223T170000
+DESCRIPTION:Come out and see what happens behind the closed doors of conven
+ tions. Sit back and listen to the stories that you were never meant to fin
+ d out about from our panel of convention staff and board members. Enjoy th
+ e stories and find out why that cop was shaking his head well laughing. 
+DTSTAMP:20240209T040033Z
+LOCATION:Wright
+SUMMARY:Convention Horror Stories - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/27/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-122@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T180000
+DTEND;TZID=CST:20240223T193000
+DESCRIPTION:Based on the popular TV show “Whose Line is it Anyway\,” th
+ is is everyone’s chance to get up on stage and improvise with their fell
+ ow furs! A completely interactive panel\, Whose Lion will feature such gam
+ es as: Questions Only\, Who’s Line\, Party Quirks\, and even World’s W
+ orst. Hosted by Alkali\, this panel is sure to be a good time for all\; so
+  come on out\, get up on stage\, and show everyone how quick your wit is. 
+ Panel is 18+\, and may not be suitable for minors. People with a heart con
+ dition should not have a heart attack during this panel as we will think y
+ ou are acting. Panel has been known to cause uproarious laughter\, fits of
+  giggling\, and diarrhea. See you there!
+DTSTAMP:20240209T040033Z
+LOCATION:Wright
+SUMMARY:The Original Whose Lion is it Anyway? (18+) - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/122/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-22@pretalx.fursquared.com
+DTSTART;TZID=CST:20240224T133000
+DTEND;TZID=CST:20240224T143000
+DESCRIPTION:Come out and see some of the funniest people in the fandom perf
+ orming in Improv games. This 100% off the cuff event will go to support ou
+ r charity\, so come one come all and see some of your favorite funny furs 
+ make fools of themselves. As with any Improv event\, audience participatio
+ n is bound to happen. 
+DTSTAMP:20240209T040033Z
+LOCATION:Wright
+SUMMARY:Charity Whose Lion is it Anyway? - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/22/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-16@pretalx.fursquared.com
+DTSTART;TZID=CST:20240224T150000
+DTEND;TZID=CST:20240224T160000
+DESCRIPTION:Boozy and his legal layman\, Alkali Bismuth\, discuss legal new
+ s\, with an explanation of how the legal principles are truly messed up. T
+ he pair look at an actual legal case\, current or historical\, in a lighth
+ earted and profane manner as Boozy tries to get Alkali to understand the l
+ aw really can be made up as one goes along. 
+DTSTAMP:20240209T040033Z
+LOCATION:Wright
+SUMMARY:Boozy’s Legal Funhouse  - Alkali Bismuth\, Boozy Badger
+URL:https://pretalx.fursquared.com/f2-2024/talk/16/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-67@pretalx.fursquared.com
+DTSTART;TZID=CST:20240224T163000
+DTEND;TZID=CST:20240224T173000
+DESCRIPTION:I have no idea what is going to happen at this charity event\, 
+ but it is for a good cause. Show up\, throw some money into the hat and en
+ joy the show. And for those of you that asked for this on twitter… I hop
+ e you’re happy.
+DTSTAMP:20240209T040033Z
+LOCATION:Wright
+SUMMARY:I Comedy Better When I've had a Few (18+) - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/67/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-20@pretalx.fursquared.com
+DTSTART;TZID=CST:20240225T113000
+DTEND;TZID=CST:20240225T133000
+DESCRIPTION:Come one\, come all to the auction hall! Where fantastic gadget
+ s and doodads alike could be yours to own\, and you may even get to shout 
+ our lucky numbers.
+DTSTAMP:20240209T040033Z
+LOCATION:Wright
+SUMMARY:Charity Auction - Alkali Bismuth
+URL:https://pretalx.fursquared.com/f2-2024/talk/20/
+END:VEVENT
+END:VCALENDAR

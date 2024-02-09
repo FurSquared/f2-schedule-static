@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//116
+PRODID:-//pretalx//pretalx.fursquared.com//116
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-116@schedule.fursquared.com
+UID:pretalx-f2-2024-116@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T100000
 DTEND;TZID=CST:20240225T110000
 DESCRIPTION:A panelist-led discussion and Q&A session about how plushies ar
@@ -42,9 +42,9 @@ DESCRIPTION:A panelist-led discussion and Q&A session about how plushies ar
  s discuss this and more at the plushy panel. Don't forget to bring your fa
  vorite squishable friend if you like. Bonus\, we may raffle off a few new 
  plush friends for you to take home and add to your collection.
-DTSTAMP:20240207T004230Z
+DTSTAMP:20240209T040023Z
 LOCATION:Usinger
 SUMMARY:Squishy Cuddly Plushie Appreciation - Ditsy\, Trouble
-URL:https://schedule.fursquared.com/f2-2024/talk/116/
+URL:https://pretalx.fursquared.com/f2-2024/talk/116/
 END:VEVENT
 END:VCALENDAR

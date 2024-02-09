@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//68
+PRODID:-//pretalx//pretalx.fursquared.com//68
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-68@schedule.fursquared.com
+UID:pretalx-f2-2024-68@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T200000
 DTEND;TZID=CST:20240224T210000
 DESCRIPTION:A musical variety show featuring a musicians performing a varie
  ty of music together you do not normally see them do.
-DTSTAMP:20240207T004221Z
+DTSTAMP:20240209T040020Z
 LOCATION:Wright
 SUMMARY:Iggy and Friend's Musical Menagerie Matinee - Dittman Rat\, Iggy\, 
  keyotter\, Rhubarb the Nidorino\, Gale Tazzin
-URL:https://schedule.fursquared.com/f2-2024/talk/68/
+URL:https://pretalx.fursquared.com/f2-2024/talk/68/
 END:VEVENT
 END:VCALENDAR

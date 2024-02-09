@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//109
+PRODID:-//pretalx//pretalx.fursquared.com//109
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-109@schedule.fursquared.com
+UID:pretalx-f2-2024-109@pretalx.fursquared.com
 DTSTART;TZID=CST:20240222T183000
 DTEND;TZID=CST:20240222T193000
 DESCRIPTION:Rhubarb and Cosmik lead a group discussion about the songwritin
  g process.  How to get started\, how to fine-tune your work\, where to fin
  d inspiration\, and more.
-DTSTAMP:20240207T004231Z
+DTSTAMP:20240209T040030Z
 LOCATION:Walker
 SUMMARY:Songwriting Workshop - Rhubarb the Bear\, Cosmik
-URL:https://schedule.fursquared.com/f2-2024/talk/109/
+URL:https://pretalx.fursquared.com/f2-2024/talk/109/
 END:VEVENT
 END:VCALENDAR

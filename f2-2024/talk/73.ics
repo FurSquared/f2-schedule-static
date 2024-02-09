@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//73
+PRODID:-//pretalx//pretalx.fursquared.com//73
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-73@schedule.fursquared.com
+UID:pretalx-f2-2024-73@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T000000
 DTEND;TZID=CST:20240225T010000
 DESCRIPTION:A completely self-indulgent panel.  You did read the title righ
  t?
-DTSTAMP:20240207T004229Z
+DTSTAMP:20240209T040026Z
 LOCATION:Mitchell
 SUMMARY:Iggy's Self-Indulgent Parlour Games Panel For A Midnight Crowd - Ig
  gy
-URL:https://schedule.fursquared.com/f2-2024/talk/73/
+URL:https://pretalx.fursquared.com/f2-2024/talk/73/
 END:VEVENT
 END:VCALENDAR

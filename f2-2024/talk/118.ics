@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//118
+PRODID:-//pretalx//pretalx.fursquared.com//118
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-118@schedule.fursquared.com
+UID:pretalx-f2-2024-118@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T150000
 DTEND;TZID=CST:20240223T160000
 DESCRIPTION:My classic game of secret words and puzzles!  Using only one wo
  rd clues\, try and get your teammate to guess the secret word.  Each round
   has five passwords.  All five passwords together are clues to a riddle/pu
  zzle.  Solving the puzzle wins the round!
-DTSTAMP:20240207T004233Z
+DTSTAMP:20240209T040017Z
 LOCATION:Walker
 SUMMARY:Super Password Plus - Iggy
-URL:https://schedule.fursquared.com/f2-2024/talk/118/
+URL:https://pretalx.fursquared.com/f2-2024/talk/118/
 END:VEVENT
 END:VCALENDAR

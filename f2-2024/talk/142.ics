@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//142
+PRODID:-//pretalx//pretalx.fursquared.com//142
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,13 +33,13 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-142@schedule.fursquared.com
+UID:pretalx-f2-2024-142@pretalx.fursquared.com
 DTSTART;TZID=CST:20240222T170000
 DTEND;TZID=CST:20240223T000000
 DESCRIPTION:.
-DTSTAMP:20240207T004233Z
+DTSTAMP:20240209T040023Z
 LOCATION:Business Center
 SUMMARY:Security - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/142/
+URL:https://pretalx.fursquared.com/f2-2024/talk/142/
 END:VEVENT
 END:VCALENDAR

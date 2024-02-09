@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//119
+PRODID:-//pretalx//pretalx.fursquared.com//119
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-119@schedule.fursquared.com
+UID:pretalx-f2-2024-119@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T190000
 DTEND;TZID=CST:20240224T203000
 DESCRIPTION:For those who appreciate our convention and showed their love f
  or the spirit of innovation (and furries!)\, please join us for an evening
   of fine dining and jolly company as an earnest thank you for supporting u
  s. Don't forget your meal ticket!
-DTSTAMP:20240207T004224Z
+DTSTAMP:20240209T040010Z
 LOCATION:Empire
 SUMMARY:Super Sponsor Dinner - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/119/
+URL:https://pretalx.fursquared.com/f2-2024/talk/119/
 END:VEVENT
 END:VCALENDAR

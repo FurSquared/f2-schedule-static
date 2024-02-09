@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//80
+PRODID:-//pretalx//pretalx.fursquared.com//80
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,14 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-80@schedule.fursquared.com
+UID:pretalx-f2-2024-80@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T160000
 DTEND;TZID=CST:20240225T170000
-DESCRIPTION:Come out and see what happens behind the closed doors of conven
- tions. Sit back and listen to the stories that you were never meant to fin
- d out about\, from our panel of convention staff and board members. Enjoy 
- the stories and find out why that cop was shaking his head while laughing.
-DTSTAMP:20240207T004229Z
+DESCRIPTION:Come listen to Boozy (and perhaps another fandom lawyer or two)
+  share tales of terror from his years in legal practice 
+DTSTAMP:20240209T040014Z
 LOCATION:Mitchell
 SUMMARY:Lawyer Horror Stories  - Boozy Badger
-URL:https://schedule.fursquared.com/f2-2024/talk/80/
+URL:https://pretalx.fursquared.com/f2-2024/talk/80/
 END:VEVENT
 END:VCALENDAR

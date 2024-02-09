@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//17
+PRODID:-//pretalx//pretalx.fursquared.com//17
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-17@schedule.fursquared.com
+UID:pretalx-f2-2024-17@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T153000
 DTEND;TZID=CST:20240225T163000
 DESCRIPTION:Resumes\, applying for jobs\, interviewing\, etc. Finding a job
@@ -41,9 +41,9 @@ DESCRIPTION:Resumes\, applying for jobs\, interviewing\, etc. Finding a job
  osition! Come join f0rl00p\, who has coached numerous furries and normies 
  on career growth\, for a lighthearted discussion on making yourself stand 
  out and grow. Q&A will be lengthy\, so bring your questions!
-DTSTAMP:20240207T004227Z
+DTSTAMP:20240209T040021Z
 LOCATION:Walker
 SUMMARY:Career Growth for Furries - f0rl00p
-URL:https://schedule.fursquared.com/f2-2024/talk/17/
+URL:https://pretalx.fursquared.com/f2-2024/talk/17/
 END:VEVENT
 END:VCALENDAR

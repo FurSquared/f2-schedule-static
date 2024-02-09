@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//44
+PRODID:-//pretalx//pretalx.fursquared.com//44
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-44@schedule.fursquared.com
+UID:pretalx-f2-2024-44@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T220000
 DTEND;TZID=CST:20240223T233000
 DESCRIPTION:\nGreetings\, attendees!\nJoin Armani (Midsouth Kink and leathe
@@ -42,10 +42,10 @@ DESCRIPTION:\nGreetings\, attendees!\nJoin Armani (Midsouth Kink and leathe
  uch and so little time. Bring open minds\, questions\, favorite gear(keep 
  it tasteful when going in and out of panel) and mingle with people who are
   curious and experienced in leather culture both old and new!\n        
-DTSTAMP:20240207T004216Z
+DTSTAMP:20240209T040030Z
 LOCATION:Mitchell
 SUMMARY:Furs in Leather Meet (18+) - AnubianArmani (Sir K-Nyne)\, NaughtyAn
  ubis
-URL:https://schedule.fursquared.com/f2-2024/talk/44/
+URL:https://pretalx.fursquared.com/f2-2024/talk/44/
 END:VEVENT
 END:VCALENDAR
