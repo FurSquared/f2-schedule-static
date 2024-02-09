@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//81
+PRODID:-//pretalx//pretalx.fursquared.com//81
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-81@schedule.fursquared.com
+UID:pretalx-f2-2024-81@pretalx.fursquared.com
 DTSTART;TZID=CST:20240222T193000
 DTEND;TZID=CST:20240222T203000
 DESCRIPTION:This isn't one panel in an hour\, it's twelve! The Rat of all T
@@ -41,9 +41,9 @@ DESCRIPTION:This isn't one panel in an hour\, it's twelve! The Rat of all T
   for them all. Still\, you're guaranteed to learn 12 things\, ranging from
   fursuiting to music to puzzles to who knows what else. Not interested in 
  the current topic? Wait five minutes!
-DTSTAMP:20240207T004232Z
+DTSTAMP:20240209T020531Z
 LOCATION:Mitchell
 SUMMARY:Lern Stuf with Dittman - Dittman Rat
-URL:https://schedule.fursquared.com/f2-2024/talk/81/
+URL:https://pretalx.fursquared.com/f2-2024/talk/81/
 END:VEVENT
 END:VCALENDAR

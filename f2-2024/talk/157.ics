@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//157
+PRODID:-//pretalx//pretalx.fursquared.com//157
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,13 +33,13 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-157@schedule.fursquared.com
+UID:pretalx-f2-2024-157@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T080000
 DTEND;TZID=CST:20240225T180000
 DESCRIPTION:.
-DTSTAMP:20240207T004230Z
+DTSTAMP:20240209T020524Z
 LOCATION:MacArthur
 SUMMARY:Tabletop Gaming - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/157/
+URL:https://pretalx.fursquared.com/f2-2024/talk/157/
 END:VEVENT
 END:VCALENDAR

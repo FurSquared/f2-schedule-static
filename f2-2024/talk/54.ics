@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//54
+PRODID:-//pretalx//pretalx.fursquared.com//54
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-54@schedule.fursquared.com
+UID:pretalx-f2-2024-54@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T090000
 DTEND;TZID=CST:20240224T110000
 DESCRIPTION:\nWanna watch an indie animated kidcore cartoon\, made by a gay
@@ -42,9 +42,9 @@ DESCRIPTION:\nWanna watch an indie animated kidcore cartoon\, made by a gay
  isodes to catch anyone up but then premiering the brand new ep4 For the fi
  rst time ever!!! \nAfterward there will be an informal Q&A with the creato
  r... me~\n        
-DTSTAMP:20240207T004221Z
+DTSTAMP:20240209T020513Z
 LOCATION:Wright
 SUMMARY:GrindCove: The Movie Premiere  - Christine Comedian Buninson
-URL:https://schedule.fursquared.com/f2-2024/talk/54/
+URL:https://pretalx.fursquared.com/f2-2024/talk/54/
 END:VEVENT
 END:VCALENDAR

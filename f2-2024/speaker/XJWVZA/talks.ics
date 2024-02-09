@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.fursquared.com//f2-2024//XJWVZA
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-104@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T233000
+DTEND;TZID=CST:20240224T010000
+DESCRIPTION:Put your sketchbook in the pile\, pick up another one\, and dra
+ w something you think they would like! Bringing character references is en
+ couraged. Sketchbook owners may indicate whether or not they would like to
+  receive NSFW artwork with provided bookmarks.
+DTSTAMP:20240209T020536Z
+LOCATION:Walker
+SUMMARY:Sketchbook Swap (18+) - Rouge
+URL:https://pretalx.fursquared.com/f2-2024/talk/104/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-7@pretalx.fursquared.com
+DTSTART;TZID=CST:20240225T100000
+DTEND;TZID=CST:20240225T113000
+DESCRIPTION:Put your sketchbook in the pile\, pick up another one\, and dra
+ w something you think they would like! Bringing character references is en
+ couraged. Please make sure your sketchbook is suitable for all audiences!
+DTSTAMP:20240209T020536Z
+LOCATION:Walker
+SUMMARY:All Ages Sketchbook Swap - Rouge
+URL:https://pretalx.fursquared.com/f2-2024/talk/7/
+END:VEVENT
+END:VCALENDAR

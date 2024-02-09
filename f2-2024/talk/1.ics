@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//1
+PRODID:-//pretalx//pretalx.fursquared.com//1
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-1@schedule.fursquared.com
+UID:pretalx-f2-2024-1@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T180000
 DTEND;TZID=CST:20240224T190000
 DESCRIPTION:\nFrom the first multi-day fan event Worldcon in 1939 to the mu
@@ -43,9 +43,9 @@ DESCRIPTION:\nFrom the first multi-day fan event Worldcon in 1939 to the mu
  ursuit parade at a furry con\, to hand Trekkies and bronies had in innovat
  ing convention staffing\, all of us are part of one large family tree of f
  an events. Presented by the Convention History Project. \n\n        
-DTSTAMP:20240207T004220Z
+DTSTAMP:20240209T020511Z
 LOCATION:Walker
 SUMMARY:85 Years of Fan Convention History  - Con History Project
-URL:https://schedule.fursquared.com/f2-2024/talk/1/
+URL:https://pretalx.fursquared.com/f2-2024/talk/1/
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//69
+PRODID:-//pretalx//pretalx.fursquared.com//69
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-69@schedule.fursquared.com
+UID:pretalx-f2-2024-69@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T100000
 DTEND;TZID=CST:20240224T110000
 DESCRIPTION:An interactive thinking game for an audience to play through.  
  A globe and time trotting expedition involving clues and puzzles.  Can the
   group recover the McGuffin before the no-goodnik gets away?
-DTSTAMP:20240207T004220Z
+DTSTAMP:20240209T020512Z
 LOCATION:Walker
-SUMMARY:Iggy and Steel's Globetrotting Challenge - Steele The Warrior\, Igg
- y\, Steel The Warrior
-URL:https://schedule.fursquared.com/f2-2024/talk/69/
+SUMMARY:Iggy and Steel's Globetrotting Challenge - Steel The Warrior\, Iggy
+URL:https://pretalx.fursquared.com/f2-2024/talk/69/
 END:VEVENT
 END:VCALENDAR

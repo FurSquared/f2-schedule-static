@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//120
+PRODID:-//pretalx//pretalx.fursquared.com//120
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,17 +33,17 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-120@schedule.fursquared.com
+UID:pretalx-f2-2024-120@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T200000
 DTEND;TZID=CST:20240223T213000
 DESCRIPTION:Join our panelists as they discuss and debate topics ranging fr
  om "what is the meaning of life?" to "What even IS a hole?" Philosophical 
  or deranged\, serious or comedic\, who knows what our devilish host has in
   store.
-DTSTAMP:20240207T004217Z
+DTSTAMP:20240209T020510Z
 LOCATION:Mitchell
 SUMMARY:The Devil's Advocate - Discussions and Debates (18+) - Skyler Ringt
  ail
-URL:https://schedule.fursquared.com/f2-2024/talk/120/
+URL:https://pretalx.fursquared.com/f2-2024/talk/120/
 END:VEVENT
 END:VCALENDAR

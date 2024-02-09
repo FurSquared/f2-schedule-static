@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//40
+PRODID:-//pretalx//pretalx.fursquared.com//40
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-40@schedule.fursquared.com
+UID:pretalx-f2-2024-40@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T123000
 DTEND;TZID=CST:20240223T140000
 DESCRIPTION:Let your fur do the talking! In this twist on furry charades ba
@@ -41,9 +41,9 @@ DESCRIPTION:Let your fur do the talking! In this twist on furry charades ba
  lues to furry-themed puzzles. Winners receive a small prize and play a bon
  us round for HAWS! (Fursuiters\, please note that every player has to spea
  k at some point in the game.)
-DTSTAMP:20240207T004214Z
+DTSTAMP:20240209T020526Z
 LOCATION:Wright
 SUMMARY:Furry Language: The Game Show! - CCritt93
-URL:https://schedule.fursquared.com/f2-2024/talk/40/
+URL:https://pretalx.fursquared.com/f2-2024/talk/40/
 END:VEVENT
 END:VCALENDAR

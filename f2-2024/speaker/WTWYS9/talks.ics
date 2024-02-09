@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.fursquared.com//f2-2024//WTWYS9
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-116@pretalx.fursquared.com
+DTSTART;TZID=CST:20240225T100000
+DTEND;TZID=CST:20240225T110000
+DESCRIPTION:A panelist-led discussion and Q&A session about how plushies ar
+ e used throughout our lives. How is it that we became so attached to these
+  poly-filled and polyester blend fabric creatures that make us happy? Let'
+ s discuss this and more at the plushy panel. Don't forget to bring your fa
+ vorite squishable friend if you like. Bonus\, we may raffle off a few new 
+ plush friends for you to take home and add to your collection.
+DTSTAMP:20240209T020546Z
+LOCATION:Usinger
+SUMMARY:Squishy Cuddly Plushie Appreciation - Ditsy\, Trouble
+URL:https://pretalx.fursquared.com/f2-2024/talk/116/
+END:VEVENT
+END:VCALENDAR

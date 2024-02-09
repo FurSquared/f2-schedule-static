@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//41
+PRODID:-//pretalx//pretalx.fursquared.com//41
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-41@schedule.fursquared.com
+UID:pretalx-f2-2024-41@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T153000
 DTEND;TZID=CST:20240223T163000
 DESCRIPTION:Bring your pins\, stickers\, key chains\, plushies and more to 
  swap with your fellow furries! This is for the trading of items\, no monet
  ary exchanges please. 
-DTSTAMP:20240207T004218Z
+DTSTAMP:20240209T020529Z
 LOCATION:Empire
 SUMMARY:Furry Merch Swap Meet - Nova
-URL:https://schedule.fursquared.com/f2-2024/talk/41/
+URL:https://pretalx.fursquared.com/f2-2024/talk/41/
 END:VEVENT
 END:VCALENDAR

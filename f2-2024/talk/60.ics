@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//60
+PRODID:-//pretalx//pretalx.fursquared.com//60
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-60@schedule.fursquared.com
+UID:pretalx-f2-2024-60@pretalx.fursquared.com
 DTSTART;TZID=CST:20240222T090000
 DTEND;TZID=CST:20240223T000000
 DESCRIPTION:The most marvelous machine our creators have constructed is one
   which allows your head to come right off in the event of needing to cool 
  down!
-DTSTAMP:20240207T004232Z
+DTSTAMP:20240209T020531Z
 LOCATION:Founders
 SUMMARY:Headless Lounge (Founders) - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/60/
+URL:https://pretalx.fursquared.com/f2-2024/talk/60/
 END:VEVENT
 END:VCALENDAR

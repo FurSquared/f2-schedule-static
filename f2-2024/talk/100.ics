@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//100
+PRODID:-//pretalx//pretalx.fursquared.com//100
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-100@schedule.fursquared.com
+UID:pretalx-f2-2024-100@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T093000
 DTEND;TZID=CST:20240225T103000
 DESCRIPTION:"It was a dark and stormy night\," except then it wasn't. Come 
  join the game where you compose the next line of the story\, and we all vo
  te which line we like the best. That becomes the next line in the story an
  d we repeat this process until we create a masterpiece!
-DTSTAMP:20240207T004228Z
+DTSTAMP:20240209T020522Z
 LOCATION:Pabst
 SUMMARY:Scribbles N Bits - Iggy
-URL:https://schedule.fursquared.com/f2-2024/talk/100/
+URL:https://pretalx.fursquared.com/f2-2024/talk/100/
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//126
+PRODID:-//pretalx//pretalx.fursquared.com//126
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-126@schedule.fursquared.com
+UID:pretalx-f2-2024-126@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T140000
 DTEND;TZID=CST:20240225T150000
 DESCRIPTION:Are you an up-and-coming twitch streamer who is trying to reach
@@ -43,9 +43,9 @@ DESCRIPTION:Are you an up-and-coming twitch streamer who is trying to reach
   of these situations myself! I am here to tell stories and answer your que
  stions on what might or might not work for you and your audience. This is 
  a welcoming and encouraging atmosphere! We all start somewhere.
-DTSTAMP:20240207T004227Z
+DTSTAMP:20240209T020520Z
 LOCATION:Walker
 SUMMARY:Twitch: Reach Affiliate & Grow - Tango Bloom
-URL:https://schedule.fursquared.com/f2-2024/talk/126/
+URL:https://pretalx.fursquared.com/f2-2024/talk/126/
 END:VEVENT
 END:VCALENDAR

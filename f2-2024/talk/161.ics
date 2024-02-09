@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//161
+PRODID:-//pretalx//pretalx.fursquared.com//161
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-161@schedule.fursquared.com
+UID:pretalx-f2-2024-161@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T210000
 DTEND;TZID=CST:20240226T000000
 DESCRIPTION:Come test out a new Furry sci-fi game being written by SteelThe
  Warrior. Choose from a massive assortment of Species and Scion combination
  s\, and explore an immensely dynamic and complex new universe full of myst
  ery\, intrigue and betrayal!
-DTSTAMP:20240207T004230Z
+DTSTAMP:20240209T020524Z
 LOCATION:MacArthur
-SUMMARY:Soverign Eclipse - Steele The Warrior\, Steel The Warrior
-URL:https://schedule.fursquared.com/f2-2024/talk/161/
+SUMMARY:Soverign Eclipse - Steel The Warrior
+URL:https://pretalx.fursquared.com/f2-2024/talk/161/
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//23
+PRODID:-//pretalx//pretalx.fursquared.com//23
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-23@schedule.fursquared.com
+UID:pretalx-f2-2024-23@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T170000
 DTEND;TZID=CST:20240224T180000
 DESCRIPTION:We are here to serve you chill beats and tea. Get to know other
   artists and talk about con activities. This is a cafe for artists to rela
  x.
-DTSTAMP:20240207T004220Z
+DTSTAMP:20240209T020512Z
 LOCATION:Walker
 SUMMARY:Chill Beats Art Cafe - SIN\, Renacat
-URL:https://schedule.fursquared.com/f2-2024/talk/23/
+URL:https://pretalx.fursquared.com/f2-2024/talk/23/
 END:VEVENT
 END:VCALENDAR

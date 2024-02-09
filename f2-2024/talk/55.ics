@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//55
+PRODID:-//pretalx//pretalx.fursquared.com//55
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,13 +33,13 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-55@schedule.fursquared.com
+UID:pretalx-f2-2024-55@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T120000
 DTEND;TZID=CST:20240224T130000
 DESCRIPTION:Come learn about ham radio.
-DTSTAMP:20240207T004222Z
+DTSTAMP:20240209T020515Z
 LOCATION:Pabst
 SUMMARY:Ham Radio 101 - Jase Husky\, Wolfletech\, Shade Wolf\, Predicta
-URL:https://schedule.fursquared.com/f2-2024/talk/55/
+URL:https://pretalx.fursquared.com/f2-2024/talk/55/
 END:VEVENT
 END:VCALENDAR

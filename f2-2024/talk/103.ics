@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//103
+PRODID:-//pretalx//pretalx.fursquared.com//103
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-103@schedule.fursquared.com
+UID:pretalx-f2-2024-103@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T170000
 DTEND;TZID=CST:20240224T180000
 DESCRIPTION:A look at the history and evolution of animal transformation in
@@ -44,10 +44,10 @@ DESCRIPTION:A look at the history and evolution of animal transformation in
  \, tropes\, visual representations\, and plots common with these works and
   ways they can be expended. This panel summarizes this long history and an
  alyzes themes from these types of stories. 
-DTSTAMP:20240207T004223Z
+DTSTAMP:20240209T020516Z
 LOCATION:Mitchell
 SUMMARY:Shapeshifters & Transformation in Fiction - From Fables to Furry Cu
  lture  - Bash the Piñata
-URL:https://schedule.fursquared.com/f2-2024/talk/103/
+URL:https://pretalx.fursquared.com/f2-2024/talk/103/
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//86
+PRODID:-//pretalx//pretalx.fursquared.com//86
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-86@schedule.fursquared.com
+UID:pretalx-f2-2024-86@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T213000
 DTEND;TZID=CST:20240224T223000
 DESCRIPTION:A charity debate panel where you vote with your dollars. Three 
  debates on irrelevant topics picked from the audience\, argued irreverentl
  y by the panelists\, with the audience picking the winner 
-DTSTAMP:20240207T004221Z
+DTSTAMP:20240209T020514Z
 LOCATION:Wright
 SUMMARY:Mass-Debation (18+) - Boozy Badger
-URL:https://schedule.fursquared.com/f2-2024/talk/86/
+URL:https://pretalx.fursquared.com/f2-2024/talk/86/
 END:VEVENT
 END:VCALENDAR

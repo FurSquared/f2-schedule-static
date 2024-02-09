@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//136
+PRODID:-//pretalx//pretalx.fursquared.com//136
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,13 +33,13 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-136@schedule.fursquared.com
+UID:pretalx-f2-2024-136@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T090000
 DTEND;TZID=CST:20240223T200000
 DESCRIPTION:.
-DTSTAMP:20240207T004219Z
+DTSTAMP:20240209T020530Z
 LOCATION:Registration
 SUMMARY:Registration - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/136/
+URL:https://pretalx.fursquared.com/f2-2024/talk/136/
 END:VEVENT
 END:VCALENDAR

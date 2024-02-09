@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//24
+PRODID:-//pretalx//pretalx.fursquared.com//24
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,14 +33,14 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-24@schedule.fursquared.com
+UID:pretalx-f2-2024-24@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T220000
 DTEND;TZID=CST:20240223T230000
 DESCRIPTION:Come join Garfield enthusiasts as we draw only cursed Garfields
  .
-DTSTAMP:20240207T004233Z
+DTSTAMP:20240209T020507Z
 LOCATION:Walker
 SUMMARY:Church of Garf (18+) - Tapioca
-URL:https://schedule.fursquared.com/f2-2024/talk/24/
+URL:https://pretalx.fursquared.com/f2-2024/talk/24/
 END:VEVENT
 END:VCALENDAR
