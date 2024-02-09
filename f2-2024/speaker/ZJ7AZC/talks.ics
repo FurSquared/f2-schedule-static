@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.fursquared.com//f2-2024//ZJ7AZC
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-84@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T163000
+DTEND;TZID=CST:20240223T173000
+DESCRIPTION:I've got a microphone and a computer\, but I need your help! Co
+ me to the panel ready to bark\, chirp\, stomp\, and clap\, and I'll record
+  you. Then I'll take your sounds\, mash and mangle them\, and use them to 
+ build out a song\, which I will perform at the end of the panel.
+DTSTAMP:20240209T025728Z
+LOCATION:Mitchell
+SUMMARY:Let's Record a Song in an Hour! - Shallie Dragon
+URL:https://pretalx.fursquared.com/f2-2024/talk/84/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-5@pretalx.fursquared.com
+DTSTART;TZID=CST:20240224T140000
+DTEND;TZID=CST:20240224T190000
+DESCRIPTION:\nMusical Furpile and Rock Opera \n\nFeaturing:\nFurry Choir\nP
+ epper Coyote Being Polite\nRatmos (Dittman Rat)\nShallie Dragon\nCitrine H
+ usky\nOny the Runaway Circus Bear: a Rock opera by Rhubarb the Bear\n     
+    
+DTSTAMP:20240209T025728Z
+LOCATION:Crystal
+SUMMARY:Musical Furpile and Rock Opera - Rhubarb the Bear\, Cosmik\, Dittma
+ n Rat\, Citrine Husky\, Pepper Coyote\, Shallie Dragon
+URL:https://pretalx.fursquared.com/f2-2024/talk/5/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-65@pretalx.fursquared.com
+DTSTART;TZID=CST:20240224T160000
+DTEND;TZID=CST:20240224T170000
+DESCRIPTION:Do you want to record vocals\, but don't know where to start? D
+ o you want to get your budding voice acting/singing/podcasting career off 
+ the ground\, but don't know what equipment to get? I can help you with tha
+ t! This panel will cover the basics of home vocal recording\, and provide 
+ equipment suggestions for a variety of budgets. I'll teach you how to make
+  your ideas a reality\, without breaking the bank!
+DTSTAMP:20240209T025728Z
+LOCATION:Pabst
+SUMMARY:Home Vocal Recording on a Budget - Shallie Dragon
+URL:https://pretalx.fursquared.com/f2-2024/talk/65/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-6@pretalx.fursquared.com
+DTSTART;TZID=CST:20240225T123000
+DTEND;TZID=CST:20240225T163000
+DESCRIPTION:\nMusical Furpile: The Sequel\n\nFeaturing:\nOtter Chaos\nA Fox
+  Named Coyote\nShallie Dragon\nRatmos (Dittman Rat)\nCosmik and Rhubarb an
+ d Everyone Else\n        
+DTSTAMP:20240209T025728Z
+LOCATION:Crystal
+SUMMARY:Musical Furpile: The Sequel - Rhubarb the Bear\, Cosmik\, Dittman R
+ at\, a fox named coyote\, Shallie Dragon\, keyotter\, Rhubarb the Nidorino
+ \, Gale Tazzin
+URL:https://pretalx.fursquared.com/f2-2024/talk/6/
+END:VEVENT
+END:VCALENDAR

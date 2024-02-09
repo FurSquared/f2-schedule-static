@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.fursquared.com//f2-2024//NFP9SS
+BEGIN:VTIMEZONE
+TZID:CST
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T080000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T090000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T030000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-f2-2024-112@pretalx.fursquared.com
+DTSTART;TZID=CST:20240222T160000
+DTEND;TZID=CST:20240222T190000
+DESCRIPTION:.
+DTSTAMP:20240209T025722Z
+LOCATION:Empire
+SUMMARY:Sponsor's Lounge - Gazzy\, Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/112/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-113@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T103000
+DTEND;TZID=CST:20240223T200000
+DESCRIPTION:.
+DTSTAMP:20240209T025722Z
+LOCATION:Empire
+SUMMARY:Sponsor's Lounge - Gazzy\, Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/113/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-130@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T120000
+DTEND;TZID=CST:20240223T130000
+DESCRIPTION:Come and layeth the smacketh down in this wonderful panel of fu
+ rs who love pro wrestling! Come and discuss your favorite wrestlers\, matc
+ hes\, moments\, moves\, or learn what it’s all about! The matches may be
+  predetermined\, but this meetup turnout is not!
+DTSTAMP:20240209T025722Z
+LOCATION:Pabst
+SUMMARY:WrestleFur Meetup - Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/130/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-10@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T143000
+DTEND;TZID=CST:20240223T153000
+DESCRIPTION:Sharks\, dolphins\, whales\, otters\, and more! Come and hang o
+ ut with the aquatics. Or\, if you are not one\, come out and learn about w
+ hat makes us so amazing!
+DTSTAMP:20240209T025722Z
+LOCATION:Pabst
+SUMMARY:Aquatic Meet-Up - Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/10/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-3@pretalx.fursquared.com
+DTSTART;TZID=CST:20240223T200000
+DTEND;TZID=CST:20240223T213000
+DESCRIPTION:Now that the young ones are to bed\, time to let out the real p
+ assion in your heart. No restrictions on song choices. Come on out and sin
+ g your favorite song!
+DTSTAMP:20240209T025722Z
+LOCATION:Wright
+SUMMARY:Adults Only Karaoke (18+) - Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-114@pretalx.fursquared.com
+DTSTART;TZID=CST:20240224T080000
+DTEND;TZID=CST:20240225T020000
+DESCRIPTION:.
+DTSTAMP:20240209T025722Z
+LOCATION:Empire
+SUMMARY:Sponsor's Lounge - Gazzy\, Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/114/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-107@pretalx.fursquared.com
+DTSTART;TZID=CST:20240224T103000
+DTEND;TZID=CST:20240224T113000
+DESCRIPTION:Worried that your parents know about your furry life? Hear from
+  Konnor’s father as to how he handled the news. He will be open to any q
+ uestions you may have.
+DTSTAMP:20240209T025722Z
+LOCATION:Pabst
+SUMMARY:So\, Your Parents Found Out… - Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/107/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-f2-2024-115@pretalx.fursquared.com
+DTSTART;TZID=CST:20240225T080000
+DTEND;TZID=CST:20240225T180000
+DESCRIPTION:.
+DTSTAMP:20240209T025722Z
+LOCATION:Empire
+SUMMARY:Sponsor's Lounge - Gazzy\, Konnor Unuki
+URL:https://pretalx.fursquared.com/f2-2024/talk/115/
+END:VEVENT
+END:VCALENDAR
