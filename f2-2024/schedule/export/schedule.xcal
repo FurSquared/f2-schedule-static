@@ -204,30 +204,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>154@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-154</pentabarf:event-slug>
-            <pentabarf:title>Tabletop Gaming</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240223T020000</dtend>
-            <duration>8.00000</duration>
-            <summary>Tabletop Gaming</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/154/</url>
-            <location>MacArthur</location>
-            
-            <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>133@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-133</pentabarf:event-slug>
@@ -247,6 +223,30 @@
             <location>MacArthur</location>
             
             <attendee>Steel The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>154@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-154</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240223T020000</dtend>
+            <duration>8.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/154/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
             
         </vevent>
         
@@ -2257,6 +2257,30 @@
             <location>Wright</location>
             
             <attendee>ChewiesCuz</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>7THMDR@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-7THMDR</pentabarf:event-slug>
+            <pentabarf:title>Concert Block Sound Check</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240224T110000</dtend>
+            <duration>2.00000</duration>
+            <summary>Concert Block Sound Check</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Rehearsal</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/7THMDR/</url>
+            <location>Crystal</location>
+            
+            <attendee>FurSquared Staff</attendee>
             
         </vevent>
         
