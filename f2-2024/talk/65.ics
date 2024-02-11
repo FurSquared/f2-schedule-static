@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//65
+PRODID:-//pretalx//pretalx.fursquared.com//65
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-65@schedule.fursquared.com
+UID:pretalx-f2-2024-65@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T160000
 DTEND;TZID=CST:20240224T170000
 DESCRIPTION:Do you want to record vocals\, but don't know where to start? D
@@ -42,9 +42,9 @@ DESCRIPTION:Do you want to record vocals\, but don't know where to start? D
  t! This panel will cover the basics of home vocal recording\, and provide 
  equipment suggestions for a variety of budgets. I'll teach you how to make
   your ideas a reality\, without breaking the bank!
-DTSTAMP:20240207T004222Z
+DTSTAMP:20240211T180019Z
 LOCATION:Pabst
 SUMMARY:Home Vocal Recording on a Budget - Shallie Dragon
-URL:https://schedule.fursquared.com/f2-2024/talk/65/
+URL:https://pretalx.fursquared.com/f2-2024/talk/65/
 END:VEVENT
 END:VCALENDAR

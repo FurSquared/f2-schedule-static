@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//131
+PRODID:-//pretalx//pretalx.fursquared.com//131
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-131@schedule.fursquared.com
+UID:pretalx-f2-2024-131@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T223000
 DTEND;TZID=CST:20240224T233000
 DESCRIPTION:For those curious on how to write an effective adult novel\, we
@@ -41,9 +41,9 @@ DESCRIPTION:For those curious on how to write an effective adult novel\, we
   Whether curious about the process or interested in working in the fandom\
  , this is the panel for you! Questions encouraged and many topics on the t
  able.
-DTSTAMP:20240207T004224Z
+DTSTAMP:20240211T180022Z
 LOCATION:Mitchell
 SUMMARY:Writing Furry Erotica (18+) - Serathin Sabertooth
-URL:https://schedule.fursquared.com/f2-2024/talk/131/
+URL:https://pretalx.fursquared.com/f2-2024/talk/131/
 END:VEVENT
 END:VCALENDAR

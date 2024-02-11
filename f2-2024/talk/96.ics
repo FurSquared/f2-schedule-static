@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//96
+PRODID:-//pretalx//pretalx.fursquared.com//96
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-96@schedule.fursquared.com
+UID:pretalx-f2-2024-96@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T193000
 DTEND;TZID=CST:20240223T203000
 DESCRIPTION:An explanation and summary of all the aspects of reenacting and
   airsofting\, what to expect\, what is focused on\, and how to have fun do
  ing it in the field!
-DTSTAMP:20240207T004217Z
+DTSTAMP:20240211T180011Z
 LOCATION:Schlitz
 SUMMARY:Reenacting and Airsofting - Dustin DaHusky
-URL:https://schedule.fursquared.com/f2-2024/talk/96/
+URL:https://pretalx.fursquared.com/f2-2024/talk/96/
 END:VEVENT
 END:VCALENDAR

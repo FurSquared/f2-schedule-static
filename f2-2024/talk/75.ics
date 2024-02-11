@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//75
+PRODID:-//pretalx//pretalx.fursquared.com//75
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-75@schedule.fursquared.com
+UID:pretalx-f2-2024-75@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T093000
 DTEND;TZID=CST:20240224T103000
 DESCRIPTION:“Intro to Traditional Irish Music” is a hybrid presentation
@@ -44,9 +44,9 @@ DESCRIPTION:“Intro to Traditional Irish Music” is a hybrid presentation
  s) and how each is different\; and also bring a visual explanation of how 
  ornamentation is played on the Irish flute specifically. Attendees get to 
  enjoy both a presentation and a variety of music all in one. 
-DTSTAMP:20240207T004223Z
+DTSTAMP:20240211T180015Z
 LOCATION:Mitchell
 SUMMARY:Intro to Traditional Irish Music - Naoise
-URL:https://schedule.fursquared.com/f2-2024/talk/75/
+URL:https://pretalx.fursquared.com/f2-2024/talk/75/
 END:VEVENT
 END:VCALENDAR

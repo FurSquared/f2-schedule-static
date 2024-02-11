@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//18
+PRODID:-//pretalx//pretalx.fursquared.com//18
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-18@schedule.fursquared.com
+UID:pretalx-f2-2024-18@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T140000
 DTEND;TZID=CST:20240225T150000
 DESCRIPTION:\nHave you ever seen handmade dice for games like D&D or Pathfi
@@ -42,9 +42,9 @@ DESCRIPTION:\nHave you ever seen handmade dice for games like D&D or Pathfi
   the tools of the trade and how to make dice so you can try it out at home
   after the con.\nStick around until the end for special die giveaway too!\
  n        
-DTSTAMP:20240207T004228Z
+DTSTAMP:20240211T180027Z
 LOCATION:Pabst
 SUMMARY:Casting Resin Dice 101 - Arcane Owl Dice
-URL:https://schedule.fursquared.com/f2-2024/talk/18/
+URL:https://pretalx.fursquared.com/f2-2024/talk/18/
 END:VEVENT
 END:VCALENDAR

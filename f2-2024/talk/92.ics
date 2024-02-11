@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//92
+PRODID:-//pretalx//pretalx.fursquared.com//92
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-92@schedule.fursquared.com
+UID:pretalx-f2-2024-92@pretalx.fursquared.com
 DTSTART;TZID=CST:20240222T190000
 DTEND;TZID=CST:20240222T203000
 DESCRIPTION:Have a stand-up routine you want to try out? Want to tell a sto
@@ -42,9 +42,9 @@ DESCRIPTION:Have a stand-up routine you want to try out? Want to tell a sto
  y to receive some helpful good natured critiques from the panel hosts. All
   performers are limited to 3 to 5 minute sets depending on the panel turn 
  out. 
-DTSTAMP:20240207T004231Z
+DTSTAMP:20240211T180033Z
 LOCATION:Wright
 SUMMARY:Open Mic & Comedy Basics - Alkali Bismuth
-URL:https://schedule.fursquared.com/f2-2024/talk/92/
+URL:https://pretalx.fursquared.com/f2-2024/talk/92/
 END:VEVENT
 END:VCALENDAR

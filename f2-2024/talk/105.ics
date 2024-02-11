@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//105
+PRODID:-//pretalx//pretalx.fursquared.com//105
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-105@schedule.fursquared.com
+UID:pretalx-f2-2024-105@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T120000
 DTEND;TZID=CST:20240223T130000
 DESCRIPTION:Is this your first time at a fun con? Or even just your first t
  ime at FurSquared? Well come on in and learn the do’s and don’ts of be
  ing at a fur con. From dealing with fur suits to the 6/2/1 rule. A great w
  ay to start your convention and learn the best way to have a good time. 
-DTSTAMP:20240207T004215Z
+DTSTAMP:20240211T180029Z
 LOCATION:Crystal
 SUMMARY:So This is Your First Fur Con - Alkali Bismuth
-URL:https://schedule.fursquared.com/f2-2024/talk/105/
+URL:https://pretalx.fursquared.com/f2-2024/talk/105/
 END:VEVENT
 END:VCALENDAR

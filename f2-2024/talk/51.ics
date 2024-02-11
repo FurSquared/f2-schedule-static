@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//51
+PRODID:-//pretalx//pretalx.fursquared.com//51
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-51@schedule.fursquared.com
+UID:pretalx-f2-2024-51@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T200000
 DTEND;TZID=CST:20240223T210000
 DESCRIPTION:Gazzy once again takes the stage with their cup collection for 
  more shenanigans and plenty of informal cup talk! This time\, the gauntlet
   is being raised\, and all for a worthy cause!
-DTSTAMP:20240207T004218Z
+DTSTAMP:20240211T180012Z
 LOCATION:Empire
 SUMMARY:Gazzy’s Goblet Gauntlet (for Charity!) (21+) - Gazzy
-URL:https://schedule.fursquared.com/f2-2024/talk/51/
+URL:https://pretalx.fursquared.com/f2-2024/talk/51/
 END:VEVENT
 END:VCALENDAR

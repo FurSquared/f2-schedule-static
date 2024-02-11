@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//91
+PRODID:-//pretalx//pretalx.fursquared.com//91
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-91@schedule.fursquared.com
+UID:pretalx-f2-2024-91@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T210000
 DTEND;TZID=CST:20240225T010000
 DESCRIPTION:\nRumours abound of a secret gathering\, a shady Night Market t
@@ -43,9 +43,9 @@ DESCRIPTION:\nRumours abound of a secret gathering\, a shady Night Market t
   \ncustomer. Drop by if you dare! No secret password is required for entry
  \,\n although all that visit the Night Market must be at least 18 years ol
  d.\n        
-DTSTAMP:20240207T004225Z
+DTSTAMP:20240211T180021Z
 LOCATION:Juneau
 SUMMARY:Night Market - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/91/
+URL:https://pretalx.fursquared.com/f2-2024/talk/91/
 END:VEVENT
 END:VCALENDAR

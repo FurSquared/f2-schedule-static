@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//15
+PRODID:-//pretalx//pretalx.fursquared.com//15
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-15@schedule.fursquared.com
+UID:pretalx-f2-2024-15@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T123000
 DTEND;TZID=CST:20240223T133000
 DESCRIPTION:Are you getting law advice from Reddit? Do you believe you don
  ’t need a lawyer because “you’ve seen enough Law and Order”? Boozy
   tells you why you’re wrong\, and explains common misconceptions about t
  he legal system.
-DTSTAMP:20240207T004216Z
+DTSTAMP:20240211T180030Z
 LOCATION:Mitchell
 SUMMARY:Boozy’s Basic Law - Boozy Badger
-URL:https://schedule.fursquared.com/f2-2024/talk/15/
+URL:https://pretalx.fursquared.com/f2-2024/talk/15/
 END:VEVENT
 END:VCALENDAR

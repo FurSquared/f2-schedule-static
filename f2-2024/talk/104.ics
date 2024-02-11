@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//104
+PRODID:-//pretalx//pretalx.fursquared.com//104
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-104@schedule.fursquared.com
+UID:pretalx-f2-2024-104@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T233000
 DTEND;TZID=CST:20240224T010000
 DESCRIPTION:Put your sketchbook in the pile\, pick up another one\, and dra
  w something you think they would like! Bringing character references is en
  couraged. Sketchbook owners may indicate whether or not they would like to
   receive NSFW artwork with provided bookmarks.
-DTSTAMP:20240207T004233Z
+DTSTAMP:20240211T180014Z
 LOCATION:Walker
 SUMMARY:Sketchbook Swap (18+) - Rouge
-URL:https://schedule.fursquared.com/f2-2024/talk/104/
+URL:https://pretalx.fursquared.com/f2-2024/talk/104/
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//135
+PRODID:-//pretalx//pretalx.fursquared.com//135
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-135@schedule.fursquared.com
+UID:pretalx-f2-2024-135@pretalx.fursquared.com
 DTSTART;TZID=CST:20240222T170000
 DTEND;TZID=CST:20240222T200000
 DESCRIPTION:Badge pickup for pre-registered attendees. No cash accepted for
   upgrades on this day (the ferrets aren't back from their casino heist yet
  ).
-DTSTAMP:20240207T004233Z
+DTSTAMP:20240211T180032Z
 LOCATION:Registration
 SUMMARY:Pre-Registration Badge Pickup - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/135/
+URL:https://pretalx.fursquared.com/f2-2024/talk/135/
 END:VEVENT
 END:VCALENDAR

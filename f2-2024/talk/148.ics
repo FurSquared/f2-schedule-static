@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//148
+PRODID:-//pretalx//pretalx.fursquared.com//148
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,13 +33,13 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-148@schedule.fursquared.com
+UID:pretalx-f2-2024-148@pretalx.fursquared.com
 DTSTART;TZID=CST:20240225T100000
 DTEND;TZID=CST:20240225T170000
 DESCRIPTION:.
-DTSTAMP:20240207T004231Z
+DTSTAMP:20240211T180025Z
 LOCATION:Kilbourn
 SUMMARY:Video Games - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/148/
+URL:https://pretalx.fursquared.com/f2-2024/talk/148/
 END:VEVENT
 END:VCALENDAR

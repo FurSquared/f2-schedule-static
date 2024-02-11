@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//101
+PRODID:-//pretalx//pretalx.fursquared.com//101
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-101@schedule.fursquared.com
+UID:pretalx-f2-2024-101@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T230000
 DTEND;TZID=CST:20240225T000000
 DESCRIPTION:During this accessible dance\, the music level will be lowered 
  and there will be no fast moving or strobing lights. The room lights will 
  also be on low. Starring your Guest of Honor Cosmik\, playing Top 40/EuroP
  op. 
-DTSTAMP:20240207T004222Z
+DTSTAMP:20240211T180022Z
 LOCATION:Crystal
 SUMMARY:Sensory Friendly Dance - Cosmik
-URL:https://schedule.fursquared.com/f2-2024/talk/101/
+URL:https://pretalx.fursquared.com/f2-2024/talk/101/
 END:VEVENT
 END:VCALENDAR

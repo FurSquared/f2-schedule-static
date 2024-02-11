@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//84
+PRODID:-//pretalx//pretalx.fursquared.com//84
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,16 +33,16 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-84@schedule.fursquared.com
+UID:pretalx-f2-2024-84@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T163000
 DTEND;TZID=CST:20240223T173000
 DESCRIPTION:I've got a microphone and a computer\, but I need your help! Co
  me to the panel ready to bark\, chirp\, stomp\, and clap\, and I'll record
   you. Then I'll take your sounds\, mash and mangle them\, and use them to 
  build out a song\, which I will perform at the end of the panel.
-DTSTAMP:20240207T004217Z
+DTSTAMP:20240211T180010Z
 LOCATION:Mitchell
 SUMMARY:Let's Record a Song in an Hour! - Shallie Dragon
-URL:https://schedule.fursquared.com/f2-2024/talk/84/
+URL:https://pretalx.fursquared.com/f2-2024/talk/84/
 END:VEVENT
 END:VCALENDAR

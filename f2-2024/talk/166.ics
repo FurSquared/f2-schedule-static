@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//166
+PRODID:-//pretalx//pretalx.fursquared.com//166
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-166@schedule.fursquared.com
+UID:pretalx-f2-2024-166@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T180000
 DTEND;TZID=CST:20240223T190000
 DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
@@ -41,9 +41,9 @@ DESCRIPTION:Come and join a Tabletop RPG-styled expedition to explore the d
   race against the clock! Score plenty of points towards your score for the
   ARG and help contribute to the effort of saving Inventia and everyone wit
  hin it before the weekend is over!
-DTSTAMP:20240207T004219Z
+DTSTAMP:20240211T180011Z
 LOCATION:MacArthur
-SUMMARY:Second Big Expedition - Steele The Warrior\, Steel The Warrior
-URL:https://schedule.fursquared.com/f2-2024/talk/166/
+SUMMARY:Second Big Expedition - Steel The Warrior
+URL:https://pretalx.fursquared.com/f2-2024/talk/166/
 END:VEVENT
 END:VCALENDAR

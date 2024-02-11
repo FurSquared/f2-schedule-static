@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//127
+PRODID:-//pretalx//pretalx.fursquared.com//127
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,15 +33,15 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-127@schedule.fursquared.com
+UID:pretalx-f2-2024-127@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T210000
 DTEND;TZID=CST:20240224T220000
 DESCRIPTION:Wanna meet fellow vore furs or learn what the kink called vore 
  is? Stop on by this 18+ event and join the food chain as the goal is to me
  et others with shared interests and tastes!
-DTSTAMP:20240207T004224Z
+DTSTAMP:20240211T180022Z
 LOCATION:Mitchell
 SUMMARY:Vore Furs Meet and Eat (Greet) (18+) - Amicus Verum
-URL:https://schedule.fursquared.com/f2-2024/talk/127/
+URL:https://pretalx.fursquared.com/f2-2024/talk/127/
 END:VEVENT
 END:VCALENDAR

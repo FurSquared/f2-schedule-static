@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//pretalx//schedule.fursquared.com//31
+PRODID:-//pretalx//pretalx.fursquared.com//31
 BEGIN:VTIMEZONE
 TZID:CST
 BEGIN:STANDARD
@@ -33,7 +33,7 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-f2-2024-31@schedule.fursquared.com
+UID:pretalx-f2-2024-31@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T100000
 DTEND;TZID=CST:20240223T180000
 DESCRIPTION:Looking for a souvenir\, or just looking to be amazed by the wo
@@ -41,9 +41,9 @@ DESCRIPTION:Looking for a souvenir\, or just looking to be amazed by the wo
   many exciting creations ready to go home with you! There's bound to be so
  mething for everybody amidst all the colorful booths and smiling faces\, s
  o stop by while the sun's up!
-DTSTAMP:20240207T004218Z
+DTSTAMP:20240211T180029Z
 LOCATION:Regency
 SUMMARY:Dealer's Den - FurSquared Staff
-URL:https://schedule.fursquared.com/f2-2024/talk/31/
+URL:https://pretalx.fursquared.com/f2-2024/talk/31/
 END:VEVENT
 END:VCALENDAR
