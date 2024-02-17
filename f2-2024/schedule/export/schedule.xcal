@@ -106,30 +106,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>64@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-64</pentabarf:event-slug>
-            <pentabarf:title>Hip Hop Dance Meet (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240222T190000</dtend>
-            <duration>1.00000</duration>
-            <summary>Hip Hop Dance Meet (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/64/</url>
-            <location>Mitchell</location>
-            
-            <attendee>Shiori</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>81@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-81</pentabarf:event-slug>
@@ -149,6 +125,30 @@
             <location>Mitchell</location>
             
             <attendee>Dittman Rat</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>64@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-64</pentabarf:event-slug>
+            <pentabarf:title>Hip Hop Dance Meet (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T210000</dtstart>
+            <dtend>20240222T220000</dtend>
+            <duration>1.00000</duration>
+            <summary>Hip Hop Dance Meet (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Meetup</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/64/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Shiori</attendee>
             
         </vevent>
         
@@ -204,30 +204,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>133@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-133</pentabarf:event-slug>
-            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240222T200000</dtend>
-            <duration>2.00000</duration>
-            <summary>Your Imagined Furry Fantasy (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/133/</url>
-            <location>MacArthur</location>
-            
-            <attendee>Steel The Warrior</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>154@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-154</pentabarf:event-slug>
@@ -247,6 +223,30 @@
             <location>MacArthur</location>
             
             <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>133@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-133</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240222T200000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/133/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -473,22 +473,20 @@
             <uid>2@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-2</pentabarf:event-slug>
-            <pentabarf:title>A Complete History of Furry Fandom (18+)</pentabarf:title>
+            <pentabarf:title>Iron Fursuit</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240223T193000</dtstart>
             <dtend>20240223T213000</dtend>
             <duration>2.00000</duration>
-            <summary>A Complete History of Furry Fandom (18+)</summary>
+            <summary>Iron Fursuit</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Talk</category>
             <url>https://pretalx.fursquared.com/f2-2024/talk/2/</url>
             <location>Walker</location>
-            
-            <attendee>Scar Kilovarras</attendee>
             
         </vevent>
         
@@ -537,6 +535,32 @@
             <location>Walker</location>
             
             <attendee>Rouge</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>28@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-28</pentabarf:event-slug>
+            <pentabarf:title>Darkglow Fitness!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T090000</dtstart>
+            <dtend>20240223T100000</dtend>
+            <duration>1.00000</duration>
+            <summary>Darkglow Fitness!</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Interactive</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/28/</url>
+            <location>Wright</location>
+            
+            <attendee>Ziggy Darkglow</attendee>
+            
+            <attendee>Catboyxei</attendee>
             
         </vevent>
         
@@ -2716,30 +2740,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>106@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-106</pentabarf:event-slug>
-            <pentabarf:title>So You Want to be a Con Artist </pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T183000</dtstart>
-            <dtend>20240224T193000</dtend>
-            <duration>1.00000</duration>
-            <summary>So You Want to be a Con Artist </summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/106/</url>
-            <location>Mitchell</location>
-            
-            <attendee>Bash the Piñata</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>127@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-127</pentabarf:event-slug>
@@ -2807,6 +2807,30 @@
             <location>Mitchell</location>
             
             <attendee>Iggy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>106@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-106</pentabarf:event-slug>
+            <pentabarf:title>So You Want to be a Con Artist</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T160000</dtstart>
+            <dtend>20240224T170000</dtend>
+            <duration>1.00000</duration>
+            <summary>So You Want to be a Con Artist</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/106/</url>
+            <location>Schlitz</location>
+            
+            <attendee>Bash the Piñata</attendee>
             
         </vevent>
         
@@ -3440,32 +3464,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>28@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-28</pentabarf:event-slug>
-            <pentabarf:title>Darkglow Fitness!</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T090000</dtstart>
-            <dtend>20240225T100000</dtend>
-            <duration>1.00000</duration>
-            <summary>Darkglow Fitness!</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Interactive</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/28/</url>
-            <location>Wright</location>
-            
-            <attendee>Ziggy Darkglow</attendee>
-            
-            <attendee>Catboyxei</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>20@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-20</pentabarf:event-slug>
@@ -3693,30 +3691,6 @@
             <location>Pabst</location>
             
             <attendee>Iggy</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>8@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-8</pentabarf:event-slug>
-            <pentabarf:title>Alternatives to Dungeons &amp; Dragons</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240225T113000</dtstart>
-            <dtend>20240225T123000</dtend>
-            <duration>1.00000</duration>
-            <summary>Alternatives to Dungeons &amp; Dragons</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/8/</url>
-            <location>Pabst</location>
-            
-            <attendee>Draggor</attendee>
             
         </vevent>
         
