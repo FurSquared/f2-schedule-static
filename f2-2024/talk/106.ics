@@ -34,17 +34,17 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pretalx-f2-2024-106@pretalx.fursquared.com
-DTSTART;TZID=CST:20240224T183000
-DTEND;TZID=CST:20240224T193000
+DTSTART;TZID=CST:20240224T160000
+DTEND;TZID=CST:20240224T170000
 DESCRIPTION:Artists have found a profession vending in artist alleys across
   the country. Would you like to join? Learn the behind the scenes tips for
   vending\, how to best approach the different application processes\, the 
  physiology behind the best booth displays\, what sells\, what is tax deduc
  tible. Whether a novice or veteran vendor\, this is a popular panel that h
  as information for everyone!
-DTSTAMP:20240217T200034Z
-LOCATION:Mitchell
-SUMMARY:So You Want to be a Con Artist  - Bash the Piñata
+DTSTAMP:20240218T210012Z
+LOCATION:Schlitz
+SUMMARY:So You Want to be a Con Artist - Bash the Piñata
 URL:https://pretalx.fursquared.com/f2-2024/talk/106/
 END:VEVENT
 END:VCALENDAR
