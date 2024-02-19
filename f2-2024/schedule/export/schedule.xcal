@@ -2847,7 +2847,7 @@
             <dtend>20240224T160000</dtend>
             <duration>5.03000</duration>
             <summary>Zoo &amp; Con Suite</summary>
-            <description></description>
+            <description>.</description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Convention Event</category>
@@ -3853,7 +3853,9 @@
             <dtend>20240225T150000</dtend>
             <duration>4.03000</duration>
             <summary>Zoo &amp; Con Suite</summary>
-            <description></description>
+            <description>The Zoo is a space to hang out with friends and meet new ones too! You can find one of the Soapboxes here!
+- - - -
+Located next to the Zoo, The Con Suite invites Sponsor and Super Sponsor attendees to sit, relax and converse in an exclusive space, filled with wondrous treats and the finest (non alcoholic) libations.</description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Convention Event</category>
