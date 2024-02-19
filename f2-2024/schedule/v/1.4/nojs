@@ -32,7 +32,9 @@
 
         <link rel="stylesheet" type="text/css" href="/static/common/scss/uncompressed.css" />
         
-            <link rel="stylesheet" href="/static/CACHE/css/output.4ff283b5512f.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/output.7a2054e930eb.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/output.f32736e370ea.css" type="text/css">
+            <link rel="stylesheet" type="text/css" href="/static/vendored/fullcalendar/fullcalendar.min.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/f2-2024/cfp.6231bf771fa7f815.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/f2-2024/agenda.e927fd38a0917d05.css"/>
         
         
         <script src="/static/CACHE/js/output.334f298c1c49.js" defer></script>
@@ -85,6 +87,15 @@
                 To see our schedule with full functionality, like timezone conversion and personal scheduling, please enable JavaScript and go <a href="/f2-2024/schedule/">here</a>.
             </div>
         </div>
+        
+            <div class="alert alert-warning m-3"><span>
+                
+                    You are currently viewing an older schedule version.
+                
+                
+                    You can find the current version <a href="/f2-2024/schedule/">here</a>.
+                
+            </span></div>
         
 
         
@@ -206,8 +217,6 @@
                         
                             <div class="bucket-time">16:00</div>
                             
-                                <a href="/f2-2024/talk/112/">
-                            
                             
 
 <div class="pretalx-session"
@@ -227,7 +236,7 @@
         <div class="title">
             
                 
-                Sponsor&#x27;s Lounge
+                Zoo &amp; Con Suite
             
         </div>
         
@@ -248,12 +257,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">17:00</div>
-                            
-                                <a href="/f2-2024/talk/135/">
                             
                             
 
@@ -295,12 +300,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/142/">
                             
                             
 
@@ -342,12 +343,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">18:00</div>
-                            
-                                <a href="/f2-2024/talk/154/">
                             
                             
 
@@ -389,12 +386,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/133/">
                             
                             
 
@@ -436,12 +429,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">18:30</div>
-                            
-                                <a href="/f2-2024/talk/109/">
                             
                             
 
@@ -483,12 +472,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">19:00</div>
-                            
-                                <a href="/f2-2024/talk/92/">
                             
                             
 
@@ -530,12 +515,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">19:30</div>
-                            
-                                <a href="/f2-2024/talk/81/">
                             
                             
 
@@ -577,12 +558,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">20:00</div>
-                            
-                                <a href="/f2-2024/talk/132/">
                             
                             
 
@@ -624,12 +601,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">21:00</div>
-                            
-                                <a href="/f2-2024/talk/64/">
                             
                             
 
@@ -671,12 +644,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/87/">
                             
                             
 
@@ -718,12 +687,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">22:00</div>
-                            
-                                <a href="/f2-2024/talk/110/">
                             
                             
 
@@ -765,12 +730,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">00:00</div>
-                            
-                                <a href="/f2-2024/talk/143/">
                             
                             
 
@@ -812,8 +773,6 @@
 </div>
 
                             
-                                </a>
-                            
                         
                     
                 </div>
@@ -825,8 +784,6 @@
                     
                         
                             <div class="bucket-time">08:00</div>
-                            
-                                <a href="/f2-2024/talk/155/">
                             
                             
 
@@ -868,12 +825,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">09:00</div>
-                            
-                                <a href="/f2-2024/talk/26/">
                             
                             
 
@@ -915,12 +868,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/28/">
                             
                             
 
@@ -962,12 +911,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/61/">
                             
                             
 
@@ -1009,12 +954,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/57/">
                             
                             
 
@@ -1056,12 +997,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/139/">
                             
                             
 
@@ -1103,12 +1040,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/136/">
                             
                             
 
@@ -1150,12 +1083,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:00</div>
-                            
-                                <a href="/f2-2024/talk/31/">
                             
                             
 
@@ -1197,12 +1126,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/146/">
                             
                             
 
@@ -1244,12 +1169,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:30</div>
-                            
-                                <a href="/f2-2024/talk/113/">
                             
                             
 
@@ -1270,7 +1191,7 @@
         <div class="title">
             
                 
-                Sponsor&#x27;s Lounge
+                Zoo &amp; Con Suite
             
         </div>
         
@@ -1291,12 +1212,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">11:00</div>
-                            
-                                <a href="/f2-2024/talk/93/">
                             
                             
 
@@ -1338,12 +1255,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:00</div>
-                            
-                                <a href="/f2-2024/talk/105/">
                             
                             
 
@@ -1385,12 +1298,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/130/">
                             
                             
 
@@ -1432,12 +1341,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/134/">
                             
                             
 
@@ -1479,12 +1384,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:30</div>
-                            
-                                <a href="/f2-2024/talk/15/">
                             
                             
 
@@ -1526,12 +1427,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/36/">
                             
                             
 
@@ -1573,12 +1470,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/40/">
                             
                             
 
@@ -1620,12 +1513,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">13:00</div>
-                            
-                                <a href="/f2-2024/talk/151/">
                             
                             
 
@@ -1667,12 +1556,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/48/">
                             
                             
 
@@ -1714,12 +1599,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">13:30</div>
-                            
-                                <a href="/f2-2024/talk/46/">
                             
                             
 
@@ -1761,12 +1642,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/76/">
                             
                             
 
@@ -1808,12 +1685,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/99/">
                             
                             
 
@@ -1856,12 +1729,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:00</div>
-                            
-                                <a href="/f2-2024/talk/14/">
                             
                             
 
@@ -1903,12 +1772,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/165/">
                             
                             
 
@@ -1950,12 +1815,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/39/">
                             
                             
 
@@ -1997,12 +1858,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:30</div>
-                            
-                                <a href="/f2-2024/talk/10/">
                             
                             
 
@@ -2044,12 +1901,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/29/">
                             
                             
 
@@ -2091,12 +1944,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:00</div>
-                            
-                                <a href="/f2-2024/talk/118/">
                             
                             
 
@@ -2138,12 +1987,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:30</div>
-                            
-                                <a href="/f2-2024/talk/13/">
                             
                             
 
@@ -2185,12 +2030,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/41/">
                             
                             
 
@@ -2232,12 +2073,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">16:00</div>
-                            
-                                <a href="/f2-2024/talk/27/">
                             
                             
 
@@ -2279,12 +2116,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/108/">
                             
                             
 
@@ -2326,12 +2159,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">16:30</div>
-                            
-                                <a href="/f2-2024/talk/74/">
                             
                             
 
@@ -2373,12 +2202,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/84/">
                             
                             
 
@@ -2420,12 +2245,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/149/">
                             
                             
 
@@ -2467,12 +2288,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/102/">
                             
                             
 
@@ -2514,12 +2331,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">17:00</div>
-                            
-                                <a href="/f2-2024/talk/21/">
                             
                             
 
@@ -2561,12 +2374,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/128/">
                             
                             
 
@@ -2608,12 +2417,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">18:00</div>
-                            
-                                <a href="/f2-2024/talk/77/">
                             
                             
 
@@ -2655,12 +2460,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/79/">
                             
                             
 
@@ -2702,12 +2503,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/82/">
                             
                             
 
@@ -2749,12 +2546,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/166/">
                             
                             
 
@@ -2796,12 +2589,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/122/">
                             
                             
 
@@ -2843,12 +2632,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">18:30</div>
-                            
-                                <a href="/f2-2024/talk/66/">
                             
                             
 
@@ -2890,12 +2675,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">19:00</div>
-                            
-                                <a href="/f2-2024/talk/42/">
                             
                             
 
@@ -2937,12 +2718,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">19:30</div>
-                            
-                                <a href="/f2-2024/talk/2/">
                             
                             
 
@@ -2984,12 +2761,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/96/">
                             
                             
 
@@ -3031,12 +2804,8 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/4/">
                             
                             
 
@@ -3083,12 +2852,8 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">20:00</div>
-                            
-                                <a href="/f2-2024/talk/3/">
                             
                             
 
@@ -3130,12 +2895,8 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/51/">
                             
                             
 
@@ -3177,12 +2938,8 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/120/">
                             
                             
 
@@ -3224,12 +2981,8 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/124/">
                             
                             
 
@@ -3271,12 +3024,8 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/162/">
                             
                             
 
@@ -3318,12 +3067,8 @@ Cosmik and Rhubarb</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">21:00</div>
-                            
-                                <a href="/f2-2024/talk/90/">
                             
                             
 
@@ -3370,12 +3115,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">21:30</div>
-                            
-                                <a href="/f2-2024/talk/88/">
                             
                             
 
@@ -3417,12 +3158,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">22:00</div>
-                            
-                                <a href="/f2-2024/talk/19/">
                             
                             
 
@@ -3464,12 +3201,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/24/">
                             
                             
 
@@ -3511,12 +3244,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/44/">
                             
                             
 
@@ -3560,12 +3289,8 @@ Join Armani (Midsouth Kink and leather Sir 2024) and NaughtyAnubis in<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/159/">
                             
                             
 
@@ -3607,12 +3332,8 @@ Join Armani (Midsouth Kink and leather Sir 2024) and NaughtyAnubis in<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">23:00</div>
-                            
-                                <a href="/f2-2024/talk/37/">
                             
                             
 
@@ -3656,12 +3377,8 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">23:30</div>
-                            
-                                <a href="/f2-2024/talk/95/">
                             
                             
 
@@ -3703,12 +3420,8 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/104/">
                             
                             
 
@@ -3750,12 +3463,8 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">00:00</div>
-                            
-                                <a href="/f2-2024/talk/144/">
                             
                             
 
@@ -3797,8 +3506,6 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                     
                 </div>
@@ -3810,55 +3517,6 @@ Aves 1am (Hard Dance)</p>
                     
                         
                             <div class="bucket-time">08:00</div>
-                            
-                                <a href="/f2-2024/talk/114/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="114"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            08:00
-        </div>
-        <div class="duration">
-            1080min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Sponsor&#x27;s Lounge
-            
-        </div>
-        
-            <div class="speakers">
-                Gazzy, Konnor Unuki
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Empire</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/156/">
                             
                             
 
@@ -3900,12 +3558,51 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
-                                </a>
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="114"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            08:00
+        </div>
+        <div class="duration">
+            1080min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Zoo &amp; Con Suite
+            
+        </div>
+        
+            <div class="speakers">
+                Gazzy, Konnor Unuki
+            </div>
+        
+        
+            <div class="abstract">
+                <p>.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Empire</div>
+        </div>
+    </div>
+</div>
+
                             
                         
                             <div class="bucket-time">09:00</div>
-                            
-                                <a href="/f2-2024/talk/7THMDR/">
                             
                             
 
@@ -3947,12 +3644,8 @@ Aves 1am (Hard Dance)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/54/">
                             
                             
 
@@ -3998,12 +3691,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/62/">
                             
                             
 
@@ -4045,12 +3734,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/58/">
                             
                             
 
@@ -4092,12 +3777,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/140/">
                             
                             
 
@@ -4139,12 +3820,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/137/">
                             
                             
 
@@ -4186,12 +3863,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">09:30</div>
-                            
-                                <a href="/f2-2024/talk/75/">
                             
                             
 
@@ -4233,12 +3906,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:00</div>
-                            
-                                <a href="/f2-2024/talk/32/">
                             
                             
 
@@ -4280,12 +3949,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/69/">
                             
                             
 
@@ -4327,12 +3992,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/147/">
                             
                             
 
@@ -4374,12 +4035,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:30</div>
-                            
-                                <a href="/f2-2024/talk/107/">
                             
                             
 
@@ -4421,12 +4078,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">11:00</div>
-                            
-                                <a href="/f2-2024/talk/152/">
                             
                             
 
@@ -4468,12 +4121,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/43/">
                             
                             
 
@@ -4515,12 +4164,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">11:30</div>
-                            
-                                <a href="/f2-2024/talk/38/">
                             
                             
 
@@ -4562,12 +4207,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/45/">
                             
                             
 
@@ -4609,12 +4250,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/47/">
                             
                             
 
@@ -4656,12 +4293,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:00</div>
-                            
-                                <a href="/f2-2024/talk/49/">
                             
                             
 
@@ -4703,12 +4336,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/55/">
                             
                             
 
@@ -4750,12 +4379,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/111/">
                             
                             
 
@@ -4797,12 +4422,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:30</div>
-                            
-                                <a href="/f2-2024/talk/85/">
                             
                             
 
@@ -4844,12 +4465,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">13:00</div>
-                            
-                                <a href="/f2-2024/talk/35/">
                             
                             
 
@@ -4891,12 +4508,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">13:30</div>
-                            
-                                <a href="/f2-2024/talk/22/">
                             
                             
 
@@ -4938,12 +4551,8 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:00</div>
-                            
-                                <a href="/f2-2024/talk/5/">
                             
                             
 
@@ -4992,12 +4601,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/150/">
                             
                             
 
@@ -5039,12 +4644,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/163/">
                             
                             
 
@@ -5086,12 +4687,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:30</div>
-                            
-                                <a href="/f2-2024/talk/123/">
                             
                             
 
@@ -5133,12 +4730,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:00</div>
-                            
-                                <a href="/f2-2024/talk/16/">
                             
                             
 
@@ -5180,12 +4773,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/78/">
                             
                             
 
@@ -5227,12 +4816,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:30</div>
-                            
-                                <a href="/f2-2024/talk/11/">
                             
                             
 
@@ -5274,12 +4859,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">16:00</div>
-                            
-                                <a href="/f2-2024/talk/65/">
                             
                             
 
@@ -5321,12 +4902,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/106/">
                             
                             
 
@@ -5368,12 +4945,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/125/">
                             
                             
 
@@ -5415,12 +4988,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">16:30</div>
-                            
-                                <a href="/f2-2024/talk/67/">
                             
                             
 
@@ -5462,12 +5031,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">17:00</div>
-                            
-                                <a href="/f2-2024/talk/23/">
                             
                             
 
@@ -5509,12 +5074,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/103/">
                             
                             
 
@@ -5556,12 +5117,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/167/">
                             
                             
 
@@ -5603,12 +5160,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">17:45</div>
-                            
-                                <a href="/f2-2024/talk/172/">
                             
                             
 
@@ -5650,12 +5203,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">18:00</div>
-                            
-                                <a href="/f2-2024/talk/1/">
                             
                             
 
@@ -5697,12 +5246,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/72/">
                             
                             
 
@@ -5744,12 +5289,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/171/">
                             
                             
 
@@ -5791,12 +5332,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">19:00</div>
-                            
-                                <a href="/f2-2024/talk/119/">
                             
                             
 
@@ -5838,12 +5375,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">20:00</div>
-                            
-                                <a href="/f2-2024/talk/168/">
                             
                             
 
@@ -5885,12 +5418,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/68/">
                             
                             
 
@@ -5932,12 +5461,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">20:30</div>
-                            
-                                <a href="/f2-2024/talk/34/">
                             
                             
 
@@ -5979,12 +5504,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">21:00</div>
-                            
-                                <a href="/f2-2024/talk/12/">
                             
                             
 
@@ -6026,12 +5547,8 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/91/">
                             
                             
 
@@ -6078,12 +5595,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/127/">
                             
                             
 
@@ -6125,12 +5638,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">21:30</div>
-                            
-                                <a href="/f2-2024/talk/86/">
                             
                             
 
@@ -6172,12 +5681,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">22:00</div>
-                            
-                                <a href="/f2-2024/talk/97/">
                             
                             
 
@@ -6219,12 +5724,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/160/">
                             
                             
 
@@ -6266,12 +5767,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">22:30</div>
-                            
-                                <a href="/f2-2024/talk/131/">
                             
                             
 
@@ -6313,12 +5810,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">23:00</div>
-                            
-                                <a href="/f2-2024/talk/53/">
                             
                             
 
@@ -6360,12 +5853,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/101/">
                             
                             
 
@@ -6407,12 +5896,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/129/">
                             
                             
 
@@ -6454,12 +5939,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">00:00</div>
-                            
-                                <a href="/f2-2024/talk/73/">
                             
                             
 
@@ -6501,12 +5982,8 @@ customer. Drop by if you dare! No secret password is required for entry,<br>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/98/">
                             
                             
 
@@ -6549,12 +6026,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/145/">
                             
                             
 
@@ -6596,8 +6069,6 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                     
                 </div>
@@ -6609,55 +6080,6 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
                     
                         
                             <div class="bucket-time">08:00</div>
-                            
-                                <a href="/f2-2024/talk/115/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="115"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            08:00
-        </div>
-        <div class="duration">
-            600min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Con Suite
-            
-        </div>
-        
-            <div class="speakers">
-                Gazzy, Konnor Unuki
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Empire</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/157/">
                             
                             
 
@@ -6699,12 +6121,51 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="115"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            08:00
+        </div>
+        <div class="duration">
+            600min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Zoo &amp; Con Suite
+            
+        </div>
+        
+            <div class="speakers">
+                Gazzy, Konnor Unuki
+            </div>
+        
+        
+            <div class="abstract">
+                <p>.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Empire</div>
+        </div>
+    </div>
+</div>
+
                             
                         
                             <div class="bucket-time">09:00</div>
-                            
-                                <a href="/f2-2024/talk/63/">
                             
                             
 
@@ -6746,12 +6207,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/59/">
                             
                             
 
@@ -6793,12 +6250,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/141/">
                             
                             
 
@@ -6840,12 +6293,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/94/">
                             
                             
 
@@ -6887,12 +6336,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/138/">
                             
                             
 
@@ -6934,12 +6379,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">09:30</div>
-                            
-                                <a href="/f2-2024/talk/100/">
                             
                             
 
@@ -6981,12 +6422,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:00</div>
-                            
-                                <a href="/f2-2024/talk/7/">
                             
                             
 
@@ -7028,12 +6465,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/33/">
                             
                             
 
@@ -7075,12 +6508,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/116/">
                             
                             
 
@@ -7122,12 +6551,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/148/">
                             
                             
 
@@ -7169,12 +6594,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:30</div>
-                            
-                                <a href="/f2-2024/talk/50/">
                             
                             
 
@@ -7216,12 +6637,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/121/">
                             
                             
 
@@ -7263,12 +6680,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">11:00</div>
-                            
-                                <a href="/f2-2024/talk/153/">
                             
                             
 
@@ -7310,12 +6723,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">11:30</div>
-                            
-                                <a href="/f2-2024/talk/20/">
                             
                             
 
@@ -7357,12 +6766,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:00</div>
-                            
-                                <a href="/f2-2024/talk/9/">
                             
                             
 
@@ -7404,12 +6809,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/169/">
                             
                             
 
@@ -7451,12 +6852,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/83/">
                             
                             
 
@@ -7498,12 +6895,8 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:30</div>
-                            
-                                <a href="/f2-2024/talk/6/">
                             
                             
 
@@ -7551,12 +6944,8 @@ Cosmik and Rhubarb and Everyone Else</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">13:00</div>
-                            
-                                <a href="/f2-2024/talk/117/">
                             
                             
 
@@ -7598,12 +6987,8 @@ Cosmik and Rhubarb and Everyone Else</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:00</div>
-                            
-                                <a href="/f2-2024/talk/18/">
                             
                             
 
@@ -7646,12 +7031,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/71/">
                             
                             
 
@@ -7693,12 +7074,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/126/">
                             
                             
 
@@ -7740,12 +7117,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/164/">
                             
                             
 
@@ -7787,12 +7160,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:30</div>
-                            
-                                <a href="/f2-2024/talk/89/">
                             
                             
 
@@ -7834,12 +7203,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:30</div>
-                            
-                                <a href="/f2-2024/talk/17/">
                             
                             
 
@@ -7881,12 +7246,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/52/">
                             
                             
 
@@ -7928,12 +7289,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/70/">
                             
                             
 
@@ -7975,12 +7332,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">16:00</div>
-                            
-                                <a href="/f2-2024/talk/170/">
                             
                             
 
@@ -8022,12 +7375,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/f2-2024/talk/80/">
                             
                             
 
@@ -8069,12 +7418,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">17:00</div>
-                            
-                                <a href="/f2-2024/talk/158/">
                             
                             
 
@@ -8116,12 +7461,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">18:00</div>
-                            
-                                <a href="/f2-2024/talk/25/">
                             
                             
 
@@ -8163,12 +7504,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">20:00</div>
-                            
-                                <a href="/f2-2024/talk/30/">
                             
                             
 
@@ -8210,12 +7547,8 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">21:00</div>
-                            
-                                <a href="/f2-2024/talk/161/">
                             
                             
 
@@ -8257,8 +7590,6 @@ Stick around until the end for special die giveaway too!</p>
 </div>
 
                             
-                                </a>
-                            
                         
                     
                 </div>
@@ -8284,7 +7615,7 @@ Stick around until the end for special die giveaway too!</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-18 20:00 CST
+                        This is a static export generated at 2024-02-18 20:30 CST
                     </div>
                 
                 

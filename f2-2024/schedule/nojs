@@ -32,7 +32,9 @@
 
         <link rel="stylesheet" type="text/css" href="/static/common/scss/uncompressed.css" />
         
-            <link rel="stylesheet" href="/static/CACHE/css/output.4ff283b5512f.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/output.7a2054e930eb.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/output.f32736e370ea.css" type="text/css">
+            <link rel="stylesheet" type="text/css" href="/static/vendored/fullcalendar/fullcalendar.min.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/f2-2024/cfp.6231bf771fa7f815.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/f2-2024/agenda.e927fd38a0917d05.css"/>
         
         
         <script src="/static/CACHE/js/output.334f298c1c49.js" defer></script>
@@ -102,7 +104,7 @@
     </div>
     <div class="header-right">
         
-            <span>Version <a href="/f2-2024/schedule/changelog/">1.4</a></span>
+            <span>Version <a href="/f2-2024/schedule/changelog/">1.5</a></span>
             <details class="dropdown">
                 <summary class="btn btn-sm btn-outline-info">
                     <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
@@ -227,7 +229,7 @@
         <div class="title">
             
                 
-                Sponsor&#x27;s Lounge
+                Zoo &amp; Con Suite
             
         </div>
         
@@ -981,7 +983,7 @@
             09:00
         </div>
         <div class="duration">
-            900min
+            1020min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -1028,7 +1030,7 @@
             09:00
         </div>
         <div class="duration">
-            900min
+            1020min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -1270,7 +1272,7 @@
         <div class="title">
             
                 
-                Sponsor&#x27;s Lounge
+                Zoo &amp; Con Suite
             
         </div>
         
@@ -2940,7 +2942,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
                                 </a>
                             
                         
-                            <div class="bucket-time">19:30</div>
+                            <div class="bucket-time"></div>
                             
                                 <a href="/f2-2024/talk/2/">
                             
@@ -2953,10 +2955,10 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
     <div class="pretalx-session-time-box">
         
         <div class="start">
-            19:30
+            19:00
         </div>
         <div class="duration">
-            120min
+            60min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -2987,7 +2989,7 @@ Free buttons will be provided to the first 50 attendees, and a sketchbook swap w
                                 </a>
                             
                         
-                            <div class="bucket-time"></div>
+                            <div class="bucket-time">19:30</div>
                             
                                 <a href="/f2-2024/talk/96/">
                             
@@ -3811,53 +3813,6 @@ Aves 1am (Hard Dance)</p>
                         
                             <div class="bucket-time">08:00</div>
                             
-                                <a href="/f2-2024/talk/114/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="114"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            08:00
-        </div>
-        <div class="duration">
-            1080min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Sponsor&#x27;s Lounge
-            
-        </div>
-        
-            <div class="speakers">
-                Gazzy, Konnor Unuki
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Empire</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
                                 <a href="/f2-2024/talk/156/">
                             
                             
@@ -4017,7 +3972,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             09:00
         </div>
         <div class="duration">
-            900min
+            1020min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -4064,7 +4019,7 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
             09:00
         </div>
         <div class="duration">
-            900min
+            1020min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -4416,6 +4371,53 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
         <div class="bottom-info">
             <div class="track">Featured</div>
             <div class="room">Pabst</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/114/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="114"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:30
+        </div>
+        <div class="duration">
+            330min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Zoo &amp; Con Suite
+            
+        </div>
+        
+            <div class="speakers">
+                Gazzy, Konnor Unuki
+            </div>
+        
+        
+            <div class="abstract">
+                <p>.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Empire</div>
         </div>
     </div>
 </div>
@@ -6610,53 +6612,6 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
                         
                             <div class="bucket-time">08:00</div>
                             
-                                <a href="/f2-2024/talk/115/">
-                            
-                            
-
-<div class="pretalx-session"
-     id="115"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            08:00
-        </div>
-        <div class="duration">
-            600min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Con Suite
-            
-        </div>
-        
-            <div class="speakers">
-                Gazzy, Konnor Unuki
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Empire</div>
-        </div>
-    </div>
-</div>
-
-                            
-                                </a>
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
                                 <a href="/f2-2024/talk/157/">
                             
                             
@@ -7258,6 +7213,53 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
         <div class="bottom-info">
             <div class="track">Interactive</div>
             <div class="room">Mitchell</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/115/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="115"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:30
+        </div>
+        <div class="duration">
+            270min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Zoo &amp; Con Suite
+            
+        </div>
+        
+            <div class="speakers">
+                Gazzy, Konnor Unuki
+            </div>
+        
+        
+            <div class="abstract">
+                <p>.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Empire</div>
         </div>
     </div>
 </div>
@@ -8284,7 +8286,7 @@ Stick around until the end for special die giveaway too!</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-18 20:00 CST
+                        This is a static export generated at 2024-02-18 20:30 CST
                     </div>
                 
                 
