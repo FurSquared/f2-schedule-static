@@ -180,25 +180,25 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>60@@pretalx.fursquared.com</uid>
+            <uid>133@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-60</pentabarf:event-slug>
-            <pentabarf:title>Headless Lounge (Founders)</pentabarf:title>
+            <pentabarf:event-slug>-133</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T090000</dtstart>
-            <dtend>20240223T000000</dtend>
-            <duration>15.00000</duration>
-            <summary>Headless Lounge (Founders)</summary>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240222T200000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
-            <category>Convention Event</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/60/</url>
-            <location>Founders</location>
+            <category>Tabletop</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/133/</url>
+            <location>MacArthur</location>
             
-            <attendee>FurSquared Staff</attendee>
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -223,30 +223,6 @@
             <location>MacArthur</location>
             
             <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>133@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-133</pentabarf:event-slug>
-            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240222T200000</dtend>
-            <duration>2.00000</duration>
-            <summary>Your Imagined Furry Fantasy (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/133/</url>
-            <location>MacArthur</location>
-            
-            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -1457,14 +1433,14 @@
             <uid>113@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-113</pentabarf:event-slug>
-            <pentabarf:title>Sponsor&#x27;s Lounge</pentabarf:title>
+            <pentabarf:title>Con Suite</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240223T103000</dtstart>
             <dtend>20240223T200000</dtend>
             <duration>9.03000</duration>
-            <summary>Sponsor&#x27;s Lounge</summary>
+            <summary>Con Suite</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -2863,14 +2839,14 @@
             <uid>114@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-114</pentabarf:event-slug>
-            <pentabarf:title>Sponsor&#x27;s Lounge</pentabarf:title>
+            <pentabarf:title>Con Suite</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240224T080000</dtstart>
             <dtend>20240225T020000</dtend>
             <duration>18.00000</duration>
-            <summary>Sponsor&#x27;s Lounge</summary>
+            <summary>Con Suite</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -2929,30 +2905,6 @@
             <location>Wright A</location>
             
             <attendee>Kehmet</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>56@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-56</pentabarf:event-slug>
-            <pentabarf:title>Headless Lounge (Miller)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T090000</dtstart>
-            <dtend>20240225T000000</dtend>
-            <duration>15.00000</duration>
-            <summary>Headless Lounge (Miller)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Convention Event</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/56/</url>
-            <location>Miller</location>
-            
-            <attendee>FurSquared Staff</attendee>
             
         </vevent>
         
@@ -3893,14 +3845,14 @@
             <uid>115@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-115</pentabarf:event-slug>
-            <pentabarf:title>Sponsor&#x27;s Lounge</pentabarf:title>
+            <pentabarf:title>Con Suite</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240225T080000</dtstart>
             <dtend>20240225T180000</dtend>
             <duration>10.00000</duration>
-            <summary>Sponsor&#x27;s Lounge</summary>
+            <summary>Con Suite</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
