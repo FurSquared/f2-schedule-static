@@ -182,30 +182,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>133@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-133</pentabarf:event-slug>
-            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240222T200000</dtend>
-            <duration>2.00000</duration>
-            <summary>Your Imagined Furry Fantasy (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/133/</url>
-            <location>MacArthur</location>
-            
-            <attendee>Steel The Warrior</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>154@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-154</pentabarf:event-slug>
@@ -225,6 +201,30 @@
             <location>MacArthur</location>
             
             <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>133@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-133</pentabarf:event-slug>
+            <pentabarf:title>Your Imagined Furry Fantasy (18+)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240222T200000</dtend>
+            <duration>2.00000</duration>
+            <summary>Your Imagined Furry Fantasy (18+)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/133/</url>
+            <location>MacArthur</location>
+            
+            <attendee>Steel The Warrior</attendee>
             
         </vevent>
         
@@ -1972,8 +1972,8 @@
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240224T170000</dtstart>
-            <dtend>20240224T180000</dtend>
-            <duration>1.00000</duration>
+            <dtend>20240224T183000</dtend>
+            <duration>1.03000</duration>
             <summary>Chill Beats Art Cafe</summary>
             <description></description>
             <class>PUBLIC</class>
@@ -2689,6 +2689,52 @@
             <location>Mitchell</location>
             
             <attendee>Serathin Sabertooth</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>EGX3BC@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-EGX3BC</pentabarf:event-slug>
+            <pentabarf:title>Con Artistry 101</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T170000</dtstart>
+            <dtend>20240224T180000</dtend>
+            <duration>1.00000</duration>
+            <summary>Con Artistry 101</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/EGX3BC/</url>
+            <location>Mitchell</location>
+            
+            <attendee>Candy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>TDXXLM@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-TDXXLM</pentabarf:event-slug>
+            <pentabarf:title>I&#x27;ve Been To Nick Wilde&#x27;s House</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T180000</dtstart>
+            <dtend>20240224T190000</dtend>
+            <duration>1.00000</duration>
+            <summary>I&#x27;ve Been To Nick Wilde&#x27;s House</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/TDXXLM/</url>
+            <location>Mitchell</location>
             
         </vevent>
         

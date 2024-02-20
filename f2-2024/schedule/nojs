@@ -104,7 +104,7 @@
     </div>
     <div class="header-right">
         
-            <span>Version <a href="/f2-2024/schedule/changelog/">1.7</a></span>
+            <span>Version <a href="/f2-2024/schedule/changelog/">1.8</a></span>
             <details class="dropdown">
                 <summary class="btn btn-sm btn-outline-info">
                     <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
@@ -5531,7 +5531,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
             17:00
         </div>
         <div class="duration">
-            60min
+            90min
         </div>
     </div>
     <div class="pretalx-session-info">
@@ -5554,6 +5554,53 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
         <div class="bottom-info">
             <div class="track">Art</div>
             <div class="room">Walker</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/f2-2024/talk/EGX3BC/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="EGX3BC"
+     style="--track-color:#A33F51"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Con Artistry 101
+            
+        </div>
+        
+            <div class="speakers">
+                Candy
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Psst... hey, I heard you want to be a con artist. Come learn how to set up your very first artist alley table (Or just pick up some tips) from a bear with 10 years of experience. Topics include how to sign up, taxes, effective displays and more, with a Q + A at the end!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Art</div>
+            <div class="room">Mitchell</div>
         </div>
     </div>
 </div>
@@ -5657,6 +5704,53 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
                             
                         
                             <div class="bucket-time">18:00</div>
+                            
+                                <a href="/f2-2024/talk/TDXXLM/">
+                            
+                            
+
+<div class="pretalx-session"
+     id="TDXXLM"
+     style="--track-color:#3237A2"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                I&#x27;ve Been To Nick Wilde&#x27;s House
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>No, that title isn't false advertising at all, and come find out why! Come learn everything there is to know about the Disney College Program and the ins and outs of working for the Mouse himself, and find out what Status has been up to the past few months.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Talk</div>
+            <div class="room">Mitchell</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
                             
                                 <a href="/f2-2024/talk/72/">
                             
@@ -8284,7 +8378,7 @@ Stick around until the end for special die giveaway too!</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-19 23:00 CST
+                        This is a static export generated at 2024-02-19 23:44 CST
                     </div>
                 
                 
