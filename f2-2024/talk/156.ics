@@ -36,8 +36,9 @@ BEGIN:VEVENT
 UID:pretalx-f2-2024-156@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T080000
 DTEND;TZID=CST:20240225T020000
-DESCRIPTION:.
-DTSTAMP:20240220T020027Z
+DESCRIPTION:Come join us for board games and tabletop RPG enjoyment all wee
+ kend long!
+DTSTAMP:20240220T030027Z
 LOCATION:MacArthur
 SUMMARY:Tabletop Gaming - FurSquared Staff
 URL:https://pretalx.fursquared.com/f2-2024/talk/156/
