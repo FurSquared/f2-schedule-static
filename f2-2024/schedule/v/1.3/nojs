@@ -32,7 +32,9 @@
 
         <link rel="stylesheet" type="text/css" href="/static/common/scss/uncompressed.css" />
         
-            <link rel="stylesheet" href="/static/CACHE/css/output.4ff283b5512f.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/output.7a2054e930eb.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/output.f32736e370ea.css" type="text/css">
+            <link rel="stylesheet" type="text/css" href="/static/vendored/fullcalendar/fullcalendar.min.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/f2-2024/cfp.6231bf771fa7f815.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/f2-2024/agenda.e927fd38a0917d05.css"/>
         
         
         <script src="/static/CACHE/js/output.334f298c1c49.js" defer></script>
@@ -213,49 +215,6 @@
                 <div class="pretalx-list-day pretalx-tab-content" data-start="">
                     
                         
-                            <div class="bucket-time">09:00</div>
-                            
-                            
-
-<div class="pretalx-session"
-     id="60"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            09:00
-        </div>
-        <div class="duration">
-            900min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Headless Lounge (Founders)
-            
-        </div>
-        
-            <div class="speakers">
-                FurSquared Staff
-            </div>
-        
-        
-            <div class="abstract">
-                <p>The most marvelous machine our creators have constructed is one which allows your head to come right off in the event of needing to cool down!</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Founders</div>
-        </div>
-    </div>
-</div>
-
-                            
-                        
                             <div class="bucket-time">16:00</div>
                             
                             
@@ -277,7 +236,7 @@
         <div class="title">
             
                 
-                Sponsor&#x27;s Lounge
+                Zoo &amp; Con Suite
             
         </div>
         
@@ -287,7 +246,9 @@
         
         
             <div class="abstract">
-                <p>.</p>
+                <p>The Zoo is a space to hang out with friends and meet new ones too! You can find one of the Soapboxes here!</p>
+<hr>
+<p>Located next to the Zoo, The Con Suite invites Sponsor and Super Sponsor attendees to sit, relax and converse in an exclusive space, filled with wondrous treats and the finest (non alcoholic) libations.</p>
             </div>
         
         <div class="bottom-info">
@@ -1232,7 +1193,7 @@
         <div class="title">
             
                 
-                Sponsor&#x27;s Lounge
+                Zoo &amp; Con Suite
             
         </div>
         
@@ -1242,7 +1203,9 @@
         
         
             <div class="abstract">
-                <p>.</p>
+                <p>The Zoo is a space to hang out with friends and meet new ones too! You can find one of the Soapboxes here!</p>
+<hr>
+<p>Located next to the Zoo, The Con Suite invites Sponsor and Super Sponsor attendees to sit, relax and converse in an exclusive space, filled with wondrous treats and the finest (non alcoholic) libations.</p>
             </div>
         
         <div class="bottom-info">
@@ -3140,12 +3103,7 @@ Cosmik and Rhubarb</p>
         
         
             <div class="abstract">
-                <p>Rumours abound of a secret gathering, a shady Night Market that takes <br>
-place in the Alley near the Dealer's Den after the sun has gone down. <br>
-Under cover of night, vendors gather to hawk their wares to a more <br>
-specialized crowd, selling various sundries to the discerning adult <br>
-customer. Drop by if you dare! No secret password is required for entry,<br>
- although all that visit the Night Market must be at least 18 years old.</p>
+                <p>Rumours abound of a secret gathering, a shady Night Market that takes place in the Alley near the Dealer's Den after the sun has gone down. Under cover of night, vendors gather to hawk their wares to a more specialized crowd, selling various sundries to the discerning adult customer. Drop by if you dare! No secret password is required for entry, although all that visit the Night Market must be at least 18 years old.</p>
             </div>
         
         <div class="bottom-info">
@@ -3562,49 +3520,6 @@ Aves 1am (Hard Dance)</p>
                             
 
 <div class="pretalx-session"
-     id="114"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            08:00
-        </div>
-        <div class="duration">
-            1080min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Sponsor&#x27;s Lounge
-            
-        </div>
-        
-            <div class="speakers">
-                Gazzy, Konnor Unuki
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Empire</div>
-        </div>
-    </div>
-</div>
-
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
-                            
-
-<div class="pretalx-session"
      id="156"
      style="--track-color:#A82C6F"
 >
@@ -3637,6 +3552,51 @@ Aves 1am (Hard Dance)</p>
         <div class="bottom-info">
             <div class="track">Tabletop</div>
             <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="114"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            08:00
+        </div>
+        <div class="duration">
+            1080min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Zoo &amp; Con Suite
+            
+        </div>
+        
+            <div class="speakers">
+                Gazzy, Konnor Unuki
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The Zoo is a space to hang out with friends and meet new ones too! You can find one of the Soapboxes here!</p>
+<hr>
+<p>Located next to the Zoo, The Con Suite invites Sponsor and Super Sponsor attendees to sit, relax and converse in an exclusive space, filled with wondrous treats and the finest (non alcoholic) libations</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Empire</div>
         </div>
     </div>
 </div>
@@ -3770,49 +3730,6 @@ Afterward there will be an informal Q&amp;A with the creator... me~</p>
         <div class="bottom-info">
             <div class="track">Convention Event</div>
             <div class="room">Founders</div>
-        </div>
-    </div>
-</div>
-
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
-                            
-
-<div class="pretalx-session"
-     id="56"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            09:00
-        </div>
-        <div class="duration">
-            900min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Headless Lounge (Miller)
-            
-        </div>
-        
-            <div class="speakers">
-                FurSquared Staff
-            </div>
-        
-        
-            <div class="abstract">
-                <p>The most marvelous machine our creators have constructed is one which allows your head to come right off in the event of needing to cool down!</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Miller</div>
         </div>
     </div>
 </div>
@@ -5233,7 +5150,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
         
         
             <div class="abstract">
-                <p>This Rock Opera tells the story of Rhubarb the Bear's father, Onesimus the Great.  </p>
+                <p>Circus life is all Onesimus The Great (call him Ony; it saves time) has ever known. When Ringmaster Phil’s demands become too strict, the acrobat bear escapes one night for his first taste of mundane life. Will he be drawn back into show business, or find deeper meaning beyond the great tent? Featuring Cosmik as Ringmaster Phil, Bennie as bandleader James King, Buddy Goodboy as Paul the ex-lawyer, Pepper Coyote as pediatrician Dr. Lucas, Sue The Deer as 8 year old Tabitha, and Rhubarb The Bear as “his famous and more talented dad, Ony”.</p>
             </div>
         
         <div class="bottom-info">
@@ -5663,12 +5580,7 @@ Ony the Runaway Circus Bear: a Rock opera by Rhubarb the Bear</p>
         
         
             <div class="abstract">
-                <p>Rumours abound of a secret gathering, a shady Night Market that takes <br>
-place in the Alley near the Dealer's Den after the sun has gone down. <br>
-Under cover of night, vendors gather to hawk their wares to a more <br>
-specialized crowd, selling various sundries to the discerning adult <br>
-customer. Drop by if you dare! No secret password is required for entry,<br>
- although all that visit the Night Market must be at least 18 years old.</p>
+                <p>Rumours abound of a secret gathering, a shady Night Market that takes place in the Alley near the Dealer's Den after the sun has gone down. Under cover of night, vendors gather to hawk their wares to a more specialized crowd, selling various sundries to the discerning adult customer. Drop by if you dare! No secret password is required for entry, although all that visit the Night Market must be at least 18 years old.</p>
             </div>
         
         <div class="bottom-info">
@@ -6168,49 +6080,6 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
                             
 
 <div class="pretalx-session"
-     id="115"
-     style="--track-color:#AB5AC7"
->
-    <div class="pretalx-session-time-box">
-        
-        <div class="start">
-            08:00
-        </div>
-        <div class="duration">
-            600min
-        </div>
-    </div>
-    <div class="pretalx-session-info">
-        <div class="title">
-            
-                
-                Sponsor&#x27;s Lounge
-            
-        </div>
-        
-            <div class="speakers">
-                Gazzy, Konnor Unuki
-            </div>
-        
-        
-            <div class="abstract">
-                <p>.</p>
-            </div>
-        
-        <div class="bottom-info">
-            <div class="track">Convention Event</div>
-            <div class="room">Empire</div>
-        </div>
-    </div>
-</div>
-
-                            
-                        
-                            <div class="bucket-time"></div>
-                            
-                            
-
-<div class="pretalx-session"
      id="157"
      style="--track-color:#A82C6F"
 >
@@ -6243,6 +6112,49 @@ ItsBoomer!? 1am-2am (Bass House, Tech House, Trap, Rap)</p>
         <div class="bottom-info">
             <div class="track">Tabletop</div>
             <div class="room">MacArthur</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="115"
+     style="--track-color:#AB5AC7"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            08:00
+        </div>
+        <div class="duration">
+            600min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Zoo &amp; Con Suite
+            
+        </div>
+        
+            <div class="speakers">
+                Gazzy, Konnor Unuki
+            </div>
+        
+        
+            <div class="abstract">
+                <p>.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Convention Event</div>
+            <div class="room">Empire</div>
         </div>
     </div>
 </div>
@@ -7699,7 +7611,7 @@ Stick around until the end for special die giveaway too!</p>
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        This is a static export generated at 2024-02-18 15:00 CST
+                        This is a static export generated at 2024-02-19 20:00 CST
                     </div>
                 
                 

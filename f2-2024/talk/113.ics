@@ -36,10 +36,14 @@ BEGIN:VEVENT
 UID:pretalx-f2-2024-113@pretalx.fursquared.com
 DTSTART;TZID=CST:20240223T103000
 DTEND;TZID=CST:20240223T200000
-DESCRIPTION:.
-DTSTAMP:20240218T210015Z
+DESCRIPTION:The Zoo is a space to hang out with friends and meet new ones t
+ oo! You can find one of the Soapboxes here!\n- - - -\nLocated next to the 
+ Zoo\, The Con Suite invites Sponsor and Super Sponsor attendees to sit\, r
+ elax and converse in an exclusive space\, filled with wondrous treats and 
+ the finest (non alcoholic) libations.
+DTSTAMP:20240220T020019Z
 LOCATION:Empire
-SUMMARY:Sponsor's Lounge - Gazzy\, Konnor Unuki
+SUMMARY:Zoo & Con Suite - Gazzy\, Konnor Unuki
 URL:https://pretalx.fursquared.com/f2-2024/talk/113/
 END:VEVENT
 END:VCALENDAR
