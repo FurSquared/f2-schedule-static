@@ -36,8 +36,11 @@ BEGIN:VEVENT
 UID:pretalx-f2-2024-152@pretalx.fursquared.com
 DTSTART;TZID=CST:20240224T110000
 DTEND;TZID=CST:20240224T170000
-DESCRIPTION:.
-DTSTAMP:20240220T030029Z
+DESCRIPTION:Come shop unique artwork \, commissions and more wonderful thin
+ gs from our amazing artists! All artists are welcome to sign up for spot t
+ oo! Check out the Artist Alley page on the F2 website for more information
+ .
+DTSTAMP:20240220T040029Z
 LOCATION:Oak
 SUMMARY:Artist's Alley - FurSquared Staff
 URL:https://pretalx.fursquared.com/f2-2024/talk/152/
