@@ -180,30 +180,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>154@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-154</pentabarf:event-slug>
-            <pentabarf:title>Tabletop Gaming</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240223T020000</dtend>
-            <duration>8.00000</duration>
-            <summary>Tabletop Gaming</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/154/</url>
-            <location>MacArthur</location>
-            
-            <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>133@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-133</pentabarf:event-slug>
@@ -223,6 +199,30 @@
             <location>MacArthur</location>
             
             <attendee>Steel The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>154@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-154</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240223T020000</dtend>
+            <duration>8.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/154/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
             
         </vevent>
         
@@ -1576,30 +1576,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>90@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-90</pentabarf:event-slug>
-            <pentabarf:title>Night Market</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T210000</dtstart>
-            <dtend>20240224T010000</dtend>
-            <duration>4.00000</duration>
-            <summary>Night Market</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Convention Event</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/90/</url>
-            <location>Juneau</location>
-            
-            <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>155@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-155</pentabarf:event-slug>
@@ -1715,6 +1691,28 @@
             <location>MacArthur</location>
             
             <attendee>Steel The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>QVY38S@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-QVY38S</pentabarf:event-slug>
+            <pentabarf:title>Chill Zone</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T090000</dtstart>
+            <dtend>20240223T235900</dtend>
+            <duration>14.05900</duration>
+            <summary>Chill Zone</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/QVY38S/</url>
+            <location>Usinger</location>
             
         </vevent>
         
@@ -1856,6 +1854,30 @@
             <status>CONFIRMED</status>
             <category>Art</category>
             <url>https://pretalx.fursquared.com/f2-2024/talk/151/</url>
+            <location>Oak</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>90@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-90</pentabarf:event-slug>
+            <pentabarf:title>Night Market</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240223T210000</dtstart>
+            <dtend>20240224T010000</dtend>
+            <duration>4.00000</duration>
+            <summary>Night Market</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/90/</url>
             <location>Oak</location>
             
             <attendee>FurSquared Staff</attendee>
@@ -2958,30 +2980,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>91@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-91</pentabarf:event-slug>
-            <pentabarf:title>Night Market</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T210000</dtstart>
-            <dtend>20240225T010000</dtend>
-            <duration>4.00000</duration>
-            <summary>Night Market</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Convention Event</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/91/</url>
-            <location>Juneau</location>
-            
-            <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>156@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-156</pentabarf:event-slug>
@@ -3121,6 +3119,28 @@
             <location>MacArthur</location>
             
             <attendee>Steel The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>3JAHQT@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-3JAHQT</pentabarf:event-slug>
+            <pentabarf:title>Chill Zone</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T090000</dtstart>
+            <dtend>20240224T235900</dtend>
+            <duration>14.05900</duration>
+            <summary>Chill Zone</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/3JAHQT/</url>
+            <location>Usinger</location>
             
         </vevent>
         
@@ -3312,6 +3332,30 @@
             <status>CONFIRMED</status>
             <category>Art</category>
             <url>https://pretalx.fursquared.com/f2-2024/talk/152/</url>
+            <location>Oak</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>91@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-91</pentabarf:event-slug>
+            <pentabarf:title>Night Market</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T210000</dtstart>
+            <dtend>20240225T010000</dtend>
+            <duration>4.00000</duration>
+            <summary>Night Market</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/91/</url>
             <location>Oak</location>
             
             <attendee>FurSquared Staff</attendee>
@@ -4057,6 +4101,28 @@ Located next to the Zoo, The Con Suite invites Sponsor and Super Sponsor attende
             <location>MacArthur</location>
             
             <attendee>Steel The Warrior</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>7SJUBU@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-7SJUBU</pentabarf:event-slug>
+            <pentabarf:title>Chill Zone</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T090000</dtstart>
+            <dtend>20240225T200000</dtend>
+            <duration>11.00000</duration>
+            <summary>Chill Zone</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Convention Event</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/7SJUBU/</url>
+            <location>Usinger</location>
             
         </vevent>
         
