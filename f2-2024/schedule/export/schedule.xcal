@@ -176,6 +176,8 @@
             
             <attendee>Konnor Unuki</attendee>
             
+            <attendee>Jem Staxy</attendee>
+            
         </vevent>
         
         <vevent>
@@ -1452,6 +1454,8 @@
             
             <attendee>Konnor Unuki</attendee>
             
+            <attendee>Jem Staxy</attendee>
+            
         </vevent>
         
         <vevent>
@@ -1981,30 +1985,6 @@
             <attendee>SIN</attendee>
             
             <attendee>Renacat</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>1@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-1</pentabarf:event-slug>
-            <pentabarf:title>85 Years of Fan Convention History </pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T180000</dtstart>
-            <dtend>20240224T190000</dtend>
-            <duration>1.00000</duration>
-            <summary>85 Years of Fan Convention History </summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/1/</url>
-            <location>Walker</location>
-            
-            <attendee>Con History Project</attendee>
             
         </vevent>
         
@@ -2714,30 +2694,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>103@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-103</pentabarf:event-slug>
-            <pentabarf:title>Shapeshifters &amp; Transformation in Fiction - From Fables to Furry Culture </pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T170000</dtstart>
-            <dtend>20240224T180000</dtend>
-            <duration>1.00000</duration>
-            <summary>Shapeshifters &amp; Transformation in Fiction - From Fables to Furry Culture </summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/103/</url>
-            <location>Mitchell</location>
-            
-            <attendee>Bash the Piñata</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>127@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-127</pentabarf:event-slug>
@@ -2810,30 +2766,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>106@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-106</pentabarf:event-slug>
-            <pentabarf:title>So You Want to be a Con Artist</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T160000</dtstart>
-            <dtend>20240224T170000</dtend>
-            <duration>1.00000</duration>
-            <summary>So You Want to be a Con Artist</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/106/</url>
-            <location>Schlitz</location>
-            
-            <attendee>Bash the Piñata</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>32@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-32</pentabarf:event-slug>
@@ -2879,6 +2811,8 @@
             <attendee>Gazzy</attendee>
             
             <attendee>Konnor Unuki</attendee>
+            
+            <attendee>Jem Staxy</attendee>
             
         </vevent>
         
@@ -3897,9 +3831,7 @@
             <dtend>20240225T150000</dtend>
             <duration>4.03000</duration>
             <summary>Zoo &amp; Con Suite</summary>
-            <description>The Zoo is a space to hang out with friends and meet new ones too! You can find one of the Soapboxes here!
-- - - -
-Located next to the Zoo, The Con Suite invites Sponsor and Super Sponsor attendees to sit, relax and converse in an exclusive space, filled with wondrous treats and the finest (non alcoholic) libations.</description>
+            <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Convention Event</category>
@@ -3909,6 +3841,8 @@ Located next to the Zoo, The Con Suite invites Sponsor and Super Sponsor attende
             <attendee>Gazzy</attendee>
             
             <attendee>Konnor Unuki</attendee>
+            
+            <attendee>Jem Staxy</attendee>
             
         </vevent>
         
