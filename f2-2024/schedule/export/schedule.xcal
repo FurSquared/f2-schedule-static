@@ -1208,32 +1208,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>44@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-44</pentabarf:event-slug>
-            <pentabarf:title>Furs in Leather Meet (18+)</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T220000</dtstart>
-            <dtend>20240223T233000</dtend>
-            <duration>1.03000</duration>
-            <summary>Furs in Leather Meet (18+)</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Meetup</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/44/</url>
-            <location>Mitchell</location>
-            
-            <attendee>AnubianArmani (Sir K-Nyne)</attendee>
-            
-            <attendee>NaughtyAnubis</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>95@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-95</pentabarf:event-slug>
@@ -1241,9 +1215,9 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240223T233000</dtstart>
+            <dtstart>20240223T223000</dtstart>
             <dtend>20240224T003000</dtend>
-            <duration>1.00000</duration>
+            <duration>2.00000</duration>
             <summary>Pet Play 101 (18+)</summary>
             <description></description>
             <class>PUBLIC</class>
