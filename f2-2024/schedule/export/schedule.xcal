@@ -182,30 +182,6 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>154@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-154</pentabarf:event-slug>
-            <pentabarf:title>Tabletop Gaming</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240222T180000</dtstart>
-            <dtend>20240223T020000</dtend>
-            <duration>8.00000</duration>
-            <summary>Tabletop Gaming</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Tabletop</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/154/</url>
-            <location>MacArthur</location>
-            
-            <attendee>FurSquared Staff</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
             <uid>133@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-133</pentabarf:event-slug>
@@ -230,17 +206,41 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>154@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-154</pentabarf:event-slug>
+            <pentabarf:title>Tabletop Gaming</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240222T180000</dtstart>
+            <dtend>20240223T020000</dtend>
+            <duration>8.00000</duration>
+            <summary>Tabletop Gaming</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Tabletop</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/154/</url>
+            <location>MacArthur</location>
+            
+            <attendee>FurSquared Staff</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>110@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-110</pentabarf:event-slug>
-            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:title>Sovereign Eclipse</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240222T220000</dtstart>
             <dtend>20240223T010000</dtend>
             <duration>3.00000</duration>
-            <summary>Soverign Eclipse</summary>
+            <summary>Sovereign Eclipse</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -1653,14 +1653,14 @@
             <uid>159@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-159</pentabarf:event-slug>
-            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:title>Sovereign Eclipse</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240223T220000</dtstart>
             <dtend>20240224T010000</dtend>
             <duration>3.00000</duration>
-            <summary>Soverign Eclipse</summary>
+            <summary>Sovereign Eclipse</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -1909,30 +1909,6 @@
             <location>Walker</location>
             
             <attendee>Chanur</attendee>
-            
-        </vevent>
-        
-        <vevent>
-            <method>PUBLISH</method>
-            <uid>11@@pretalx.fursquared.com</uid>
-            <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-11</pentabarf:event-slug>
-            <pentabarf:title>Aryu&#x27;s Origami How-To</pentabarf:title>
-            <pentabarf:subtitle></pentabarf:subtitle>
-            <pentabarf:language>en</pentabarf:language>
-            <pentabarf:language-code>en</pentabarf:language-code>
-            <dtstart>20240224T153000</dtstart>
-            <dtend>20240224T163000</dtend>
-            <duration>1.00000</duration>
-            <summary>Aryu&#x27;s Origami How-To</summary>
-            <description></description>
-            <class>PUBLIC</class>
-            <status>CONFIRMED</status>
-            <category>Talk</category>
-            <url>https://pretalx.fursquared.com/f2-2024/talk/11/</url>
-            <location>Walker</location>
-            
-            <attendee>AryuOkusta (Aka Aryu)</attendee>
             
         </vevent>
         
@@ -2786,6 +2762,28 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>LKPABP@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-LKPABP</pentabarf:event-slug>
+            <pentabarf:title>Art Jam Space</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240224T110000</dtstart>
+            <dtend>20240224T210000</dtend>
+            <duration>10.00000</duration>
+            <summary>Art Jam Space</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/LKPABP/</url>
+            <location>Schlitz</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>32@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-32</pentabarf:event-slug>
@@ -3057,14 +3055,14 @@
             <uid>160@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-160</pentabarf:event-slug>
-            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:title>Sovereign Eclipse</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240224T220000</dtstart>
             <dtend>20240225T010000</dtend>
             <duration>3.00000</duration>
-            <summary>Soverign Eclipse</summary>
+            <summary>Sovereign Eclipse</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -3816,6 +3814,28 @@
         
         <vevent>
             <method>PUBLISH</method>
+            <uid>M79JAB@@pretalx.fursquared.com</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-M79JAB</pentabarf:event-slug>
+            <pentabarf:title>Art Jam Space</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240225T100000</dtstart>
+            <dtend>20240225T160000</dtend>
+            <duration>6.00000</duration>
+            <summary>Art Jam Space</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Art</category>
+            <url>https://pretalx.fursquared.com/f2-2024/talk/M79JAB/</url>
+            <location>Schlitz</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
             <uid>33@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-33</pentabarf:event-slug>
@@ -4039,14 +4059,14 @@
             <uid>161@@pretalx.fursquared.com</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-161</pentabarf:event-slug>
-            <pentabarf:title>Soverign Eclipse</pentabarf:title>
+            <pentabarf:title>Sovereign Eclipse</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>en</pentabarf:language>
             <pentabarf:language-code>en</pentabarf:language-code>
             <dtstart>20240225T210000</dtstart>
             <dtend>20240226T000000</dtend>
             <duration>3.00000</duration>
-            <summary>Soverign Eclipse</summary>
+            <summary>Sovereign Eclipse</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
